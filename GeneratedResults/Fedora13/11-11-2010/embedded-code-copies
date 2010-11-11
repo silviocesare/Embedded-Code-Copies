@@ -1,0 +1,5327 @@
+---BEGIN
+389-adminutil
+	- 389-admin 1.1.11-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- 389-ds-base <unknown> (embed)
+	- 389-dsgw 1.1.5-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+CGAL
+	- bouml <unknown> (embed)
+	- qt3 <unknown> (embed)
+
+ClanLib06
+	- ClanLib1 <unknown> (embed)
+
+DeviceKit-power
+	- PackageKit <unknown> (embed)
+	- upower 0.9.5-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+Glide3-libGL
+	- Inventor <unknown> (embed)
+	- k3d <unknown> (embed)
+	- mesa <unknown> (embed)
+	- mesa-libGLw <unknown> (embed)
+	- nx <unknown> (embed)
+	- xorg-x11-server <unknown> (embed)
+	- xwnc <unknown> (embed)
+
+LabPlot
+	- kdebindings <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+	- koffice-kivio <unknown> (embed)
+	- rekall <unknown> (embed)
+
+LibRaw
+	- OpenGTL <unknown> (embed)
+	- kdegraphics <unknown> (embed)
+
+OpenEXR
+	- freeimage <unknown> (embed)
+	- opencv <unknown> (embed)
+
+OpenGTL
+	- kdegraphics <unknown> (embed)
+	- koffice <unknown> (embed)
+
+OpenSceneGraph
+	- OpenGTL <unknown> (embed)
+	- mingw32-OpenSceneGraph <unknown> (embed)
+
+PyKDE
+	- kdebindings <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+
+PyQt
+	- PyQt4 <unknown> (embed)
+	- qt3 <unknown> (embed)
+
+R-bigmemory
+	- TnL <unknown> (embed)
+	- boost <unknown> (embed)
+	- fityk <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+	- kicad <unknown> (embed)
+	- libkml <unknown> (embed)
+	- libsmbios <unknown> (embed)
+	- lyx <unknown> (embed)
+	- merkaartor <unknown> (embed)
+	- mingw32-boost <unknown> (embed)
+	- vegastrike <unknown> (embed)
+	- yadex <unknown> (embed)
+
+SevenZip
+	- CriticalMass <unknown> (embed)
+	- afflib <unknown> (embed)
+	- firefox <unknown> (embed)
+	- lrzip <unknown> (embed)
+	- p7zip <unknown> (embed)
+	- seamonkey <unknown> (embed)
+	- spring-installer <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- upx <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+TnL-data
+	- cegui <unknown> (embed)
+	- ember <unknown> (embed)
+	- ogre <unknown> (embed)
+
+Xaw3d
+	- libXaw <unknown> (embed)
+	- neXtaw <unknown> (embed)
+	- nx <unknown> (embed)
+	- xpaint 2.9.2-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+adime
+	- allegro <unknown> (embed)
+	- raidem 0.3.1-11.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+afflib
+	- apbs <unknown> (embed)
+	- hct <unknown> (embed)
+	- mingw32-nsis <unknown> (embed)
+	- p7zip <unknown> (embed)
+	- texlive <unknown> (embed)
+
+agg
+	- mapnik 0.7.1-6.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mapserver <unknown> (embed)
+	- python-matplotlib <unknown> (embed)
+
+akonadi
+	- kdelibs <unknown> (embed)
+	- phonon <unknown> (embed)
+
+alleggl
+	- armadillo <unknown> (embed)
+	- crystalspace <unknown> (embed)
+	- jpcap <unknown> (embed)
+	- libkate <unknown> (embed)
+	- libofx <unknown> (embed)
+	- log4cxx <unknown> (embed)
+	- pam_pkcs11 <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- rpm <unknown> (embed)
+	- scim <unknown> (embed)
+	- skyviewer <unknown> (embed)
+	- stk <unknown> (embed)
+	- tinyows <unknown> (embed)
+
+amarok
+	- kdebase-runtime <unknown> (embed)
+	- kdebase-workspace <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- kdenetwork <unknown> (embed)
+
+ann
+	- hugin <unknown> (embed)
+	- mrpt <unknown> (embed)
+
+ant
+	- eclipse <unknown> (embed)
+	- lucene <unknown> (embed)
+
+antlr
+	- boo <unknown> (embed)
+	- frysk <unknown> (embed)
+	- fwbuilder <unknown> (embed)
+	- gdl <unknown> (embed)
+	- kdesdk <unknown> (embed)
+	- netbeans <unknown> (embed)
+
+apache-commons-compress
+	- ant <unknown> (embed)
+	- jakarta-commons-compress <unknown> (embed)
+
+appframework
+	- java-1.6.0-openjdk <unknown> (embed)
+	- netbeans <unknown> (embed)
+
+apr-util
+	- apr <unknown> (embed)
+	- httpd 2.2.16-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- tomcat-native <unknown> (embed)
+	- tomcat5 <unknown> (embed)
+
+arm-gp2x-linux-gcc
+	- arm-gp2x-linux-binutils <unknown> (embed)
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-binutils <unknown> (embed)
+	- avr-gcc <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- binutils <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- compat-libgfortran-41 <unknown> (embed)
+	- dietlibc <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gccxml <unknown> (embed)
+	- gdb <unknown> (embed)
+	- ghdl <unknown> (embed)
+	- insight <unknown> (embed)
+	- mingw32-binutils <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- mono-debugger <unknown> (embed)
+	- msp430-binutils <unknown> (embed)
+	- msp430-gcc <unknown> (embed)
+	- nesc <unknown> (embed)
+	- sdcc <unknown> (embed)
+	- spu-binutils <unknown> (embed)
+	- wine <unknown> (embed)
+	- xen <unknown> (embed)
+
+arm-gp2x-linux-glibc
+	- R <unknown> (embed)
+	- a2ps <unknown> (embed)
+	- avr-libc <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- cvs <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- dev86 <unknown> (embed)
+	- dhcp <unknown> (embed)
+	- dietlibc <unknown> (embed)
+	- glibc <unknown> (embed)
+	- glusterfs <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- kBuild <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+	- kernel <unknown> (embed)
+	- lcgdm <unknown> (embed)
+	- libbind <unknown> (embed)
+	- libprelude <unknown> (embed)
+	- libwvstreams <unknown> (embed)
+	- nss_db <unknown> (embed)
+	- ogdi <unknown> (embed)
+	- player <unknown> (embed)
+	- rpm <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- texlive <unknown> (embed)
+	- tzdata <unknown> (embed)
+	- wine <unknown> (embed)
+	- xen <unknown> (embed)
+
+arm-gp2x-linux-glibc
+	- busybox <unknown> (embed)
+	- uClibc <unknown> (embed)
+
+arm-gp2x-linux-kernel-headers
+	- alsa-lib <unknown> (embed)
+	- busybox <unknown> (embed)
+	- dietlibc <unknown> (embed)
+	- iproute <unknown> (embed)
+	- iptables <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- libnl <unknown> (embed)
+	- openbios <unknown> (embed)
+	- uboot-tools <unknown> (embed)
+	- xen <unknown> (embed)
+
+arm-gp2x-linux-zlib
+	- afflib <unknown> (embed)
+	- armstrong <unknown> (embed)
+	- avr-gcc <unknown> (embed)
+	- bolzplatz2006 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- cvs <unknown> (embed)
+	- deltarpm <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- funtools <unknown> (embed)
+	- gcc <unknown> (embed)
+	- globalplatform <unknown> (embed)
+	- google-gadgets <unknown> (embed)
+	- grid-packaging-tools <unknown> (embed)
+	- httrack <unknown> (embed)
+	- libkml <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- mingw32-zlib <unknown> (embed)
+	- optipng <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- qt <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- samba <unknown> (embed)
+	- samba4 <unknown> (embed)
+	- tcl-zlib <unknown> (embed)
+	- teckit <unknown> (embed)
+	- texlive <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- virtuoso-opensource <unknown> (embed)
+	- xen <unknown> (embed)
+	- zlib <unknown> (embed)
+
+armstrong
+	- ardour <unknown> (embed)
+	- audacity <unknown> (embed)
+	- lmms <unknown> (embed)
+
+arpack
+	- ncl <unknown> (embed)
+	- octave 3.2.4-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- scipy <unknown> (embed)
+
+arpwatch
+	- bind <unknown> (embed)
+	- nessus-libraries <unknown> (embed)
+	- tcpdump <unknown> (embed)
+
+asm2
+	- clojure <unknown> (embed)
+	- objectweb-asm <unknown> (embed)
+
+asterisk-sounds-core
+	- sems <unknown> (embed)
+
+asterisk-sounds-core
+	- svxlink <unknown> (embed)
+
+aterm
+	- mrxvt <unknown> (embed)
+	- rxvt <unknown> (embed)
+
+attr
+	- acl <unknown> (embed)
+	- xfsdump 3.0.4-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- xfsprogs <unknown> (embed)
+
+aumix
+	- ORBit <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- lrzsz <unknown> (embed)
+
+automake14
+	- a2ps <unknown> (embed)
+	- automake15 <unknown> (embed)
+
+automake15
+
+automake16
+	- automake <unknown> (embed)
+	- automake15 <unknown> (embed)
+	- automake17 <unknown> (embed)
+	- dasher <unknown> (embed)
+
+avogadro
+	- kdeedu <unknown> (embed)
+	- oxygen-icon-theme <unknown> (embed)
+
+avr-gcc
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- cvs <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gdb <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gnu-smalltalk <unknown> (embed)
+	- insight <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- samba <unknown> (embed)
+	- samba4 <unknown> (embed)
+	- texlive <unknown> (embed)
+
+avr-gdb
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-binutils <unknown> (embed)
+	- bash <unknown> (embed)
+	- busybox <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- cpio <unknown> (embed)
+	- crash <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- dejagnu <unknown> (embed)
+	- emacs <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gdb <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gnu-smalltalk <unknown> (embed)
+	- insight <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- mono-debugger <unknown> (embed)
+	- msp430-binutils <unknown> (embed)
+	- msp430-gcc <unknown> (embed)
+	- mysql <unknown> (embed)
+	- qemu <unknown> (embed)
+	- sharutils <unknown> (embed)
+	- tar <unknown> (embed)
+	- texlive <unknown> (embed)
+	- uboot-tools <unknown> (embed)
+	- wine <unknown> (embed)
+	- xemacs <unknown> (embed)
+	- xen <unknown> (embed)
+
+bacula
+	- apcupsd <unknown> (embed)
+	- bacula2 <unknown> (embed)
+	- gitweb-caching <unknown> (embed)
+	- gnome-libs <unknown> (embed)
+	- grisbi <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- libglade <unknown> (embed)
+	- shutter <unknown> (embed)
+	- tango-icon-theme <unknown> (embed)
+
+bacula
+	- GMT <unknown> (embed)
+	- cudd <unknown> (embed)
+	- ifm <unknown> (embed)
+	- python-polybori <unknown> (embed)
+	- tachyon <unknown> (embed)
+
+banshee-community-extensions
+	- banshee <unknown> (embed)
+	- f-spot <unknown> (embed)
+
+bareftp
+	- banshee <unknown> (embed)
+	- gnome-do <unknown> (embed)
+	- gnome-do-plugins <unknown> (embed)
+
+bash
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- busybox <unknown> (embed)
+
+basket
+	- kdepim3 <unknown> (embed)
+	- koffice-kivio <unknown> (embed)
+	- taskjuggler <unknown> (embed)
+
+bigloo
+	- postfix <unknown> (embed)
+
+bit
+	- cegui <unknown> (embed)
+	- conexus <unknown> (embed)
+	- frepple <unknown> (embed)
+	- gstreamermm <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- ogre <unknown> (embed)
+	- papyrus <unknown> (embed)
+
+bitmap-fonts
+	- fonts-ISO8859-2 <unknown> (embed)
+	- ucs-miscfixed-fonts <unknown> (embed)
+	- xorg-x11-fonts <unknown> (embed)
+
+bitstream-vera-fonts
+	- enlightenment <unknown> (embed)
+	- k3d <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- ncl <unknown> (embed)
+	- nx <unknown> (embed)
+	- php-ZendFramework <unknown> (embed)
+	- python-matplotlib <unknown> (embed)
+	- qt <unknown> (embed)
+
+blender
+	- k3d <unknown> (embed)
+	- root <unknown> (embed)
+
+blobby
+	- cegui <unknown> (embed)
+	- enigma <unknown> (embed)
+	- freeciv <unknown> (embed)
+
+boost
+	- SimGear <unknown> (embed)
+	- asio <unknown> (embed)
+	- cas <unknown> (embed)
+	- crystalspace <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+	- mingw32-boost <unknown> (embed)
+	- python-simpy <unknown> (embed)
+	- python-sphinx <unknown> (embed)
+	- rb_libtorrent <unknown> (embed)
+	- vegastrike <unknown> (embed)
+
+btanks
+	- scummvm <unknown> (embed)
+	- wormux <unknown> (embed)
+
+bullet
+	- blender <unknown> (embed)
+	- cel <unknown> (embed)
+	- crystalspace <unknown> (embed)
+	- supertuxkart <unknown> (embed)
+	- vdrift <unknown> (embed)
+
+busybox
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- dietlibc <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- krb5 <unknown> (embed)
+	- libtirpc <unknown> (embed)
+	- nfs-utils-lib <unknown> (embed)
+	- uClibc <unknown> (embed)
+	- xen <unknown> (embed)
+
+bwidget
+	- amsn 0.98.3-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- grass <unknown> (embed)
+
+bzip2
+	- R <unknown> (embed)
+	- codeblocks <unknown> (embed)
+	- gtkwave <unknown> (embed)
+	- mingw32-bzip2 <unknown> (embed)
+	- pards <unknown> (embed)
+	- perl <unknown> (embed)
+	- perl-Compress-Bzip2 <unknown> (embed)
+	- texlive <unknown> (embed)
+	- vrq <unknown> (embed)
+	- xmoto <unknown> (embed)
+
+bzr-explorer
+	- abby <unknown> (embed)
+	- batik <unknown> (embed)
+	- cppcheck <unknown> (embed)
+	- fontmatrix <unknown> (embed)
+	- gambas2 <unknown> (embed)
+	- gmpc <unknown> (embed)
+	- gnome-colors-icon-theme <unknown> (embed)
+	- gnome-icon-theme <unknown> (embed)
+	- gstreamer-java <unknown> (embed)
+	- merkaartor <unknown> (embed)
+	- picard <unknown> (embed)
+	- qbzr <unknown> (embed)
+	- scribus <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sqliteman <unknown> (embed)
+	- tango-icon-theme <unknown> (embed)
+	- texworks <unknown> (embed)
+	- upnp-inspector <unknown> (embed)
+	- xinha <unknown> (embed)
+
+cabextract
+	- libmspack <unknown> (embed)
+	- purple-msn-pecan <unknown> (embed)
+
+cacti
+	- gallery2 <unknown> (embed)
+	- mantis <unknown> (embed)
+	- phpPgAdmin <unknown> (embed)
+	- pnp4nagios <unknown> (embed)
+	- zikula <unknown> (embed)
+
+cadaver
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- cone <unknown> (embed)
+	- ebview <unknown> (embed)
+	- freedink <unknown> (embed)
+	- gentoo <unknown> (embed)
+	- gettext <unknown> (embed)
+	- gftp <unknown> (embed)
+	- gnome-vfs2 <unknown> (embed)
+	- grisbi <unknown> (embed)
+	- libnih <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- neon <unknown> (embed)
+	- ochusha <unknown> (embed)
+	- ogdi <unknown> (embed)
+	- roxterm <unknown> (embed)
+	- sharutils <unknown> (embed)
+	- sitecopy <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- texlive <unknown> (embed)
+	- tla <unknown> (embed)
+	- ultimatestunts <unknown> (embed)
+	- upstart <unknown> (embed)
+	- yapet <unknown> (embed)
+
+cairo
+	- librsvg2 2.26.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mingw32-cairo <unknown> (embed)
+
+cas
+	- ipython <unknown> (embed)
+	- python-simpy <unknown> (embed)
+	- python-sphinx <unknown> (embed)
+
+catdoc
+	- antiword <unknown> (embed)
+	- fpc <unknown> (embed)
+	- syslinux <unknown> (embed)
+
+cdrdao
+	- cdrkit <unknown> (embed)
+	- star <unknown> (embed)
+
+cel
+	- crystalspace <unknown> (embed)
+	- mysql++ <unknown> (embed)
+	- skyviewer <unknown> (embed)
+	- texlive <unknown> (embed)
+
+cflow
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- cpio <unknown> (embed)
+	- gdb <unknown> (embed)
+	- glibc <unknown> (embed)
+	- libwvstreams <unknown> (embed)
+	- tar <unknown> (embed)
+	- xen <unknown> (embed)
+
+cgit
+	- git <unknown> (embed)
+	- gitweb-caching <unknown> (embed)
+	- kernel <unknown> (embed)
+
+chess
+	- TnL-data <unknown> (embed)
+	- cegui <unknown> (embed)
+
+cinepaint
+	- dia <unknown> (embed)
+	- gimp <unknown> (embed)
+	- koffice-kivio <unknown> (embed)
+
+cinepaint
+	- icc_examin <unknown> (embed)
+	- oyranos <unknown> (embed)
+
+clamtk
+	- gallery2 <unknown> (embed)
+	- poedit <unknown> (embed)
+	- recode <unknown> (embed)
+
+clementine
+	- avogadro <unknown> (embed)
+	- oxygen-icon-theme <unknown> (embed)
+	- vidalia <unknown> (embed)
+
+clipsmm
+	- conexus <unknown> (embed)
+	- dbus-cxx <unknown> (embed)
+	- papyrus <unknown> (embed)
+
+cluster-glue
+	- heartbeat 3.0.0-0.7.0daab7da36a8.hg.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- pacemaker 1.1.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+clutter-sharp
+	- f-spot 0.6.2-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- gtk-sharp2 <unknown> (embed)
+
+cmucl
+	- clisp <unknown> (embed)
+	- ecl <unknown> (embed)
+	- perl <unknown> (embed)
+	- texlive <unknown> (embed)
+
+cnucnu
+	- compizconfig-backend-kconfig <unknown> (embed)
+	- emacs-rinari <unknown> (embed)
+	- fedora-easy-karma <unknown> (embed)
+	- gxmms2 <unknown> (embed)
+	- maven-scm <unknown> (embed)
+	- mingw32-wpcap <unknown> (embed)
+	- ohm <unknown> (embed)
+	- perl-MooseX-Daemonize <unknown> (embed)
+	- piranha <unknown> (embed)
+	- sugar-connect <unknown> (embed)
+	- sugar-distance <unknown> (embed)
+	- system-config-display <unknown> (embed)
+	- xinha <unknown> (embed)
+	- xorg-x11-drv-siliconmotion <unknown> (embed)
+
+comoonics-cdsl-py
+	- comoonics-base-py <unknown> (embed)
+	- comoonics-cluster-py <unknown> (embed)
+
+compat-db
+	- db4 <unknown> (embed)
+	- htdig <unknown> (embed)
+	- nss_db <unknown> (embed)
+	- openldap <unknown> (embed)
+	- perl <unknown> (embed)
+
+compat-db
+	- wfut <unknown> (embed)
+
+compat-expat1
+	- EMBOSS <unknown> (embed)
+	- PyXML <unknown> (embed)
+	- SimGear <unknown> (embed)
+	- afflib <unknown> (embed)
+	- apr-util <unknown> (embed)
+	- ayttm <unknown> (embed)
+	- cadaver <unknown> (embed)
+	- centerim <unknown> (embed)
+	- cmake <unknown> (embed)
+	- firefox <unknown> (embed)
+	- httpd <unknown> (embed)
+	- libtlen <unknown> (embed)
+	- libwbxml <unknown> (embed)
+	- mcabber <unknown> (embed)
+	- netcdf <unknown> (embed)
+	- nx <unknown> (embed)
+	- ogdi <unknown> (embed)
+	- paraview <unknown> (embed)
+	- poco <unknown> (embed)
+	- python <unknown> (embed)
+	- python-4Suite-XML <unknown> (embed)
+	- python-docs <unknown> (embed)
+	- python3 <unknown> (embed)
+	- seamonkey <unknown> (embed)
+	- sitecopy <unknown> (embed)
+	- smart <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- syncevolution <unknown> (embed)
+	- teckit <unknown> (embed)
+	- texlive <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- tla <unknown> (embed)
+	- udunits2 <unknown> (embed)
+	- vtk <unknown> (embed)
+	- w3c-libwww <unknown> (embed)
+	- wbxml2 <unknown> (embed)
+	- whatsup <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+	- xmlrpc-c <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+compat-gcc-296
+	- compat-gcc-32 <unknown> (embed)
+	- digikam <unknown> (embed)
+
+compat-gcc-296
+	- arm-gp2x-linux-gcc <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- gcc <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- msp430-gcc <unknown> (embed)
+
+compat-gcc-32
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- compat-erlang <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- cvs <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- gnupg <unknown> (embed)
+	- grid-packaging-tools <unknown> (embed)
+	- id3lib <unknown> (embed)
+	- insight <unknown> (embed)
+	- nx <unknown> (embed)
+	- ogdi <unknown> (embed)
+	- psi <unknown> (embed)
+	- sword <unknown> (embed)
+	- texlive <unknown> (embed)
+	- tigervnc <unknown> (embed)
+
+compat-gcc-34
+	- arm-gp2x-linux-gcc <unknown> (embed)
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-binutils <unknown> (embed)
+	- avr-gcc <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- boost <unknown> (embed)
+	- busybox <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- cvs <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- ecl <unknown> (embed)
+	- flite <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gccxml <unknown> (embed)
+	- gdb <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gnu-smalltalk <unknown> (embed)
+	- insight <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- jtidy <unknown> (embed)
+	- llvm <unknown> (embed)
+	- mingw32-boost <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- mono <unknown> (embed)
+	- mono-debugger <unknown> (embed)
+	- msp430-binutils <unknown> (embed)
+	- pdftk <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- samba <unknown> (embed)
+	- samba4 <unknown> (embed)
+	- sdcc <unknown> (embed)
+	- squeak-vm <unknown> (embed)
+	- texlive <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- uClibc <unknown> (embed)
+	- virtuoso-opensource <unknown> (embed)
+	- wine <unknown> (embed)
+	- xen <unknown> (embed)
+	- xml-commons-apis <unknown> (embed)
+	- xml-commons-apis12 <unknown> (embed)
+
+compat-readline5
+	- avr-gdb <unknown> (embed)
+	- bash <unknown> (embed)
+	- gdb <unknown> (embed)
+	- insight <unknown> (embed)
+	- mingw32-readline <unknown> (embed)
+	- mysql <unknown> (embed)
+	- readline <unknown> (embed)
+
+compizconfig-backend-kconfig
+	- k3guitune <unknown> (embed)
+	- kbibtex <unknown> (embed)
+	- kcemirror <unknown> (embed)
+	- kerry <unknown> (embed)
+	- kflickr <unknown> (embed)
+	- kftpgrabber <unknown> (embed)
+	- klamav <unknown> (embed)
+	- kmymoney2-aqbanking <unknown> (embed)
+	- knetstats <unknown> (embed)
+	- krecipes <unknown> (embed)
+	- kshutdown <unknown> (embed)
+	- kst <unknown> (embed)
+	- libkexif <unknown> (embed)
+	- pikloops <unknown> (embed)
+	- polyester3 <unknown> (embed)
+	- qalculate-kde <unknown> (embed)
+	- six <unknown> (embed)
+
+cpio
+	- a2ps <unknown> (embed)
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-binutils <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- bison <unknown> (embed)
+	- cflow <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- dcfldd <unknown> (embed)
+	- diffutils <unknown> (embed)
+	- findutils <unknown> (embed)
+	- freedink <unknown> (embed)
+	- gdb <unknown> (embed)
+	- gettext <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gmediaserver <unknown> (embed)
+	- gnutls <unknown> (embed)
+	- libguestfs <unknown> (embed)
+	- libidn <unknown> (embed)
+	- libprelude <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- mpop <unknown> (embed)
+	- msmtp <unknown> (embed)
+	- prelude-lml <unknown> (embed)
+	- pspp <unknown> (embed)
+	- renameutils <unknown> (embed)
+	- sed <unknown> (embed)
+	- sharutils <unknown> (embed)
+	- tar <unknown> (embed)
+	- zile <unknown> (embed)
+
+cppunit
+	- mingw32-cppunit <unknown> (embed)
+	- rekall <unknown> (embed)
+
+crystal-clear
+	- crystal-project <unknown> (embed)
+	- kdeartwork <unknown> (embed)
+	- oxygen-icon-theme <unknown> (embed)
+	- sK1 <unknown> (embed)
+
+ctags
+	- anjuta 2.30.2.1-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- geany <unknown> (embed)
+	- monkeystudio <unknown> (embed)
+
+ctdb
+	- distcc <unknown> (embed)
+	- pilot-link <unknown> (embed)
+	- popt <unknown> (embed)
+	- rsync <unknown> (embed)
+	- samba <unknown> (embed)
+
+cudd
+	- fpc <unknown> (embed)
+	- healpix <unknown> (embed)
+	- latex2html <unknown> (embed)
+	- python-polybori 0.5-7.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+cvs
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- grid-packaging-tools <unknown> (embed)
+	- nx <unknown> (embed)
+	- ogdi <unknown> (embed)
+	- texlive <unknown> (embed)
+	- tigervnc <unknown> (embed)
+
+cxxtest
+	- inkscape <unknown> (embed)
+	- scummvm <unknown> (embed)
+
+dahdi-tools
+	- zaptel <unknown> (embed)
+
+dahdi-tools
+	- asterisk <unknown> (embed)
+	- lmms <unknown> (embed)
+	- mxml <unknown> (embed)
+
+dalston
+	- gnome-media <unknown> (embed)
+	- gnome-settings-daemon <unknown> (embed)
+
+dap-netcdf_handler
+	- bes <unknown> (embed)
+	- dap-freeform_handler <unknown> (embed)
+	- dap-hdf4_handler <unknown> (embed)
+	- dap-server <unknown> (embed)
+	- libdap <unknown> (embed)
+	- libnc-dap <unknown> (embed)
+
+db4
+	- compat-db <unknown> (embed)
+	- gcc <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- openldap <unknown> (embed)
+
+db4
+	- asterisk <unknown> (embed)
+	- global <unknown> (embed)
+	- gnome-libs <unknown> (embed)
+	- krb5 <unknown> (embed)
+	- libbind <unknown> (embed)
+	- xen <unknown> (embed)
+
+dc3dd
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- gnu-smalltalk <unknown> (embed)
+	- kBuild <unknown> (embed)
+	- texlive <unknown> (embed)
+
+desktop-backgrounds
+	- kdebase-workspace <unknown> (embed)
+	- kdebase3 <unknown> (embed)
+
+dhcp
+	- bind <unknown> (embed)
+	- libbind <unknown> (embed)
+
+diffutils
+	- cvs <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- texlive <unknown> (embed)
+
+digikam
+	- kdegraphics <unknown> (embed)
+	- kipi-plugins <unknown> (embed)
+
+dirmngr
+	- gnupg2 <unknown> (embed)
+	- gpa <unknown> (embed)
+
+docbook-dtds
+	- diveintopython <unknown> (embed)
+	- gcc <unknown> (embed)
+	- kdelibs 4.5.2-8.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- kdelibs3 <unknown> (embed)
+	- libxslt <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- mingw32-libxslt <unknown> (embed)
+	- subversion <unknown> (embed)
+	- virtuoso-opensource <unknown> (embed)
+
+docbook-dtds
+	- fvwm <unknown> (embed)
+
+docbook-style-xsl
+	- amavisd-new <unknown> (embed)
+	- asciidoc 8.4.5-4.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- bcel <unknown> (embed)
+	- boost <unknown> (embed)
+	- csound <unknown> (embed)
+	- dblatex <unknown> (embed)
+	- diveintopython <unknown> (embed)
+	- docbook-slides 3.4.0-7.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- docbook2X <unknown> (embed)
+	- docbook5-style-xsl <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- eclipse-phpeclipse <unknown> (embed)
+	- freemarker <unknown> (embed)
+	- freetds <unknown> (embed)
+	- fvwm <unknown> (embed)
+	- gnucash-docs <unknown> (embed)
+	- kdelibs 4.5.2-8.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- kdelibs3 <unknown> (embed)
+	- libxml2 <unknown> (embed)
+	- libxslt <unknown> (embed)
+	- mingw32-boost <unknown> (embed)
+	- mingw32-libxml2 <unknown> (embed)
+	- mingw32-libxslt <unknown> (embed)
+	- pida <unknown> (embed)
+	- tcl-tclxml <unknown> (embed)
+	- virtuoso-opensource <unknown> (embed)
+	- xmlstarlet <unknown> (embed)
+
+dogtag-pki-common-ui
+	- dogtag-pki-ra-ui <unknown> (embed)
+	- dogtag-pki-tps-ui <unknown> (embed)
+
+dogtag-pki-tks-ui
+	- dogtag-pki-ca-ui <unknown> (embed)
+	- dogtag-pki-kra-ui <unknown> (embed)
+	- dogtag-pki-ocsp-ui <unknown> (embed)
+
+dom4j
+	- cpptasks <unknown> (embed)
+	- jaxen-bootstrap <unknown> (embed)
+	- jdom <unknown> (embed)
+	- log4cxx <unknown> (embed)
+	- maven2 2.0.8-3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+dopewars
+	- ekg2 <unknown> (embed)
+	- zaf <unknown> (embed)
+
+drehatlas-warender-bibliothek-fonts
+	- drehatlas-widelands-fonts <unknown> (embed)
+	- drehatlas-xaporho-fonts <unknown> (embed)
+
+ds9
+	- amsn <unknown> (embed)
+	- grass <unknown> (embed)
+	- insight <unknown> (embed)
+	- kernel <unknown> (embed)
+	- ocaml-lablgl <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- texlive <unknown> (embed)
+
+dvipdfmx
+	- dvipdfm <unknown> (embed)
+	- texlive <unknown> (embed)
+	- xdvipdfmx 0.4-5.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+e2fsprogs
+	- busybox <unknown> (embed)
+	- gmediaserver <unknown> (embed)
+	- ocfs2-tools 1.4.3-5.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- util-linux-ng <unknown> (embed)
+
+ebtables
+	- arm-gp2x-linux-kernel-headers <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+
+ebview
+	- R <unknown> (embed)
+	- grisbi <unknown> (embed)
+
+ecj
+	- eclipse <unknown> (embed)
+	- eclipse-dltk <unknown> (embed)
+	- eclipse-phpeclipse <unknown> (embed)
+
+eclipse-callgraph
+	- eclipse <unknown> (embed)
+	- eclipse-cdt <unknown> (embed)
+	- eclipse-dtp <unknown> (embed)
+	- eclipse-mylyn <unknown> (embed)
+	- eclipse-rpm-editor <unknown> (embed)
+	- eclipse-rse <unknown> (embed)
+	- eclipse-valgrind <unknown> (embed)
+
+eclipse-cdt
+	- eclipse <unknown> (embed)
+	- eclipse-dltk <unknown> (embed)
+	- eclipse-mylyn <unknown> (embed)
+	- eclipse-phpeclipse <unknown> (embed)
+	- eclipse-rpm-editor <unknown> (embed)
+	- eclipse-rse <unknown> (embed)
+	- eclipse-valgrind 0.4.1-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+eclipse-changelog
+	- eclipse <unknown> (embed)
+	- eclipse-cdt <unknown> (embed)
+	- eclipse-mylyn <unknown> (embed)
+	- eclipse-oprofile <unknown> (embed)
+	- eclipse-rpm-editor 0.5.0-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- eclipse-valgrind <unknown> (embed)
+
+eclipse-dltk
+	- eclipse <unknown> (embed)
+	- eclipse-birt <unknown> (embed)
+	- eclipse-cdt <unknown> (embed)
+	- eclipse-dtp <unknown> (embed)
+	- eclipse-egit <unknown> (embed)
+	- eclipse-emf <unknown> (embed)
+	- eclipse-m2m-qvtoml <unknown> (embed)
+	- eclipse-mylyn <unknown> (embed)
+	- eclipse-phpeclipse <unknown> (embed)
+	- eclipse-pydev <unknown> (embed)
+	- eclipse-rse <unknown> (embed)
+	- eclipse-slide <unknown> (embed)
+	- netbeans <unknown> (embed)
+
+eclipse-egit
+	- eclipse <unknown> (embed)
+	- eclipse-jgit <unknown> (embed)
+	- eclipse-rse <unknown> (embed)
+
+eclipse-emf-query
+	- eclipse <unknown> (embed)
+	- eclipse-birt <unknown> (embed)
+	- eclipse-cdt <unknown> (embed)
+	- eclipse-dltk <unknown> (embed)
+	- eclipse-dtp <unknown> (embed)
+	- eclipse-emf <unknown> (embed)
+	- eclipse-emf-transaction 1.3.1-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- eclipse-emf-validation <unknown> (embed)
+	- eclipse-gef <unknown> (embed)
+	- eclipse-m2m-qvtoml <unknown> (embed)
+	- eclipse-mdt-ocl <unknown> (embed)
+	- eclipse-mdt-uml2 <unknown> (embed)
+	- eclipse-mylyn <unknown> (embed)
+	- eclipse-photran <unknown> (embed)
+	- eclipse-rpm-editor <unknown> (embed)
+	- eclipse-rse <unknown> (embed)
+	- eclipse-testframework <unknown> (embed)
+
+eclipse-emf-transaction
+	- eclipse <unknown> (embed)
+	- eclipse-callgraph <unknown> (embed)
+	- eclipse-cdt <unknown> (embed)
+	- eclipse-dtp <unknown> (embed)
+	- eclipse-mylyn <unknown> (embed)
+	- eclipse-rse <unknown> (embed)
+
+eclipse-linuxprofilingframework
+	- eclipse-rpm-editor <unknown> (embed)
+	- eclipse-rse <unknown> (embed)
+	- eclipse-valgrind 0.4.1-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+eclipse-phpeclipse
+	- eclipse <unknown> (embed)
+	- eclipse-cdt <unknown> (embed)
+	- eclipse-epic <unknown> (embed)
+
+eclipse-systemtapgui
+	- eclipse <unknown> (embed)
+	- eclipse-birt <unknown> (embed)
+	- eclipse-cdt <unknown> (embed)
+	- eclipse-mylyn <unknown> (embed)
+
+eclipse-valgrind
+	- eclipse <unknown> (embed)
+	- eclipse-cdt <unknown> (embed)
+	- eclipse-oprofile <unknown> (embed)
+	- eclipse-rpm-editor <unknown> (embed)
+	- eclipse-rse <unknown> (embed)
+
+emacs-rinari
+	- netbeans <unknown> (embed)
+	- ovirt-server <unknown> (embed)
+	- ruby-openid <unknown> (embed)
+
+embryo
+	- ecore <unknown> (embed)
+	- edje 0.9.9.050-7.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- eet <unknown> (embed)
+	- efreet <unknown> (embed)
+	- evas <unknown> (embed)
+
+enblend
+	- hugin <unknown> (embed)
+	- vigra <unknown> (embed)
+
+epiphany
+	- eog <unknown> (embed)
+	- evince <unknown> (embed)
+	- evolution <unknown> (embed)
+	- gedit <unknown> (embed)
+	- gnome-games <unknown> (embed)
+	- gnome-panel <unknown> (embed)
+	- gnome-utils <unknown> (embed)
+	- gthumb <unknown> (embed)
+	- nautilus <unknown> (embed)
+	- rhythmbox <unknown> (embed)
+	- seahorse <unknown> (embed)
+	- totem <unknown> (embed)
+
+erlang
+	- EMBOSS <unknown> (embed)
+	- compat-erlang <unknown> (embed)
+	- cscope <unknown> (embed)
+	- hsqldb <unknown> (embed)
+	- htdig <unknown> (embed)
+	- httpd <unknown> (embed)
+	- nmap <unknown> (embed)
+	- pcre <unknown> (embed)
+	- perl-Ace <unknown> (embed)
+	- php <unknown> (embed)
+	- poco <unknown> (embed)
+	- tin <unknown> (embed)
+	- wireshark <unknown> (embed)
+
+erlang-eradius
+	- freeradius <unknown> (embed)
+	- wireshark <unknown> (embed)
+
+esorex
+	- collectd <unknown> (embed)
+	- gnash <unknown> (embed)
+	- graphviz <unknown> (embed)
+	- hamlib <unknown> (embed)
+	- libprelude <unknown> (embed)
+	- proftpd <unknown> (embed)
+	- redland <unknown> (embed)
+	- squid <unknown> (embed)
+	- synfig <unknown> (embed)
+
+exempi
+	- exiv2 <unknown> (embed)
+	- kipi-plugins <unknown> (embed)
+
+extremetuxracer
+	- blender <unknown> (embed)
+	- root <unknown> (embed)
+
+febootstrap
+	- ale <unknown> (embed)
+	- amanda <unknown> (embed)
+	- augeas <unknown> (embed)
+	- bison <unknown> (embed)
+	- cflow <unknown> (embed)
+	- cpio <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- findutils <unknown> (embed)
+	- freedink <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gettext <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gmediaserver <unknown> (embed)
+	- gnutls <unknown> (embed)
+	- gtk-vnc <unknown> (embed)
+	- gv <unknown> (embed)
+	- gzip <unknown> (embed)
+	- hello <unknown> (embed)
+	- hivex <unknown> (embed)
+	- icoutils <unknown> (embed)
+	- libgsasl <unknown> (embed)
+	- libguestfs 1.4.3-3.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- libidn <unknown> (embed)
+	- libntlm <unknown> (embed)
+	- libprelude <unknown> (embed)
+	- libpreludedb <unknown> (embed)
+	- libtasn1 <unknown> (embed)
+	- libunistring <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- mingw32-gnutls <unknown> (embed)
+	- mingw32-gtk-vnc <unknown> (embed)
+	- mingw32-iconv <unknown> (embed)
+	- mingw32-libidn <unknown> (embed)
+	- mpop <unknown> (embed)
+	- msmtp <unknown> (embed)
+	- nagios-plugins <unknown> (embed)
+	- netcf <unknown> (embed)
+	- paperkey <unknown> (embed)
+	- prelude-lml <unknown> (embed)
+	- prelude-manager <unknown> (embed)
+	- pspp <unknown> (embed)
+	- renameutils <unknown> (embed)
+	- sed <unknown> (embed)
+	- sharutils <unknown> (embed)
+	- source-highlight <unknown> (embed)
+	- tar <unknown> (embed)
+	- wget <unknown> (embed)
+	- zile <unknown> (embed)
+
+felix-osgi-core
+	- derby <unknown> (embed)
+	- eclipse <unknown> (embed)
+
+fence-agents
+	- cluster <unknown> (embed)
+	- fence-virt <unknown> (embed)
+
+fftw
+	- blender <unknown> (embed)
+	- fftw2 <unknown> (embed)
+
+file-roller
+	- brasero <unknown> (embed)
+	- epiphany <unknown> (embed)
+	- evince <unknown> (embed)
+	- gedit <unknown> (embed)
+	- gmpc <unknown> (embed)
+	- gnome-panel <unknown> (embed)
+	- gnome-utils <unknown> (embed)
+	- gthumb <unknown> (embed)
+	- nautilus <unknown> (embed)
+	- rhythmbox <unknown> (embed)
+	- seahorse <unknown> (embed)
+	- totem <unknown> (embed)
+	- workrave <unknown> (embed)
+
+firebird
+	- java-1.6.0-openjdk <unknown> (embed)
+	- ncl <unknown> (embed)
+	- nx <unknown> (embed)
+	- ocaml-camomile <unknown> (embed)
+	- perl <unknown> (embed)
+	- php <unknown> (embed)
+	- root <unknown> (embed)
+	- texlive <unknown> (embed)
+	- webkitgtk <unknown> (embed)
+
+firefox
+	- AllegroOGG <unknown> (embed)
+	- CriticalMass <unknown> (embed)
+	- EMBOSS <unknown> (embed)
+	- MochiKit <unknown> (embed)
+	- R <unknown> (embed)
+	- afflib <unknown> (embed)
+	- alfont <unknown> (embed)
+	- amsn <unknown> (embed)
+	- atk <unknown> (embed)
+	- bolzplatz2006 <unknown> (embed)
+	- bzip2 <unknown> (embed)
+	- cairo <unknown> (embed)
+	- chatzilla <unknown> (embed)
+	- clementine <unknown> (embed)
+	- cmake <unknown> (embed)
+	- codeblocks <unknown> (embed)
+	- compat-erlang <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- cvs <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- eclipse <unknown> (embed)
+	- erlang <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gnash <unknown> (embed)
+	- gnu-smalltalk <unknown> (embed)
+	- gnupg <unknown> (embed)
+	- google-gadgets <unknown> (embed)
+	- gtest <unknown> (embed)
+	- httpd <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- jna <unknown> (embed)
+	- js <unknown> (embed)
+	- jsl <unknown> (embed)
+	- kazehakase <unknown> (embed)
+	- kdebase <unknown> (embed)
+	- kdebase3 <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- kmplayer <unknown> (embed)
+	- koffice <unknown> (embed)
+	- libevent <unknown> (embed)
+	- libfishsound <unknown> (embed)
+	- libgdiplus <unknown> (embed)
+	- libkml <unknown> (embed)
+	- liboggz <unknown> (embed)
+	- libvorbis <unknown> (embed)
+	- llvm <unknown> (embed)
+	- mingw32-atk <unknown> (embed)
+	- mingw32-bzip2 <unknown> (embed)
+	- mingw32-cairo <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- mingw32-pixman <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- mozilla-adblockplus 1.1.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- netbeans <unknown> (embed)
+	- netbeans-platform <unknown> (embed)
+	- nspluginwrapper <unknown> (embed)
+	- ntop <unknown> (embed)
+	- nx <unknown> (embed)
+	- ogdi <unknown> (embed)
+	- openmpi <unknown> (embed)
+	- openoffice.org <unknown> (embed)
+	- openswan <unknown> (embed)
+	- optipng <unknown> (embed)
+	- p7zip <unknown> (embed)
+	- paraview <unknown> (embed)
+	- parole <unknown> (embed)
+	- perl <unknown> (embed)
+	- perl-Compress-Raw-Bzip2 <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- pixman <unknown> (embed)
+	- pnp4nagios <unknown> (embed)
+	- poco <unknown> (embed)
+	- protobuf <unknown> (embed)
+	- python <unknown> (embed)
+	- python-4Suite-XML <unknown> (embed)
+	- python-docs <unknown> (embed)
+	- python-matplotlib <unknown> (embed)
+	- python3 <unknown> (embed)
+	- qt <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- root <unknown> (embed)
+	- seamonkey <unknown> (embed)
+	- smart <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- squeak-vm <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- tcllib <unknown> (embed)
+	- teckit <unknown> (embed)
+	- texlive <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- tigervnc <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- tremfusion <unknown> (embed)
+	- tritonus <unknown> (embed)
+	- tuxcmd <unknown> (embed)
+	- virtuoso-opensource <unknown> (embed)
+	- vtk <unknown> (embed)
+	- webkitgtk <unknown> (embed)
+	- wordpress <unknown> (embed)
+	- wordpress-mu <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+	- xine-plugin <unknown> (embed)
+	- xulrunner <unknown> (embed)
+	- xulrunner-python <unknown> (embed)
+	- zikula <unknown> (embed)
+
+flac
+	- armstrong 0.2.6-11.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- vorbis-tools 1.2.0-8.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- xmms-flac 1.2.1-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+flickrnet
+	- f-spot <unknown> (embed)
+	- tasque <unknown> (embed)
+
+freetype
+	- alfont 2.0.6-6.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- cvs <unknown> (embed)
+	- firefox 3.6.12-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- glyph-keeper 0.32-6.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- mingw32-freetype <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- nx 3.3.0-38.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- openswan <unknown> (embed)
+	- paraview 3.8.0-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- qt <unknown> (embed)
+	- sunbird 1.0-0.30.b2pre.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- texlive <unknown> (embed)
+	- thunderbird 3.1.6-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- tremfusion 0.99-6.r3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- vtk 5.4.2-34.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner 1.9.2.12-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+ftgl
+	- blender <unknown> (embed)
+	- k3d <unknown> (embed)
+	- vtk <unknown> (embed)
+
+funtools
+	- ds9 <unknown> (embed)
+	- saoimage <unknown> (embed)
+	- wcstools <unknown> (embed)
+
+fwbackups
+	- fedora-release-notes <unknown> (embed)
+	- pacemaker <unknown> (embed)
+	- publican <unknown> (embed)
+
+gambas2
+	- kdebase-workspace <unknown> (embed)
+	- qt3 <unknown> (embed)
+
+gd
+	- graphviz 2.26.0-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- libwmf <unknown> (embed)
+	- php <unknown> (embed)
+	- texlive <unknown> (embed)
+
+gdb
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-binutils <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- gcc <unknown> (embed)
+	- glibc <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- msp430-binutils <unknown> (embed)
+	- uClibc <unknown> (embed)
+	- xen <unknown> (embed)
+
+geany
+	- cssed <unknown> (embed)
+	- qscintilla <unknown> (embed)
+
+gedit-vala
+	- anjuta <unknown> (embed)
+	- monodevelop <unknown> (embed)
+
+generatorrunner
+	- apiextractor <unknown> (embed)
+	- python-sphinx <unknown> (embed)
+	- shiboken 0.5.0-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+gflags
+	- ctemplate <unknown> (embed)
+	- glog <unknown> (embed)
+	- google-perftools <unknown> (embed)
+	- sparsehash <unknown> (embed)
+
+ghdl
+	- arm-gp2x-linux-binutils <unknown> (embed)
+	- arm-gp2x-linux-gcc <unknown> (embed)
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-binutils <unknown> (embed)
+	- avr-gcc <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- binutils <unknown> (embed)
+	- bison <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- dietlibc <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gccxml <unknown> (embed)
+	- gdb <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gnu-smalltalk <unknown> (embed)
+	- insight <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- mingw32-binutils <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- msp430-binutils <unknown> (embed)
+	- msp430-gcc <unknown> (embed)
+	- nesc <unknown> (embed)
+	- sdcc <unknown> (embed)
+	- wine <unknown> (embed)
+	- xen <unknown> (embed)
+
+gitweb-caching
+	- git <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+
+gle
+	- R <unknown> (embed)
+	- python-matplotlib <unknown> (embed)
+
+glest
+	- lincity-ng <unknown> (embed)
+	- supertux <unknown> (embed)
+
+glib
+	- glib2 <unknown> (embed)
+	- mingw32-glib2 <unknown> (embed)
+	- pkgconfig <unknown> (embed)
+
+glib2
+	- atk 1.30.0-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- beagle 0.3.9-18.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- fish <unknown> (embed)
+	- gamin 0.1.10-7.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- gnome-vfs2 2.24.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- google-gadgets 0.11.2-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- libguestfs 1.4.3-3.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- liblicense <unknown> (embed)
+	- mingw32-atk <unknown> (embed)
+	- mingw32-glib2 <unknown> (embed)
+	- pinot 0.94-4.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- sugar-base 0.88.0-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- xarchiver 0.5.2-5.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+globalplatform
+	- libkml <unknown> (embed)
+	- mingw32-nsis <unknown> (embed)
+	- texlive <unknown> (embed)
+
+globus-core
+	- automake14 <unknown> (embed)
+	- grid-packaging-tools <unknown> (embed)
+
+glpi-pdf
+	- glpi-data-injection <unknown> (embed)
+	- mapbender <unknown> (embed)
+
+gmp
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- ecl 10.4.1-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- glibc <unknown> (embed)
+	- libmpc 0.8.1-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mpfr 2.4.2-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mpir <unknown> (embed)
+
+gmpc
+	- evince <unknown> (embed)
+	- evolution <unknown> (embed)
+	- gedit <unknown> (embed)
+	- gnome-games <unknown> (embed)
+	- gnome-panel <unknown> (embed)
+	- gnome-utils <unknown> (embed)
+	- gthumb <unknown> (embed)
+	- nautilus <unknown> (embed)
+	- rhythmbox <unknown> (embed)
+	- seahorse <unknown> (embed)
+	- totem <unknown> (embed)
+	- workrave <unknown> (embed)
+
+gnome-do
+	- banshee <unknown> (embed)
+	- f-spot <unknown> (embed)
+	- gnome-do-plugins 0.8.2-1.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- monodevelop <unknown> (embed)
+
+gnome-keyring-sharp
+	- f-spot 0.6.2-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- tomboy <unknown> (embed)
+
+gnome-packagekit
+	- DeviceKit-power <unknown> (embed)
+	- PackageKit <unknown> (embed)
+	- gnome-power-manager <unknown> (embed)
+
+gnome-python2-extras
+	- conglomerate <unknown> (embed)
+	- planner <unknown> (embed)
+
+gnome-shell
+	- gdm <unknown> (embed)
+	- gnome-panel <unknown> (embed)
+
+gnome-vfsmm26
+	- bit <unknown> (embed)
+	- cegui <unknown> (embed)
+	- conexus <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- ogre <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- qca2 <unknown> (embed)
+	- schroot <unknown> (embed)
+	- wsdlpull <unknown> (embed)
+	- xqilla <unknown> (embed)
+
+gnonlin
+	- farsight2 <unknown> (embed)
+	- gstreamer <unknown> (embed)
+	- gstreamer-plugins-bad-free <unknown> (embed)
+	- gstreamer-plugins-base <unknown> (embed)
+	- gstreamer-plugins-flumpegdemux <unknown> (embed)
+	- gstreamer-plugins-good <unknown> (embed)
+	- gstreamer-python <unknown> (embed)
+	- gstreamer-rtsp <unknown> (embed)
+	- pigment <unknown> (embed)
+	- pitivi 0.13.4-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+gnuchess
+	- gcompris 9.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- gnome-games <unknown> (embed)
+
+gnupg
+	- gnupg2 <unknown> (embed)
+	- gpgme <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- texlive <unknown> (embed)
+
+gnupg2
+	- dirmngr <unknown> (embed)
+	- gnupg <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+
+goocanvas
+	- gcompris <unknown> (embed)
+	- gpredict <unknown> (embed)
+
+gpgme
+	- kdepim3 <unknown> (embed)
+	- libassuan <unknown> (embed)
+
+gphoto2
+	- libexif <unknown> (embed)
+	- libgphoto2 <unknown> (embed)
+
+gpsdrive
+	- josm <unknown> (embed)
+	- merkaartor <unknown> (embed)
+
+gpxe
+	- etherboot <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- openbios <unknown> (embed)
+	- syslinux <unknown> (embed)
+
+gqview
+	- geeqie <unknown> (embed)
+	- gqradio <unknown> (embed)
+
+grace
+	- LabPlot <unknown> (embed)
+	- R <unknown> (embed)
+	- gridengine <unknown> (embed)
+	- libwmf <unknown> (embed)
+	- perl-PDL <unknown> (embed)
+	- scipy <unknown> (embed)
+	- texlive <unknown> (embed)
+
+graphviz
+	- grass <unknown> (embed)
+	- texlive <unknown> (embed)
+
+grid-packaging-tools
+	- perl <unknown> (embed)
+	- texlive <unknown> (embed)
+
+gridengine
+	- java-1.6.0-openjdk <unknown> (embed)
+	- mpich2 <unknown> (embed)
+	- netbeans <unknown> (embed)
+	- openoffice.org <unknown> (embed)
+
+grip
+	- sweep <unknown> (embed)
+	- timidity++ <unknown> (embed)
+
+grub
+	- etherboot <unknown> (embed)
+	- gpxe <unknown> (embed)
+	- grub2 <unknown> (embed)
+	- openbios <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- xen <unknown> (embed)
+
+grub2
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- libguestfs <unknown> (embed)
+
+gsm
+	- armstrong <unknown> (embed)
+	- asterisk 1.6.2.12-0.1.rc1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- gnuradio <unknown> (embed)
+	- iaxclient 2.1-0.6.beta3.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- kadu 0.6.5.4-4.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- ladspa-swh-plugins 0.4.15-16.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- libsndfile <unknown> (embed)
+	- lv2-swh-plugins <unknown> (embed)
+	- mgetty <unknown> (embed)
+	- nyquist <unknown> (embed)
+	- opal <unknown> (embed)
+	- sems <unknown> (embed)
+	- sox 14.3.0-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- xine-lib <unknown> (embed)
+
+gstreamer-plugins-good
+	- gstreamer-plugins-bad-free <unknown> (embed)
+	- psimedia 1.0.3-4.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- tvtime <unknown> (embed)
+	- xine-lib <unknown> (embed)
+
+gstreamer-rtsp
+	- gstreamer-python <unknown> (embed)
+	- pigment-python <unknown> (embed)
+	- pygobject2 <unknown> (embed)
+	- telepathy-farsight <unknown> (embed)
+
+gtk2
+	- anaconda 13.42-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- docbook-style-dsssl <unknown> (embed)
+	- dpkg <unknown> (embed)
+	- ekiga 3.2.7-3.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- gambas2 <unknown> (embed)
+	- gdk-pixbuf <unknown> (embed)
+	- gftp 2.0.19-4.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- gimp 2.6.11-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- glib2 <unknown> (embed)
+	- gnome-colors-icon-theme <unknown> (embed)
+	- gnome-libs <unknown> (embed)
+	- gtk+ <unknown> (embed)
+	- gutenprint 5.2.6-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- libvirt <unknown> (embed)
+	- mingw32-glib2 <unknown> (embed)
+	- mingw32-gtk2 <unknown> (embed)
+	- nautilus 2.30.1-6.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- root <unknown> (embed)
+	- ruby-gnome2 0.90.4-1.0.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- synaptic 0.57.2-23.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- xmms 1.2.11-10.20071117cvs.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+gtkwave
+	- cdrdao <unknown> (embed)
+	- iverilog <unknown> (embed)
+	- tellico <unknown> (embed)
+	- texlive <unknown> (embed)
+	- vrq <unknown> (embed)
+
+gzip
+	- dc3dd <unknown> (embed)
+	- libvirt 0.8.2-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- man-pages-pl <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- mingw32-iconv <unknown> (embed)
+	- pspp <unknown> (embed)
+	- tar <unknown> (embed)
+	- texlive <unknown> (embed)
+
+hamster-applet
+	- deskbar-applet <unknown> (embed)
+	- gnome-mag <unknown> (embed)
+
+hfsplusutils
+	- hfsutils <unknown> (embed)
+	- openbios <unknown> (embed)
+
+hfsutils
+	- cdrkit <unknown> (embed)
+	- openbios <unknown> (embed)
+
+hostapd
+	- wpa_supplicant <unknown> (embed)
+	- xsupplicant <unknown> (embed)
+
+icoutils
+	- amanda <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- bison <unknown> (embed)
+	- cflow <unknown> (embed)
+	- cpio <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- findutils <unknown> (embed)
+	- freedink <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gdb <unknown> (embed)
+	- gnutls <unknown> (embed)
+	- gzip <unknown> (embed)
+	- libgsasl <unknown> (embed)
+	- libguestfs <unknown> (embed)
+	- libidn <unknown> (embed)
+	- libprelude <unknown> (embed)
+	- libpreludedb <unknown> (embed)
+	- libtasn1 <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- mingw32-gnutls <unknown> (embed)
+	- mingw32-iconv <unknown> (embed)
+	- mingw32-libidn <unknown> (embed)
+	- msmtp <unknown> (embed)
+	- nagios-plugins <unknown> (embed)
+	- paperkey <unknown> (embed)
+	- prelude-lml <unknown> (embed)
+	- prelude-manager <unknown> (embed)
+	- pspp <unknown> (embed)
+	- renameutils <unknown> (embed)
+	- sed <unknown> (embed)
+	- sharutils <unknown> (embed)
+	- source-highlight <unknown> (embed)
+	- tar <unknown> (embed)
+	- wget <unknown> (embed)
+	- zile <unknown> (embed)
+
+ilmbase
+	- cinepaint <unknown> (embed)
+	- freeimage 3.10.0-3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- k3d 0.8.0.1-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- opencv <unknown> (embed)
+
+imake
+	- cernlib <unknown> (embed)
+	- cernlib-g77 <unknown> (embed)
+	- nx <unknown> (embed)
+
+imgtarget
+	- camcardsync <unknown> (embed)
+	- photoprint <unknown> (embed)
+
+imp
+	- horde <unknown> (embed)
+	- kronolith <unknown> (embed)
+	- xmoto <unknown> (embed)
+
+indi-apogee
+	- libapogee <unknown> (embed)
+	- libindi <unknown> (embed)
+
+ingo
+	- horde <unknown> (embed)
+	- zarafa <unknown> (embed)
+
+ipplan
+	- cacti <unknown> (embed)
+	- mantis <unknown> (embed)
+	- phpPgAdmin <unknown> (embed)
+	- zikula <unknown> (embed)
+
+irrlicht
+	- cel <unknown> (embed)
+	- texlive <unknown> (embed)
+
+iwidgets
+	- insight 6.8.1-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- ruby <unknown> (embed)
+
+jakarta-commons-codec
+	- jakarta-commons-collections <unknown> (embed)
+	- jakarta-commons-io <unknown> (embed)
+
+jakarta-commons-collections
+	- jakarta-commons-beanutils 1.7.0-12.3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- jakarta-commons-dbcp 1.2.1-13.7.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- jakarta-commons-pool <unknown> (embed)
+
+jakarta-taglibs-standard
+	- netbeans <unknown> (embed)
+	- tomcat6 <unknown> (embed)
+
+jam
+	- boost <unknown> (embed)
+	- bullet <unknown> (embed)
+	- codeblocks <unknown> (embed)
+	- crystalspace <unknown> (embed)
+	- mingw32-boost <unknown> (embed)
+
+jasper
+	- mingw32-jasper <unknown> (embed)
+	- opencv <unknown> (embed)
+
+java-1.6.0-openjdk
+	- mpich2 <unknown> (embed)
+	- pentaho-reporting-flow-engine <unknown> (embed)
+
+java-1.6.0-openjdk
+	- netbeans <unknown> (embed)
+	- netbeans-platform <unknown> (embed)
+
+javahelp2
+	- OmegaT <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+
+javassist
+	- eclipse-birt <unknown> (embed)
+	- pmd <unknown> (embed)
+	- velocity <unknown> (embed)
+
+jaxen
+	- dom4j 1.6.1-5.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- jaxen-bootstrap <unknown> (embed)
+
+joda-time
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- glibc <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+	- postgresql <unknown> (embed)
+	- sepostgresql <unknown> (embed)
+	- tzdata <unknown> (embed)
+
+jpgalleg
+	- alleggl <unknown> (embed)
+	- raidem <unknown> (embed)
+
+js
+	- busybox <unknown> (embed)
+	- flite <unknown> (embed)
+	- jsl <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- uClibc <unknown> (embed)
+	- xen <unknown> (embed)
+
+json-glib
+	- clutter 1.2.14-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- unique <unknown> (embed)
+
+k3b
+	- kdeedu <unknown> (embed)
+	- kdenetwork <unknown> (embed)
+	- koffice <unknown> (embed)
+	- kpilot <unknown> (embed)
+
+kadu
+	- psi <unknown> (embed)
+
+kcbench-data
+	- 0xFFFF <unknown> (embed)
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- busybox <unknown> (embed)
+	- cdrkit <unknown> (embed)
+	- dietlibc <unknown> (embed)
+	- directfb <unknown> (embed)
+	- e2fsprogs <unknown> (embed)
+	- etherboot <unknown> (embed)
+	- fio <unknown> (embed)
+	- glibc <unknown> (embed)
+	- grub2 <unknown> (embed)
+	- iasl <unknown> (embed)
+	- iproute <unknown> (embed)
+	- jfsutils <unknown> (embed)
+	- kernel <unknown> (embed)
+	- kudzu <unknown> (embed)
+	- libdrm <unknown> (embed)
+	- mtd-utils <unknown> (embed)
+	- ntfsprogs <unknown> (embed)
+	- nx <unknown> (embed)
+	- ocfs2-tools <unknown> (embed)
+	- openbios <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- texlive <unknown> (embed)
+	- uboot-tools <unknown> (embed)
+	- wine <unknown> (embed)
+	- xen <unknown> (embed)
+	- xfsprogs <unknown> (embed)
+	- xorg-x11-drv-sis <unknown> (embed)
+
+kcemirror
+	- qalculate-kde <unknown> (embed)
+	- qtparted <unknown> (embed)
+
+kde-i18n
+	- kde-l10n <unknown> (embed)
+
+kde-i18n
+	- kdebase3 <unknown> (embed)
+	- kdewebdev <unknown> (embed)
+
+kde-i18n
+	- kdeedu <unknown> (embed)
+	- kdegames3 <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+
+kde-i18n
+	- konq-plugins <unknown> (embed)
+
+kde-l10n
+	- kde-i18n <unknown> (embed)
+
+kde-l10n
+	- kdebase3 <unknown> (embed)
+	- kdeedu <unknown> (embed)
+	- kdegraphics <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+
+kde-l10n
+	- kdebase-runtime <unknown> (embed)
+
+kdeaddons
+	- kdebase3 <unknown> (embed)
+	- kdesdk <unknown> (embed)
+
+kdebase
+	- kdebase-workspace <unknown> (embed)
+	- kdebase3 <unknown> (embed)
+
+kdebase-runtime
+	- kdeaddons <unknown> (embed)
+	- kdebase3 <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+
+kdebase-workspace
+	- kdebase3 <unknown> (embed)
+	- kdeedu <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- kdeplasma-addons <unknown> (embed)
+
+kdebase3
+	- kdebase-runtime <unknown> (embed)
+	- kdebase-workspace <unknown> (embed)
+	- kdelibs <unknown> (embed)
+
+kdebindings
+	- kdelibs <unknown> (embed)
+	- kdevplatform <unknown> (embed)
+	- koffice <unknown> (embed)
+
+kdeedu
+	- kdegraphics <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- kdeutils <unknown> (embed)
+	- koffice <unknown> (embed)
+
+kdegames3
+	- kdebase3 <unknown> (embed)
+	- kdeedu <unknown> (embed)
+	- kdegames <unknown> (embed)
+
+kdegraphics
+	- digikam <unknown> (embed)
+	- kdeedu <unknown> (embed)
+	- kdenetwork <unknown> (embed)
+	- koffice <unknown> (embed)
+
+kdelibs3
+	- LabPlot 1.6.0.2-8.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- callweaver <unknown> (embed)
+	- kde-i18n <unknown> (embed)
+	- kdebase-runtime <unknown> (embed)
+	- kdebase3 3.5.10-17.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- kdebindings <unknown> (embed)
+	- kdeedu <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+
+kdenetwork
+	- kdebase-workspace <unknown> (embed)
+	- kdeedu <unknown> (embed)
+
+kdepim
+	- gsoap <unknown> (embed)
+	- kde-i18n <unknown> (embed)
+	- kde-l10n <unknown> (embed)
+	- kdebase3 <unknown> (embed)
+	- kdeedu <unknown> (embed)
+	- kdegames <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- kdenetwork <unknown> (embed)
+	- kdepim-runtime <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+	- kdepimlibs <unknown> (embed)
+	- kdevelop <unknown> (embed)
+	- kdevplatform <unknown> (embed)
+	- koffice <unknown> (embed)
+	- koffice-kivio <unknown> (embed)
+	- kpilot <unknown> (embed)
+	- metakit <unknown> (embed)
+
+kdepim3
+	- kdebase3 <unknown> (embed)
+	- kdeedu <unknown> (embed)
+	- kdegames3 <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+
+kdesdk
+	- kdebase3 <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- kdepim <unknown> (embed)
+
+kdevelop
+	- kdebindings <unknown> (embed)
+	- kdeedu <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- kdepim <unknown> (embed)
+	- kdesdk <unknown> (embed)
+	- kdevplatform <unknown> (embed)
+	- koffice <unknown> (embed)
+
+kdevplatform
+	- kdelibs <unknown> (embed)
+	- kdepim <unknown> (embed)
+	- kdesdk <unknown> (embed)
+
+kdewebdev
+	- LabPlot <unknown> (embed)
+	- kde-i18n <unknown> (embed)
+	- kdebase3 <unknown> (embed)
+	- kdegames3 <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+	- koffice-kivio <unknown> (embed)
+	- qt3 <unknown> (embed)
+
+kdiff3
+	- LabPlot <unknown> (embed)
+	- kde-i18n <unknown> (embed)
+	- kdebindings <unknown> (embed)
+	- kdeedu <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- koffice <unknown> (embed)
+	- rekall <unknown> (embed)
+
+kdnssd-avahi
+	- arts <unknown> (embed)
+	- celestia <unknown> (embed)
+	- coot <unknown> (embed)
+	- dircproxy <unknown> (embed)
+	- dopewars <unknown> (embed)
+	- kdbg <unknown> (embed)
+	- kdeaddons <unknown> (embed)
+	- kdebase3 3.5.10-17.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- kdegames3 <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+	- kdewebdev <unknown> (embed)
+	- kid3 <unknown> (embed)
+	- knetstats <unknown> (embed)
+	- koffice-kivio <unknown> (embed)
+	- komparator <unknown> (embed)
+	- kst <unknown> (embed)
+	- ktechlab <unknown> (embed)
+	- pymol <unknown> (embed)
+	- scim-tables <unknown> (embed)
+	- six <unknown> (embed)
+	- smart <unknown> (embed)
+
+klamav
+	- callweaver <unknown> (embed)
+	- kdeaddons <unknown> (embed)
+	- kdebase3 <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+	- koffice-kivio <unknown> (embed)
+	- six <unknown> (embed)
+
+koffice-kivio
+	- cinepaint <unknown> (embed)
+	- gimp <unknown> (embed)
+	- k3b <unknown> (embed)
+	- kdebindings <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- koffice <unknown> (embed)
+	- kpilot <unknown> (embed)
+	- openoffice.org <unknown> (embed)
+	- rekall <unknown> (embed)
+	- scribus <unknown> (embed)
+
+koffice-langpack
+	- koffice-kivio <unknown> (embed)
+
+kpolynome
+	- basket <unknown> (embed)
+	- kdetv <unknown> (embed)
+	- qtparted <unknown> (embed)
+	- taskjuggler <unknown> (embed)
+
+krazy2
+	- qt-creator <unknown> (embed)
+	- qt-mobility <unknown> (embed)
+
+kstart
+	- inn <unknown> (embed)
+	- remctl <unknown> (embed)
+
+ktorrent
+	- kdenetwork <unknown> (embed)
+
+ladspa-swh-plugins
+	- armstrong <unknown> (embed)
+	- asterisk <unknown> (embed)
+	- lmms 0.4.8-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+lcms
+	- java-1.6.0-openjdk <unknown> (embed)
+	- spicebird <unknown> (embed)
+
+lib3ds
+	- GLC_lib 1.1.0-2.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- OpenSceneGraph <unknown> (embed)
+	- mingw32-OpenSceneGraph <unknown> (embed)
+	- mm3d 1.3.8a-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mrpt <unknown> (embed)
+
+libAfterImage
+	- bolzplatz2006 <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- firefox <unknown> (embed)
+	- fltk <unknown> (embed)
+	- gdal <unknown> (embed)
+	- htmldoc <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- opencv <unknown> (embed)
+	- paraview <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- petitboot <unknown> (embed)
+	- qt <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- root <unknown> (embed)
+	- seamonkey <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- texlive <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- vtk <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+libICE
+	- kdelibs3 3.5.10-23.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- nx <unknown> (embed)
+
+libXfont
+	- nx <unknown> (embed)
+	- xwnc <unknown> (embed)
+
+libXmu
+	- WindowMaker <unknown> (embed)
+	- nx <unknown> (embed)
+
+libaesgm
+	- keepassx <unknown> (embed)
+	- pdns <unknown> (embed)
+	- pdns-recursor <unknown> (embed)
+
+libart_lgpl
+	- gnome-libs <unknown> (embed)
+	- python-reportlab <unknown> (embed)
+
+libassuan
+	- gnupg2 <unknown> (embed)
+	- gpgme <unknown> (embed)
+
+libconfig
+	- dcbd 0.9.19-3.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- libffado 2.1.0-0.1.20101015.svn1913.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- lldpad 0.9.32-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+libcroco
+	- cssed <unknown> (embed)
+	- gettext <unknown> (embed)
+	- inkscape <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+
+libdrizzle
+	- gearmand <unknown> (embed)
+	- libmemcached <unknown> (embed)
+
+libdvdread
+	- libdvdnav 4.1.4-0.1.svn1184.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- xine-lib <unknown> (embed)
+
+libedit
+	- OpenIPMI <unknown> (embed)
+	- asterisk 1.6.2.12-0.1.rc1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- firebird <unknown> (embed)
+	- mono-debugger <unknown> (embed)
+	- mysql <unknown> (embed)
+	- root <unknown> (embed)
+
+libev
+	- audit <unknown> (embed)
+	- picviz 0.6-2.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- prelude-lml <unknown> (embed)
+	- prelude-manager <unknown> (embed)
+	- rxvt-unicode <unknown> (embed)
+
+libexif
+	- alleggl <unknown> (embed)
+	- armadillo <unknown> (embed)
+	- gsoap <unknown> (embed)
+	- jpcap <unknown> (embed)
+	- libcgi <unknown> (embed)
+	- libofx <unknown> (embed)
+	- libpqxx <unknown> (embed)
+	- libpst <unknown> (embed)
+	- log4cxx <unknown> (embed)
+	- loki-lib <unknown> (embed)
+	- nx <unknown> (embed)
+	- qdbm <unknown> (embed)
+	- scim <unknown> (embed)
+	- skyviewer <unknown> (embed)
+	- stk <unknown> (embed)
+	- tinyows <unknown> (embed)
+	- xorg-x11-server <unknown> (embed)
+
+libffi
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- firefox <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gnu-smalltalk 3.1-8.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- jffi 0.6.5-4.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- jna 3.2.7-5.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mingw32-gcc <unknown> (embed)
+	- python 2.6.4-27.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- python-docs <unknown> (embed)
+	- python3 3.1.2-7.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- rubygem-ffi 0.6.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- sunbird <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+libgcroots
+	- boost <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- ecl <unknown> (embed)
+	- gc <unknown> (embed)
+	- gcc <unknown> (embed)
+	- mingw32-boost <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- mono <unknown> (embed)
+	- sigscheme 0.8.3-3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- synopsis <unknown> (embed)
+	- uim 1.6.0-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+libgcrypt
+	- gnupg <unknown> (embed)
+	- gnupg2 2.0.14-7.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- grub2 <unknown> (embed)
+	- mingw32-libgcrypt <unknown> (embed)
+
+libgnomeui
+	- gnome-libs <unknown> (embed)
+	- libgnome <unknown> (embed)
+
+libgpg-error
+	- kdepim3 <unknown> (embed)
+	- libprelude 1.0.0-3.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mingw32-libgpg-error <unknown> (embed)
+
+libgssapi
+	- krb5 <unknown> (embed)
+	- libgssglue <unknown> (embed)
+
+libhid
+	- alexandria <unknown> (embed)
+	- cowbell <unknown> (embed)
+	- dopewars <unknown> (embed)
+	- kazehakase <unknown> (embed)
+	- linbox <unknown> (embed)
+	- vegastrike <unknown> (embed)
+	- zaf <unknown> (embed)
+
+libjingle
+	- kdenetwork <unknown> (embed)
+	- txmpp <unknown> (embed)
+
+libjpeg
+	- bolzplatz2006 1.0.3-10.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- dc3dd <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- firefox <unknown> (embed)
+	- fltk 1.1.10-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- freeimage 3.10.0-3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- gdal 1.6.2-6.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- gettext <unknown> (embed)
+	- gzip <unknown> (embed)
+	- htmldoc 1.8.27-13.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- irrlicht 1.6.1-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- java-1.6.0-openjdk 1.6.0.0-43.1.8.2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- libAfterImage <unknown> (embed)
+	- libpng <unknown> (embed)
+	- libpng10 <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- mingw32-iconv <unknown> (embed)
+	- mingw32-libjpeg <unknown> (embed)
+	- mingw32-libpng <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- mrpt <unknown> (embed)
+	- opencv 2.0.0-9.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- optipng <unknown> (embed)
+	- paraview 3.8.0-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- perl-Tk 804.028-11.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- petitboot 0.2-4.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- pngcrush <unknown> (embed)
+	- pspp <unknown> (embed)
+	- qt <unknown> (embed)
+	- qt3 3.3.8b-29.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- rawtherapee 3.0-0.21.a1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- root <unknown> (embed)
+	- seamonkey 2.0.8-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- spicebird 0.7.1-1.fc11 (embed)
+	NOTE: Might be fixed earlier.
+	- squeak-vm <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- tar <unknown> (embed)
+	- texlive <unknown> (embed)
+	- thunderbird 3.1.6-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- tigervnc <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- tremfusion <unknown> (embed)
+	- tremulous 1.1.0-10.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- vtk 5.4.2-34.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- wxGTK 2.8.11-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- wxPython <unknown> (embed)
+	- xloadimage 4.1-4.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner 1.9.2.12-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+libkml
+	- clementine <unknown> (embed)
+	- kicad <unknown> (embed)
+	- merkaartor <unknown> (embed)
+	- samba <unknown> (embed)
+
+libksba
+	- gnupg2 <unknown> (embed)
+	- gpgme <unknown> (embed)
+
+libktorrent
+	- kdenetwork 4.5.2-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- ktorrent 4.0.4-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+libmng
+	- freeimage 3.10.0-3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- qt3 3.3.8b-29.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+liborigin2
+	- qtiplot 0.9.8.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+libp11
+	- mingw32-libp11 <unknown> (embed)
+	- mingw32-opensc <unknown> (embed)
+	- openct <unknown> (embed)
+	- opensc <unknown> (embed)
+
+libpanelappletmm
+	- gconfmm26 <unknown> (embed)
+	- geglmm <unknown> (embed)
+	- gnome-vfsmm26 <unknown> (embed)
+	- gtkglextmm <unknown> (embed)
+	- libglademm24 <unknown> (embed)
+	- libgnomecanvasmm26 <unknown> (embed)
+	- libgnomemm26 <unknown> (embed)
+	- libgnomeuimm26 <unknown> (embed)
+	- libgtksourceviewmm <unknown> (embed)
+	- libnotifymm <unknown> (embed)
+	- libsexymm <unknown> (embed)
+	- mingw32-glibmm24 <unknown> (embed)
+	- mingw32-libglademm24 <unknown> (embed)
+
+libpar2
+	- nget <unknown> (embed)
+	- par2cmdline <unknown> (embed)
+
+libpcap
+	- mingw32-wpcap <unknown> (embed)
+	- nessus-libraries <unknown> (embed)
+	- nmap 5.21-8.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- tcpdump 4.0.0-3.20090921gitdf3cb4.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- wireshark 1.2.11-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+libpqxx
+	- armadillo <unknown> (embed)
+	- schroot <unknown> (embed)
+	- skyviewer <unknown> (embed)
+
+librsync
+	- ORBit <unknown> (embed)
+	- gnome-libs <unknown> (embed)
+	- pkgconfig <unknown> (embed)
+
+libshout
+	- icecast <unknown> (embed)
+	- ices 2.0.1-10.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+libsigc++20
+	- ardour 2.8.11-5.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- cairomm 1.8.4-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- glibmm24 2.24.1-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mingw32-cairomm <unknown> (embed)
+	- mingw32-glibmm24 <unknown> (embed)
+	- mingw32-libsigc++20 <unknown> (embed)
+	- stardict 3.0.1-21.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+libsoup
+	- libsoup22 <unknown> (embed)
+	- mingw32-libsoup <unknown> (embed)
+
+libtalloc
+	- ctdb <unknown> (embed)
+	- libtdb <unknown> (embed)
+	- libtevent 0.9.8-5.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- samba 3.5.6-69.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- samba4 <unknown> (embed)
+
+libtextcat
+	- subdownloader <unknown> (embed)
+	- translate-toolkit <unknown> (embed)
+
+libtiff
+	- ds9 <unknown> (embed)
+	- freeimage 3.10.0-3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- gdal 1.6.2-6.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mingw32-libtiff <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- opencv 2.0.0-9.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- paraview 3.8.0-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- qt <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- vtk 5.4.2-34.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- wxGTK 2.8.11-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- wxPython <unknown> (embed)
+	- xloadimage 4.1-4.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+libtomcrypt
+	- bitfrost <unknown> (embed)
+	- dropbear <unknown> (embed)
+	- olpc-contents <unknown> (embed)
+	- python-crypto <unknown> (embed)
+
+libtommath
+	- dropbear <unknown> (embed)
+	- mingw32-tcl <unknown> (embed)
+	- tcl <unknown> (embed)
+
+libvncserver
+	- remmina 0.7.5-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- vino <unknown> (embed)
+	- x11vnc 0.9.8-14.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- xwnc <unknown> (embed)
+
+libx86
+	- nx <unknown> (embed)
+	- xorg-x11-server <unknown> (embed)
+
+libxml
+	- libxml2 <unknown> (embed)
+	- mingw32-libxml2 <unknown> (embed)
+
+libxslt
+	- findbugs <unknown> (embed)
+	- mingw32-libxslt <unknown> (embed)
+
+libyahoo2
+	- ayttm <unknown> (embed)
+	- bitlbee <unknown> (embed)
+	- centerim <unknown> (embed)
+
+libyaml
+	- LabPlot <unknown> (embed)
+	- alleggl <unknown> (embed)
+	- apbs <unknown> (embed)
+	- armadillo <unknown> (embed)
+	- cegui <unknown> (embed)
+	- conexus <unknown> (embed)
+	- frepple <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- libofx <unknown> (embed)
+	- ogre <unknown> (embed)
+	- pam_pkcs11 <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- rpm <unknown> (embed)
+	- skyviewer <unknown> (embed)
+
+licq
+	- kdeartwork <unknown> (embed)
+
+lrzip
+	- afflib <unknown> (embed)
+	- lzma <unknown> (embed)
+	- mingw32-nsis <unknown> (embed)
+	- p7zip <unknown> (embed)
+
+lrzsz
+	- a2ps <unknown> (embed)
+	- arm-gp2x-linux-binutils <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- dc3dd <unknown> (embed)
+
+lua
+	- bam <unknown> (embed)
+	- blobby <unknown> (embed)
+	- enigma <unknown> (embed)
+	- freeciv <unknown> (embed)
+	- freedroidrpg <unknown> (embed)
+	- gtk2-engines <unknown> (embed)
+	- netpanzer <unknown> (embed)
+	- nmap 5.21-8.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- scorched3d <unknown> (embed)
+
+lucene
+	- derby <unknown> (embed)
+	- eclipse <unknown> (embed)
+	- fop <unknown> (embed)
+	- pmd <unknown> (embed)
+
+luci
+	- python-tg-devtools <unknown> (embed)
+
+lxpanel
+	- awn-extras-applets <unknown> (embed)
+	- awstats <unknown> (embed)
+	- xqf <unknown> (embed)
+
+lzop
+	- lzo <unknown> (embed)
+	- ucl <unknown> (embed)
+
+maildrop
+	- cone <unknown> (embed)
+	- pl <unknown> (embed)
+
+make
+	- gridengine <unknown> (embed)
+	- kBuild <unknown> (embed)
+	- texlive <unknown> (embed)
+
+man-pages-de
+	- man-pages-es <unknown> (embed)
+	- man-pages-fr <unknown> (embed)
+	- man-pages-ja <unknown> (embed)
+	- man-pages-ko <unknown> (embed)
+	- man-pages-pl <unknown> (embed)
+
+man-pages-es
+	- man-pages-pl <unknown> (embed)
+	- net-tools <unknown> (embed)
+
+man-pages-ko
+	- man-pages-es <unknown> (embed)
+	- man-pages-fr <unknown> (embed)
+	- man-pages-it <unknown> (embed)
+	- man-pages-ja <unknown> (embed)
+	- man-pages-pl <unknown> (embed)
+	- shadow-utils <unknown> (embed)
+	- sysvinit <unknown> (embed)
+	- util-linux-ng <unknown> (embed)
+
+man-pages-pl
+	- man-pages-fr <unknown> (embed)
+	- man-pages-ja <unknown> (embed)
+	- texlive <unknown> (embed)
+
+man-pages-ru
+	- man-pages <unknown> (embed)
+	- man-pages-de <unknown> (embed)
+	- man-pages-es <unknown> (embed)
+	- man-pages-fr <unknown> (embed)
+	- man-pages-it <unknown> (embed)
+	- man-pages-ja <unknown> (embed)
+	- man-pages-ko <unknown> (embed)
+	- man-pages-pl <unknown> (embed)
+	- man-pages-uk <unknown> (embed)
+
+manaworld
+	- scummvm <unknown> (embed)
+	- wormux <unknown> (embed)
+
+mantis
+	- gallery2 <unknown> (embed)
+	- netbeans <unknown> (embed)
+	- pnp4nagios <unknown> (embed)
+	- zikula <unknown> (embed)
+
+maven-plugin-cobertura
+	- cal10n <unknown> (embed)
+	- cpptasks <unknown> (embed)
+	- dom4j <unknown> (embed)
+	- jakarta-commons-httpclient <unknown> (embed)
+	- jaxen-bootstrap <unknown> (embed)
+	- log4cxx <unknown> (embed)
+	- logback <unknown> (embed)
+	- pmd <unknown> (embed)
+	- slf4j <unknown> (embed)
+	- testng <unknown> (embed)
+
+maven2
+	- maven-jxr <unknown> (embed)
+
+mcu8051ide
+	- crystal-clear <unknown> (embed)
+	- monkeystudio <unknown> (embed)
+	- qdevelop <unknown> (embed)
+	- vym <unknown> (embed)
+
+memchan
+	- ds9 <unknown> (embed)
+	- tcl-trf <unknown> (embed)
+
+mesa
+	- kernel <unknown> (embed)
+	- nx <unknown> (embed)
+
+mingw32-SDL
+	- SDL <unknown> (embed)
+	- arm-gp2x-linux-SDL <unknown> (embed)
+	- nx <unknown> (embed)
+	- tremfusion <unknown> (embed)
+
+mingw32-atk
+	- atk <unknown> (embed)
+	- libchamplain <unknown> (embed)
+	- libgnome <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- passwd <unknown> (embed)
+
+mingw32-enchant
+	- enchant <unknown> (embed)
+	- goldendict <unknown> (embed)
+	- hunspell <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- mingw32-hunspell <unknown> (embed)
+	- texmaker <unknown> (embed)
+	- texmakerx <unknown> (embed)
+
+mingw32-fontconfig
+	- fontconfig <unknown> (embed)
+	- nx <unknown> (embed)
+	- tuxpaint <unknown> (embed)
+
+mingw32-freeglut
+	- Io-language <unknown> (embed)
+	- freeglut <unknown> (embed)
+	- mrpt <unknown> (embed)
+
+mingw32-gcc
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- backport-util-concurrent <unknown> (embed)
+	- boost <unknown> (embed)
+	- classpathx-mail <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- frysk <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gdb <unknown> (embed)
+	- glibc <unknown> (embed)
+	- insight <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- kernel <unknown> (embed)
+	- libkml <unknown> (embed)
+	- mingw32-boost 1.41.0-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- relaxngDatatype <unknown> (embed)
+	- samba <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- squeak-vm <unknown> (embed)
+	- texlive <unknown> (embed)
+	- virtuoso-opensource <unknown> (embed)
+	- wine <unknown> (embed)
+
+mingw32-gettext
+	- dc3dd <unknown> (embed)
+	- freedink <unknown> (embed)
+	- g-wrap <unknown> (embed)
+	- gettext <unknown> (embed)
+	- gnupg2 <unknown> (embed)
+	- libunistring <unknown> (embed)
+	- mingw32-iconv <unknown> (embed)
+	- pspp <unknown> (embed)
+	- tuxmath <unknown> (embed)
+
+mingw32-glibmm24
+	- conexus <unknown> (embed)
+	- glibmm24 <unknown> (embed)
+	- gnome-vfsmm26 <unknown> (embed)
+	- gstreamermm <unknown> (embed)
+	- gtkmm24 <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- libgdamm <unknown> (embed)
+	- libpanelappletmm <unknown> (embed)
+	- mingw32-gtkmm24 2.19.6-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mm-common <unknown> (embed)
+	- ogre <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- qca2 <unknown> (embed)
+	- wsdlpull <unknown> (embed)
+	- xqilla <unknown> (embed)
+
+mingw32-gnutls
+	- gnutls <unknown> (embed)
+	- libmicrohttpd <unknown> (embed)
+	- opencdk <unknown> (embed)
+
+mingw32-gtkmm24
+	- ardour <unknown> (embed)
+	- cairomm <unknown> (embed)
+	- clutter-gtkmm <unknown> (embed)
+	- cluttermm <unknown> (embed)
+	- conexus <unknown> (embed)
+	- fpc <unknown> (embed)
+	- gdk-pixbuf <unknown> (embed)
+	- geglmm <unknown> (embed)
+	- glibmm24 <unknown> (embed)
+	- gnome-vfsmm26 <unknown> (embed)
+	- goocanvasmm <unknown> (embed)
+	- gstreamermm <unknown> (embed)
+	- gtk-sharp2 <unknown> (embed)
+	- gtk2 <unknown> (embed)
+	- gtkglextmm <unknown> (embed)
+	- gtkmm24 <unknown> (embed)
+	- libgdamm <unknown> (embed)
+	- libgnomecanvasmm26 <unknown> (embed)
+	- libxml++ <unknown> (embed)
+	- mingw32-cairomm <unknown> (embed)
+	- mingw32-glibmm24 <unknown> (embed)
+	- mingw32-gtk2 <unknown> (embed)
+	- mingw32-libxml++ <unknown> (embed)
+	- ogre <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- perl-Gtk2 <unknown> (embed)
+	- pygtk2 <unknown> (embed)
+	- qca2 <unknown> (embed)
+	- ruby-gnome2 <unknown> (embed)
+	- scim <unknown> (embed)
+	- stk <unknown> (embed)
+	- trustyrc <unknown> (embed)
+	- wsdlpull <unknown> (embed)
+	- xqilla <unknown> (embed)
+
+mingw32-libgeotiff
+	- gdal <unknown> (embed)
+	- grass <unknown> (embed)
+	- libgeotiff <unknown> (embed)
+
+mingw32-libidn
+	- libidn <unknown> (embed)
+	- psi <unknown> (embed)
+	- tigase-utils <unknown> (embed)
+
+mingw32-libjpeg
+	- bolzplatz2006 <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- firefox <unknown> (embed)
+	- fltk <unknown> (embed)
+	- freeimage <unknown> (embed)
+	- gdal <unknown> (embed)
+	- htmldoc <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- libAfterImage <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- opencv <unknown> (embed)
+	- paraview <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- qt <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- rawtherapee <unknown> (embed)
+	- root <unknown> (embed)
+	- seamonkey <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- texlive <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- tremfusion <unknown> (embed)
+	- tremulous <unknown> (embed)
+	- vtk <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+mingw32-libxml2
+	- R <unknown> (embed)
+	- amavisd-new <unknown> (embed)
+	- boost <unknown> (embed)
+	- denemo <unknown> (embed)
+	- gettext <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- libxml2 <unknown> (embed)
+	- mingw32-boost <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- netbeans <unknown> (embed)
+	- virtuoso-opensource <unknown> (embed)
+	- vtk <unknown> (embed)
+
+mingw32-libzip
+	- libzip <unknown> (embed)
+	- openlierox <unknown> (embed)
+	- php <unknown> (embed)
+
+mingw32-openjpeg
+	- ReviewBoard <unknown> (embed)
+	- blender <unknown> (embed)
+	- freeimage <unknown> (embed)
+	- maven-scm <unknown> (embed)
+	- opengrok <unknown> (embed)
+	- openjpeg <unknown> (embed)
+	- tidy <unknown> (embed)
+	- vegastrike <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+	- yap <unknown> (embed)
+
+mingw32-opensc
+	- opensc <unknown> (embed)
+	- pam_pkcs11 <unknown> (embed)
+	- qt3 <unknown> (embed)
+
+mingw32-openssl
+	- abiword <unknown> (embed)
+	- ncrack <unknown> (embed)
+	- nmap <unknown> (embed)
+	- openssl <unknown> (embed)
+
+mingw32-pango
+	- pango <unknown> (embed)
+	- quesoglc <unknown> (embed)
+
+mingw32-pangomm
+	- ardour <unknown> (embed)
+	- at-spi <unknown> (embed)
+	- bit <unknown> (embed)
+	- cairomm <unknown> (embed)
+	- cluttermm <unknown> (embed)
+	- conexus <unknown> (embed)
+	- dbus-cxx <unknown> (embed)
+	- glibmm24 <unknown> (embed)
+	- gnome-vfsmm26 <unknown> (embed)
+	- gstreamermm <unknown> (embed)
+	- gtkmm24 <unknown> (embed)
+	- gtksourceviewmm <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- libgdamm <unknown> (embed)
+	- mingw32-cairomm <unknown> (embed)
+	- mingw32-glibmm24 <unknown> (embed)
+	- mingw32-gtkmm24 2.19.6-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mingw32-libxml++ <unknown> (embed)
+	- ogre <unknown> (embed)
+	- pangomm <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- scim <unknown> (embed)
+
+mingw32-plotmm
+	- apbs <unknown> (embed)
+	- gtkglextmm <unknown> (embed)
+	- ogre <unknown> (embed)
+	- plotmm <unknown> (embed)
+	- skyviewer <unknown> (embed)
+	- xerces-c27 <unknown> (embed)
+	- xqilla <unknown> (embed)
+
+mingw32-proj
+	- merkaartor <unknown> (embed)
+	- ogdi <unknown> (embed)
+	- proj <unknown> (embed)
+	- python-basemap <unknown> (embed)
+	- python-basemap-data <unknown> (embed)
+
+mingw32-qt
+	- CGAL <unknown> (embed)
+	- PyQt4 <unknown> (embed)
+	- arora <unknown> (embed)
+	- clementine <unknown> (embed)
+	- clucene <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- cvs <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- fontmatrix <unknown> (embed)
+	- fonts-ISO8859-2 <unknown> (embed)
+	- grantlee <unknown> (embed)
+	- grid-packaging-tools <unknown> (embed)
+	- gtk2 <unknown> (embed)
+	- id3lib <unknown> (embed)
+	- k3b <unknown> (embed)
+	- k3d <unknown> (embed)
+	- kdebindings <unknown> (embed)
+	- kdegames3 <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- kdewebdev <unknown> (embed)
+	- libmng <unknown> (embed)
+	- libqxt <unknown> (embed)
+	- mingw32-gtk2 <unknown> (embed)
+	- monkeystudio <unknown> (embed)
+	- mscore <unknown> (embed)
+	- nx <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- python-matplotlib <unknown> (embed)
+	- qgis <unknown> (embed)
+	- qscintilla <unknown> (embed)
+	- qt <unknown> (embed)
+	- qt-creator <unknown> (embed)
+	- qt-mobility <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- qtscriptgenerator <unknown> (embed)
+	- root <unknown> (embed)
+	- rosegarden4 <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- texlive <unknown> (embed)
+	- texworks <unknown> (embed)
+	- tigervnc <unknown> (embed)
+	- ugene <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+
+mingw32-qwt
+	- CCfits <unknown> (embed)
+	- LabPlot <unknown> (embed)
+	- PyQwt <unknown> (embed)
+	- bakery <unknown> (embed)
+	- cegui <unknown> (embed)
+	- frepple <unknown> (embed)
+	- gnome-vfsmm26 <unknown> (embed)
+	- healpix <unknown> (embed)
+	- libmsn <unknown> (embed)
+	- libqalculate <unknown> (embed)
+	- mingw32-plotmm <unknown> (embed)
+	- mysql++ <unknown> (embed)
+	- ogre <unknown> (embed)
+	- openvrml <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- plotmm <unknown> (embed)
+	- qca2 <unknown> (embed)
+	- qtiplot <unknown> (embed)
+	- qwt <unknown> (embed)
+	- qwt-doc <unknown> (embed)
+	- rapidsvn <unknown> (embed)
+	- schroot <unknown> (embed)
+	- skyviewer <unknown> (embed)
+	- vigra <unknown> (embed)
+	- wsdlpull <unknown> (embed)
+	- xqilla <unknown> (embed)
+
+mingw32-sqlite
+	- callweaver <unknown> (embed)
+	- klamav <unknown> (embed)
+	- koffice-kivio <unknown> (embed)
+	- perl-DBD-SQLite2 <unknown> (embed)
+	- sqlite <unknown> (embed)
+	- sqlite2 <unknown> (embed)
+
+mingw32-tcl
+	- ds9 <unknown> (embed)
+	- insight <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- pl <unknown> (embed)
+	- python-matplotlib <unknown> (embed)
+	- tcl <unknown> (embed)
+	- tcl-tclvfs <unknown> (embed)
+	- tcl-trf <unknown> (embed)
+	- tcllib <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+
+mingw32-wpcap
+	- jpcap <unknown> (embed)
+	- nmap <unknown> (embed)
+	- snort <unknown> (embed)
+	- xen <unknown> (embed)
+
+mingw32-xerces-c
+	- xalan-j2 <unknown> (embed)
+	- xerces-c <unknown> (embed)
+	- xerces-c27 <unknown> (embed)
+	- xerces-j2 <unknown> (embed)
+	- xml-stylebook <unknown> (embed)
+
+mirrormanager
+	- ipa <unknown> (embed)
+	- smolt <unknown> (embed)
+
+moblin-cursor-theme
+	- dmz-cursor-themes <unknown> (embed)
+	- kdebase-workspace <unknown> (embed)
+
+moin
+	- horde <unknown> (embed)
+	- wxPython <unknown> (embed)
+
+monkeystudio
+	- horde <unknown> (embed)
+	- wxPython <unknown> (embed)
+
+mono
+	- banshee <unknown> (embed)
+	- beagle <unknown> (embed)
+	- bzr-explorer <unknown> (embed)
+	- gdata-sharp <unknown> (embed)
+	- gtk-sharp2 <unknown> (embed)
+	- mono-basic <unknown> (embed)
+	- mono-debugger <unknown> (embed)
+	- mono-nunit22 <unknown> (embed)
+	- mono-tools <unknown> (embed)
+	- monodevelop <unknown> (embed)
+	- monotorrent <unknown> (embed)
+	- ncl <unknown> (embed)
+	- scribus <unknown> (embed)
+	- tango-icon-theme <unknown> (embed)
+	- xsp <unknown> (embed)
+
+mono-addins
+	- mono <unknown> (embed)
+	- monodevelop 2.2.2-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+mono-debugger
+	- compat-gcc-296 <unknown> (embed)
+	- firebird <unknown> (embed)
+	- ncl <unknown> (embed)
+	- root <unknown> (embed)
+
+mono-ndoc
+	- log4net <unknown> (embed)
+	- mono-sharpcvslib <unknown> (embed)
+	- nant 0.85-34.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- selenium-remote-control <unknown> (embed)
+	- taoframework <unknown> (embed)
+
+mozldap
+	- 389-ds-base 1.2.6.1-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- seamonkey <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- thunderbird <unknown> (embed)
+
+mpop
+	- amanda <unknown> (embed)
+	- augeas <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- febootstrap <unknown> (embed)
+	- freedink <unknown> (embed)
+	- g-wrap <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gettext <unknown> (embed)
+	- gmediaserver <unknown> (embed)
+	- gnutls <unknown> (embed)
+	- hivex <unknown> (embed)
+	- icoutils <unknown> (embed)
+	- libgsasl <unknown> (embed)
+	- libguestfs <unknown> (embed)
+	- libprelude <unknown> (embed)
+	- libpreludedb <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- mingw32-gnutls <unknown> (embed)
+	- msmtp <unknown> (embed)
+	- nagios-plugins <unknown> (embed)
+	- prelude-lml <unknown> (embed)
+	- prelude-manager <unknown> (embed)
+	- pspp <unknown> (embed)
+	- renameutils <unknown> (embed)
+	- zile <unknown> (embed)
+
+mrpt
+	- xorg-x11-fonts <unknown> (embed)
+
+msmtp
+	- amanda <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- g-wrap <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gmediaserver <unknown> (embed)
+	- gnutls <unknown> (embed)
+	- jwhois <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- mingw32-gnutls <unknown> (embed)
+	- mpop <unknown> (embed)
+	- renameutils <unknown> (embed)
+
+msp430-binutils
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-binutils <unknown> (embed)
+	- avr-gcc <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- binutils <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gdb <unknown> (embed)
+	- ghdl <unknown> (embed)
+	- glibc <unknown> (embed)
+	- insight <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- mingw32-binutils <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- qemu <unknown> (embed)
+	- xen <unknown> (embed)
+
+msp430-gcc
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gdb <unknown> (embed)
+	- ghdl <unknown> (embed)
+	- glibc <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- wine <unknown> (embed)
+
+msp430-libc
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- dietlibc <unknown> (embed)
+	- xen <unknown> (embed)
+
+muse
+	- armstrong <unknown> (embed)
+	- mscore <unknown> (embed)
+
+mutt
+	- alpine <unknown> (embed)
+	- claws-mail <unknown> (embed)
+
+mutter
+	- metacity <unknown> (embed)
+	- mutter-mbl <unknown> (embed)
+
+nabi
+	- fcitx <unknown> (embed)
+	- gcin <unknown> (embed)
+	- ibus <unknown> (embed)
+	- scim <unknown> (embed)
+	- sunpinyin <unknown> (embed)
+
+nagios-plugins
+	- amanda <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- dclib <unknown> (embed)
+	- libguestfs <unknown> (embed)
+
+ncurses
+	- cmake <unknown> (embed)
+	- texlive <unknown> (embed)
+
+ndesk-dbus
+	- banshee-community-extensions 1.6.0-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mono-zeroconf <unknown> (embed)
+
+ndoutils
+	- nagios <unknown> (embed)
+	- pnp4nagios <unknown> (embed)
+
+nekobee-dssi
+	- whysynth-dssi <unknown> (embed)
+	- xsynth-dssi <unknown> (embed)
+
+nessus-libraries
+	- argus <unknown> (embed)
+	- mingw32-wpcap <unknown> (embed)
+	- nmap <unknown> (embed)
+
+netbeans-javaparser
+	- eclipse <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+
+netbeans-platform
+	- OmegaT <unknown> (embed)
+	- gridengine <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- netbeans 6.8-6.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- pdf-renderer <unknown> (embed)
+
+ngrep
+	- httpd <unknown> (embed)
+	- pcre <unknown> (embed)
+	- privoxy <unknown> (embed)
+	- tin <unknown> (embed)
+	- tomcat5 <unknown> (embed)
+
+nilfs-utils
+	- ocfs2-tools <unknown> (embed)
+	- util-linux-ng <unknown> (embed)
+
+nsd
+	- ldns <unknown> (embed)
+	- unbound <unknown> (embed)
+
+nspr
+	- dnssec-tools <unknown> (embed)
+	- firefox 3.6.12-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- gnash <unknown> (embed)
+	- seamonkey 2.0.8-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- spicebird 0.7.1-1.fc11 (embed)
+	NOTE: Might be fixed earlier.
+	- sunbird 1.0-0.30.b2pre.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- thunderbird 3.1.6-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner 1.9.2.12-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+nss
+	- firefox <unknown> (embed)
+	- mod_revocator 1.0.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- pki-native-tools 1.3.0-5.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- seamonkey 2.0.8-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- spicebird 0.7.1-1.fc11 (embed)
+	NOTE: Might be fixed earlier.
+	- sunbird 1.0-0.30.b2pre.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- thunderbird 3.1.6-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner 1.9.2.12-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+nss-util
+	- esc <unknown> (embed)
+	- firefox <unknown> (embed)
+	- imake <unknown> (embed)
+	- js <unknown> (embed)
+	- jss <unknown> (embed)
+	- mozldap 6.0.5-6.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- nspr <unknown> (embed)
+	- nss 3.12.8-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- nss-softokn 3.12.8-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- nx <unknown> (embed)
+	- seamonkey 2.0.8-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- spicebird 0.7.1-1.fc11 (embed)
+	NOTE: Might be fixed earlier.
+	- sunbird 1.0-0.30.b2pre.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- thunderbird 3.1.6-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner 1.9.2.12-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+ntp
+	- bind <unknown> (embed)
+	- dhcp <unknown> (embed)
+	- kernel <unknown> (embed)
+	- openswan <unknown> (embed)
+
+nx
+	- EMBOSS <unknown> (embed)
+	- ayttm <unknown> (embed)
+	- emacs <unknown> (embed)
+	- httpd <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- kernel <unknown> (embed)
+	- openswan <unknown> (embed)
+	- php <unknown> (embed)
+	- poco <unknown> (embed)
+	- texlive <unknown> (embed)
+
+nyquist
+	- audacity <unknown> (embed)
+	- stk <unknown> (embed)
+
+ocaml
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- cduce <unknown> (embed)
+	- glibc <unknown> (embed)
+	- mono <unknown> (embed)
+	- ocaml-cmigrep <unknown> (embed)
+	- why <unknown> (embed)
+
+ocaml-camomile
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- glibc <unknown> (embed)
+	- texlive <unknown> (embed)
+
+octave
+	- atlas <unknown> (embed)
+	- ncl <unknown> (embed)
+
+ode
+	- crystalspace 1.2.1-6.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- ember <unknown> (embed)
+	- vegastrike <unknown> (embed)
+
+ogdi
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- krb5 <unknown> (embed)
+	- snort <unknown> (embed)
+
+oniguruma
+	- ochusha 0.6.0.1-0.7.cvs20090728T0130.fc13.1 (embed)
+	NOTE: Might be fixed earlier.
+	- php <unknown> (embed)
+
+opencv
+	- digikam <unknown> (embed)
+	- qt3 <unknown> (embed)
+
+openjade
+	- opensp <unknown> (embed)
+	- python-pygments <unknown> (embed)
+
+openser
+	- opensips <unknown> (embed)
+	- ser <unknown> (embed)
+
+openssh
+	- dropbear <unknown> (embed)
+	- man-pages-fr <unknown> (embed)
+	- nx <unknown> (embed)
+	- texlive <unknown> (embed)
+
+openssh
+	- libbsd <unknown> (embed)
+	- ncrack <unknown> (embed)
+	- pam_ssh <unknown> (embed)
+	- uim <unknown> (embed)
+
+openssl
+	- crack <unknown> (embed)
+	- cyrus-sasl 2.1.23-11.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mingw32-openssl <unknown> (embed)
+	- openswan <unknown> (embed)
+
+pam_pkcs11
+	- alleggl <unknown> (embed)
+	- apbs <unknown> (embed)
+	- armadillo <unknown> (embed)
+	- conexus <unknown> (embed)
+	- efreet <unknown> (embed)
+	- healpix <unknown> (embed)
+	- libkate <unknown> (embed)
+	- libofx <unknown> (embed)
+	- ogre <unknown> (embed)
+	- openscap <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- rpm <unknown> (embed)
+	- tinyows <unknown> (embed)
+	- trustyrc <unknown> (embed)
+	- vrq <unknown> (embed)
+
+pam_smb
+	- freeradius <unknown> (embed)
+	- squid <unknown> (embed)
+
+papyrus
+	- apbs <unknown> (embed)
+	- armadillo <unknown> (embed)
+	- cegui <unknown> (embed)
+	- conexus <unknown> (embed)
+	- frepple <unknown> (embed)
+	- gstreamermm <unknown> (embed)
+	- healpix <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- ogre <unknown> (embed)
+	- qca2 <unknown> (embed)
+	- schroot <unknown> (embed)
+	- wsdlpull <unknown> (embed)
+	- xqilla <unknown> (embed)
+
+paraview
+	- hdf5 <unknown> (embed)
+
+pari
+	- perl-Math-Pari 2.010806-3.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+pathfinder
+	- java-1.6.0-openjdk <unknown> (embed)
+	- mono-bouncycastle <unknown> (embed)
+	- qca2 <unknown> (embed)
+
+pcre
+	- EMBOSS 6.2.0-3.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- Falcon <unknown> (embed)
+	- R <unknown> (embed)
+	- cherokee <unknown> (embed)
+	- erlang <unknown> (embed)
+	- glib2 <unknown> (embed)
+	- httpd 2.2.16-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mingw32-glib2 <unknown> (embed)
+	- nmap 5.21-8.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- php 5.3.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- poco <unknown> (embed)
+	- tin 1.8.3-6.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- tomcat5 <unknown> (embed)
+	- virtuoso-opensource <unknown> (embed)
+
+pdfedit
+	- koffice-kivio <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- texlive <unknown> (embed)
+
+pentaho-libxml
+	- libbase <unknown> (embed)
+	- libfonts <unknown> (embed)
+	- libformula <unknown> (embed)
+	- libloader <unknown> (embed)
+	- librepository <unknown> (embed)
+
+peppy
+	- gallery2 <unknown> (embed)
+	- grass <unknown> (embed)
+
+perl-BerkeleyDB
+	- compat-db <unknown> (embed)
+	- db4 <unknown> (embed)
+	- nss_db <unknown> (embed)
+	- openldap <unknown> (embed)
+
+perl-CGI-Application-Structured-Tools
+	- perl-CGI-Application-Structured <unknown> (embed)
+	- perl-Module-Starter-Plugin-CGIApp <unknown> (embed)
+
+perl-Class-C3-XS
+	- perl-Class-Autouse <unknown> (embed)
+	- perl-Class-C3 0.22-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+perl-Compress-Raw-Bzip2
+	- perl <unknown> (embed)
+	- perl-Compress-Raw-Zlib <unknown> (embed)
+
+perl-Convert-UUlib
+	- pan <unknown> (embed)
+	- uudeview <unknown> (embed)
+
+perl-Crypt-SMIME
+	- jpoker <unknown> (embed)
+	- m4ri <unknown> (embed)
+	- netbeans-javaparser <unknown> (embed)
+
+perl-DBD-CSV
+	- perl-DBD-SQLite2 <unknown> (embed)
+	- perl-DBD-XBase <unknown> (embed)
+
+perl-DBD-SQLite2
+	- digikam <unknown> (embed)
+	- koffice-kivio <unknown> (embed)
+	- php <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- sqlite2 <unknown> (embed)
+
+perl-Date-Pcalc
+	- perl-Date-Calc <unknown> (embed)
+	- psad <unknown> (embed)
+
+perl-Devel-StackTrace-AsHTML
+	- perl-CGI-Application-PSGI <unknown> (embed)
+	- perl-CGI-Compile <unknown> (embed)
+	- perl-CGI-PSGI <unknown> (embed)
+	- perl-FCGI-Client <unknown> (embed)
+	- perl-Filesys-Notify-Simple <unknown> (embed)
+	- perl-Hash-MultiValue <unknown> (embed)
+	- perl-Test-Requires <unknown> (embed)
+	- perl-Test-Synopsis <unknown> (embed)
+	- perl-Test-TCP <unknown> (embed)
+	- perl-opts <unknown> (embed)
+
+perl-Encode-Detect
+	- amarok <unknown> (embed)
+	- clementine <unknown> (embed)
+	- codeblocks <unknown> (embed)
+	- firefox <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- seamonkey <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+perl-IO-Compress-Bzip2
+	- perl <unknown> (embed)
+	- perl-IO-Compress <unknown> (embed)
+	- perl-IO-Compress-Lzma <unknown> (embed)
+
+perl-Lingua-Stem-Snowball
+	- postgresql <unknown> (embed)
+	- sepostgresql <unknown> (embed)
+
+perl-MooseX-Daemonize
+	- acpid <unknown> (embed)
+	- arora <unknown> (embed)
+	- maven-scm <unknown> (embed)
+	- ohm <unknown> (embed)
+	- opengrok <unknown> (embed)
+
+perl-Syntax-Highlight-Engine-Kate
+	- kdelibs <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+
+perl-Test-Requires
+	- perl-FCGI-Client <unknown> (embed)
+	- perl-Test-SharedFork <unknown> (embed)
+	- perl-opts <unknown> (embed)
+
+perl-Test-Simple
+	- grid-packaging-tools <unknown> (embed)
+	- perl <unknown> (embed)
+
+perl-Text-MultiMarkdown
+	- perl-Text-Markdown <unknown> (embed)
+	- python-markdown2 <unknown> (embed)
+
+perl-Tk
+	- ds9 <unknown> (embed)
+	- gdal <unknown> (embed)
+	- grass <unknown> (embed)
+	- insight <unknown> (embed)
+	- perl-Tk-TableMatrix 1.23-7.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- texlive <unknown> (embed)
+
+perl-Verilog
+	- perl-SystemPerl 1.330-2.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- perl-Verilog-Perl 3.303-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+perl-bioperl-run
+	- perl-Convert-Binary-C <unknown> (embed)
+	- perl-bioperl 1.6.1-3.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+perl-constant-boolean
+	- perl-MooseX-GlobRef-Object <unknown> (embed)
+	- perl-Symbol-Util <unknown> (embed)
+	- perl-Test-Assert 0.0501-4.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- perl-Test-Unit-Lite <unknown> (embed)
+
+petitboot
+	- advancecomp <unknown> (embed)
+	- bolzplatz2006 <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- firefox <unknown> (embed)
+	- fltk <unknown> (embed)
+	- freeimage <unknown> (embed)
+	- gdal <unknown> (embed)
+	- htmldoc <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- koffice <unknown> (embed)
+	- libAfterImage <unknown> (embed)
+	- libharu <unknown> (embed)
+	- libpng <unknown> (embed)
+	- libpng10 <unknown> (embed)
+	- mingw32-libpng <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- opencv <unknown> (embed)
+	- optipng <unknown> (embed)
+	- paraview <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- pngcrush <unknown> (embed)
+	- python-matplotlib <unknown> (embed)
+	- qt <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- root <unknown> (embed)
+	- seamonkey <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- tcllib <unknown> (embed)
+	- texlive <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- vtk <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+phonon
+	- kdebase-runtime 4.5.2-3.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- kdelibs 4.5.2-8.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mingw32-qt <unknown> (embed)
+	- qt <unknown> (embed)
+
+php-Smarty
+	- gallery2 2.3.1-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- postgresql-pgpoolAdmin <unknown> (embed)
+	- ser <unknown> (embed)
+	- zarafa <unknown> (embed)
+	- zikula 1.2.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+php-geshi
+	- libvpx <unknown> (embed)
+	- mono-tools <unknown> (embed)
+	- pastebin <unknown> (embed)
+	- php-ZendFramework <unknown> (embed)
+	- websvn 2.3.1-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+php-layers-menu
+	- ipplan 4.92-3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- zikula <unknown> (embed)
+
+pigment-python
+	- gstreamer-python <unknown> (embed)
+	- pyclutter <unknown> (embed)
+	- pygobject2 <unknown> (embed)
+
+pki-tks
+	- pki-ca <unknown> (embed)
+	- pki-kra <unknown> (embed)
+	- pki-ocsp <unknown> (embed)
+	- tomcat5 <unknown> (embed)
+
+plexus-utils
+	- maven-shared 8-4.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- maven2 2.0.8-3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+plpa
+	- gridengine <unknown> (embed)
+	- htop <unknown> (embed)
+	- mpich2 <unknown> (embed)
+
+pmtools
+	- kcbench-data <unknown> (embed)
+	- xen <unknown> (embed)
+
+pngcrush
+	- bolzplatz2006 <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- firefox <unknown> (embed)
+	- fltk <unknown> (embed)
+	- freeimage <unknown> (embed)
+	- gdal <unknown> (embed)
+	- htmldoc <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- libAfterImage <unknown> (embed)
+	- libpng <unknown> (embed)
+	- libpng10 <unknown> (embed)
+	- mingw32-libpng <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- opencv <unknown> (embed)
+	- optipng <unknown> (embed)
+	- paraview <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- petitboot <unknown> (embed)
+	- qt <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- root <unknown> (embed)
+	- seamonkey <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- texlive <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- vtk <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+pocketsphinx
+	- cmusphinx3 <unknown> (embed)
+	- sphinxbase <unknown> (embed)
+
+poker-network
+	- audacious-plugins <unknown> (embed)
+	- freeciv <unknown> (embed)
+	- jpoker <unknown> (embed)
+	- poker2d <unknown> (embed)
+
+pootle
+	- Django <unknown> (embed)
+	- transifex <unknown> (embed)
+
+portaudio
+	- armstrong <unknown> (embed)
+	- audacity <unknown> (embed)
+	- nyquist 3.03-3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+portmidi
+	- armstrong 0.2.6-11.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- audacity <unknown> (embed)
+	- mscore <unknown> (embed)
+
+postgresql
+	- postgresql-pgpool-II <unknown> (embed)
+	- rekall <unknown> (embed)
+	- sepostgresql <unknown> (embed)
+
+projectM-libvisual
+	- libprojectM <unknown> (embed)
+	- projectM-jack <unknown> (embed)
+	- projectM-pulseaudio <unknown> (embed)
+
+psacct
+	- ale <unknown> (embed)
+	- amanda <unknown> (embed)
+	- augeas <unknown> (embed)
+	- bison <unknown> (embed)
+	- cflow <unknown> (embed)
+	- clisp <unknown> (embed)
+	- cpio <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- febootstrap <unknown> (embed)
+	- findutils <unknown> (embed)
+	- freedink <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gengetopt <unknown> (embed)
+	- gettext <unknown> (embed)
+	- gmediaserver <unknown> (embed)
+	- gnutls <unknown> (embed)
+	- gtk-vnc <unknown> (embed)
+	- gv <unknown> (embed)
+	- gzip <unknown> (embed)
+	- hello <unknown> (embed)
+	- hivex <unknown> (embed)
+	- icoutils <unknown> (embed)
+	- libgsasl <unknown> (embed)
+	- libguestfs <unknown> (embed)
+	- libidn <unknown> (embed)
+	- libntlm <unknown> (embed)
+	- libprelude <unknown> (embed)
+	- libpreludedb <unknown> (embed)
+	- libtasn1 <unknown> (embed)
+	- libunistring <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- mingw32-gnutls <unknown> (embed)
+	- mingw32-gtk-vnc <unknown> (embed)
+	- mingw32-iconv <unknown> (embed)
+	- mingw32-libidn <unknown> (embed)
+	- mpop <unknown> (embed)
+	- msmtp <unknown> (embed)
+	- nagios-plugins <unknown> (embed)
+	- netcf <unknown> (embed)
+	- paperkey <unknown> (embed)
+	- paraview <unknown> (embed)
+	- prelude-lml <unknown> (embed)
+	- prelude-manager <unknown> (embed)
+	- pspp <unknown> (embed)
+	- renameutils <unknown> (embed)
+	- sed <unknown> (embed)
+	- sharutils <unknown> (embed)
+	- source-highlight <unknown> (embed)
+	- tar <unknown> (embed)
+	- texlive <unknown> (embed)
+	- vtk <unknown> (embed)
+	- wget <unknown> (embed)
+	- zile <unknown> (embed)
+
+psi
+	- kdegames <unknown> (embed)
+	- kdenetwork <unknown> (embed)
+
+ptlib
+	- firebird <unknown> (embed)
+	- mysql <unknown> (embed)
+	- nx <unknown> (embed)
+	- php <unknown> (embed)
+
+purple-msn-pecan
+	- amsn <unknown> (embed)
+	- libmsn <unknown> (embed)
+
+pyOpenSSL
+	- pychart <unknown> (embed)
+	- pydb <unknown> (embed)
+
+pyicq-t
+	- calibre <unknown> (embed)
+	- eric <unknown> (embed)
+	- taskcoach <unknown> (embed)
+
+pymunk
+	- epydoc <unknown> (embed)
+	- python-inotify <unknown> (embed)
+
+pysvn
+	- kdebindings <unknown> (embed)
+	- python-matplotlib <unknown> (embed)
+
+python-EnvisagePlugins
+	- python-AppTools <unknown> (embed)
+	- python-TraitsGUI <unknown> (embed)
+
+python-TraitsBackendQt
+	- python-TraitsBackendWX <unknown> (embed)
+	- python-TraitsGUI 3.4.0-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+python-TraitsBackendWX
+	- python-Traits <unknown> (embed)
+	- python-TraitsGUI 3.4.0-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+python-ZSI
+	- SOAPpy <unknown> (embed)
+	- apbs 1.2.1-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+python-basemap
+	- geos <unknown> (embed)
+	- python-basemap-data 0.99.4-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+python-basemap-data
+
+python-batchhttp
+	- python-remoteobjects <unknown> (embed)
+	- python-typepad 1.1.2-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+python-couchdb
+	- mpi4py <unknown> (embed)
+	- python-inotify <unknown> (embed)
+	- python-upoints <unknown> (embed)
+
+python-dateutil
+	- python-matplotlib 0.99.1.2-4.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- supybot 0.83.4.1-2.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+python-dictclient
+	- afflib <unknown> (embed)
+	- apcupsd <unknown> (embed)
+	- bochs <unknown> (embed)
+	- rtpproxy <unknown> (embed)
+	- tolua++ <unknown> (embed)
+	- yafray <unknown> (embed)
+
+python-docs
+	- PyXML <unknown> (embed)
+	- eclipse-pydev <unknown> (embed)
+	- exaile <unknown> (embed)
+	- git-cola <unknown> (embed)
+	- jython <unknown> (embed)
+	- pychart <unknown> (embed)
+	- python <unknown> (embed)
+	- python-gevent <unknown> (embed)
+	- python-simplejson <unknown> (embed)
+	- python-sphinx <unknown> (embed)
+	- python3 <unknown> (embed)
+	- pyutil <unknown> (embed)
+	- tix <unknown> (embed)
+	- vegastrike-data <unknown> (embed)
+
+python-googlevoice
+	- PyQwt <unknown> (embed)
+	- python-paver <unknown> (embed)
+	- python-psycopg2 <unknown> (embed)
+
+python-hwdata
+	- epydoc <unknown> (embed)
+	- mpi4py <unknown> (embed)
+	- pyaudio <unknown> (embed)
+	- python-geoclue <unknown> (embed)
+	- python-inotify <unknown> (embed)
+	- python-instant <unknown> (embed)
+	- python-upoints <unknown> (embed)
+
+python-matplotlib
+	- kdebindings <unknown> (embed)
+	- koffice <unknown> (embed)
+
+python-numarray
+	- numpy <unknown> (embed)
+	- scipy <unknown> (embed)
+
+python-numeric
+	- numpy <unknown> (embed)
+	- python-numarray <unknown> (embed)
+
+python-olpcgames
+	- python-elements <unknown> (embed)
+	- sugar-physics 4-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+python-openid
+	- php-pear-Auth-OpenID <unknown> (embed)
+	- ruby-openid <unknown> (embed)
+
+python-pgu
+	- pybox2d <unknown> (embed)
+	- seahorse-adventures <unknown> (embed)
+
+python-pygments
+	- eric <unknown> (embed)
+	- moin <unknown> (embed)
+	- wxPython <unknown> (embed)
+
+python-routes
+	- PyQwt <unknown> (embed)
+	- python-paver <unknown> (embed)
+	- python-psycopg2 <unknown> (embed)
+	- python-sphinx <unknown> (embed)
+
+python-simplejson
+	- cas <unknown> (embed)
+	- ipython <unknown> (embed)
+	- python-kaa-base <unknown> (embed)
+	- python-kaa-metadata <unknown> (embed)
+	- python-kinterbasdb <unknown> (embed)
+	- python-simpy <unknown> (embed)
+
+python-simpy
+
+python-sqlite2
+	- python <unknown> (embed)
+	- python-docs <unknown> (embed)
+	- python3 <unknown> (embed)
+
+python-telepathy
+	- telepathy-gabble <unknown> (embed)
+	- telepathy-glib <unknown> (embed)
+	- telepathy-mission-control <unknown> (embed)
+
+pytz
+	- FlightGear-data <unknown> (embed)
+	- mingw32-tcl <unknown> (embed)
+	- python-matplotlib 0.99.1.2-4.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- tcl <unknown> (embed)
+
+qbittorrent
+	- clementine <unknown> (embed)
+	- kdeedu <unknown> (embed)
+	- oxygen-icon-theme <unknown> (embed)
+
+qdevelop
+	- kdesdk <unknown> (embed)
+	- kdevelop <unknown> (embed)
+
+qedje
+	- kdelibs <unknown> (embed)
+	- qgis <unknown> (embed)
+	- qzion <unknown> (embed)
+
+qelectrotech
+	- clementine <unknown> (embed)
+	- crystal-clear <unknown> (embed)
+	- oxygen-icon-theme <unknown> (embed)
+	- quassel <unknown> (embed)
+
+qemu
+	- grub2 <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- openbios <unknown> (embed)
+	- uboot-tools <unknown> (embed)
+	- xen <unknown> (embed)
+	- xenner <unknown> (embed)
+
+qgit
+	- crystal-clear <unknown> (embed)
+	- mcu8051ide <unknown> (embed)
+
+qlandkarte
+	- garmindev 0.3.4-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- qlandkartegt <unknown> (embed)
+
+qmpdclient
+	- clementine <unknown> (embed)
+	- oxygen-icon-theme <unknown> (embed)
+
+qscintilla
+	- armadillo <unknown> (embed)
+	- codeblocks <unknown> (embed)
+	- geany <unknown> (embed)
+	- monkeystudio 1.8.4.0-2.20100517svn3732.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- ogre <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- sqliteman <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+
+qt-qsa
+	- LabPlot 1.6.0.2-8.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- pdfedit <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- ugene <unknown> (embed)
+
+qt3
+	- koffice-kivio 1.6.3-32.trinity.20100511svn.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- php <unknown> (embed)
+	- texlive <unknown> (embed)
+
+qtgpsc
+	- fwbuilder <unknown> (embed)
+	- inetvis <unknown> (embed)
+
+qtlockedfile
+	- clementine <unknown> (embed)
+	- merkaartor <unknown> (embed)
+	- qtiocompressor <unknown> (embed)
+	- qtsingleapplication 2.6.1-4.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+qtscriptgenerator
+	- kdebindings <unknown> (embed)
+	- kdevelop <unknown> (embed)
+
+qtsingleapplication
+	- clementine 0.5.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- kdocker <unknown> (embed)
+	- merkaartor <unknown> (embed)
+	- minitunes <unknown> (embed)
+	- mscore 0.9.6.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- qbittorrent 2.4.8-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- qtlockedfile <unknown> (embed)
+	- qutim <unknown> (embed)
+
+quassel
+	- coccinella <unknown> (embed)
+	- oxygen-icon-theme <unknown> (embed)
+
+qwt
+	- cegui <unknown> (embed)
+	- frepple <unknown> (embed)
+	- gnome-vfsmm26 <unknown> (embed)
+	- healpix <unknown> (embed)
+	- mingw32-qwt <unknown> (embed)
+	- ogre <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- qca2 <unknown> (embed)
+	- qwt-doc 5.2.0-6.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- schroot <unknown> (embed)
+	- wsdlpull <unknown> (embed)
+	- xqilla <unknown> (embed)
+
+rarian
+	- aqsis <unknown> (embed)
+	- blobby <unknown> (embed)
+	- cegui <unknown> (embed)
+	- cppcheck <unknown> (embed)
+	- ember <unknown> (embed)
+	- filezilla <unknown> (embed)
+	- geos <unknown> (embed)
+	- mapnik <unknown> (embed)
+	- maxr <unknown> (embed)
+	- ogre <unknown> (embed)
+	- pokerth <unknown> (embed)
+	- simspark <unknown> (embed)
+	- tinyxml <unknown> (embed)
+	- trustyrc <unknown> (embed)
+
+rdesktop
+	- qemu <unknown> (embed)
+	- xen <unknown> (embed)
+
+recode
+	- a2ps <unknown> (embed)
+	- alfont <unknown> (embed)
+	- libX11 <unknown> (embed)
+	- lmms <unknown> (embed)
+	- mingw32-iconv <unknown> (embed)
+	- nx <unknown> (embed)
+	- tar <unknown> (embed)
+	- texlive <unknown> (embed)
+
+redland
+	- raptor <unknown> (embed)
+	- rasqal <unknown> (embed)
+
+renameutils
+	- amanda <unknown> (embed)
+	- clisp <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- findutils <unknown> (embed)
+	- freedink <unknown> (embed)
+	- g-wrap <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gettext <unknown> (embed)
+	- gmediaserver <unknown> (embed)
+	- gnutls <unknown> (embed)
+	- libdap <unknown> (embed)
+	- libgsasl <unknown> (embed)
+	- libprelude <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- mingw32-gnutls <unknown> (embed)
+	- mingw32-iconv <unknown> (embed)
+	- nagios-plugins <unknown> (embed)
+	- netcf <unknown> (embed)
+	- proxyknife <unknown> (embed)
+	- pspp <unknown> (embed)
+	- sed <unknown> (embed)
+	- sharutils <unknown> (embed)
+	- tar <unknown> (embed)
+	- zile <unknown> (embed)
+
+resource-agents
+	- cluster <unknown> (embed)
+	- fence-agents <unknown> (embed)
+	- rgmanager 3.0.17-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+rhino
+	- eclipse-dltk <unknown> (embed)
+	- netbeans <unknown> (embed)
+
+root
+	- compat-gcc-296 <unknown> (embed)
+	- openoffice.org <unknown> (embed)
+
+rubberband
+	- ardour <unknown> (embed)
+	- armstrong 0.2.6-11.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+ruby
+	- PySolFC <unknown> (embed)
+	- coccinella <unknown> (embed)
+	- ds9 <unknown> (embed)
+
+ruby-cairo
+	- ruby <unknown> (embed)
+	- ruby-gnome2 <unknown> (embed)
+
+ruby-fam
+	- hyperestraier <unknown> (embed)
+	- ruby-icon-artist <unknown> (embed)
+	- ruby-openid <unknown> (embed)
+	- xapian-bindings <unknown> (embed)
+
+samba4
+	- cifs-utils <unknown> (embed)
+	- crystal-clear <unknown> (embed)
+	- crystal-project <unknown> (embed)
+	- ctdb <unknown> (embed)
+	- cyrus-imapd <unknown> (embed)
+	- distcc <unknown> (embed)
+	- gambas2 <unknown> (embed)
+	- kernel <unknown> (embed)
+	- mcu8051ide <unknown> (embed)
+	- openchange <unknown> (embed)
+	- pilot-link <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- qtoctave <unknown> (embed)
+	- rsync <unknown> (embed)
+	- samba <unknown> (embed)
+	- smokeping <unknown> (embed)
+	- spe <unknown> (embed)
+	- wireshark <unknown> (embed)
+
+saxpath
+	- jdom <unknown> (embed)
+	- trove4j <unknown> (embed)
+
+scidavis
+	- qtiplot <unknown> (embed)
+
+scim
+	- SILLY <unknown> (embed)
+	- armadillo <unknown> (embed)
+	- conexus <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- ogre <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- skyviewer <unknown> (embed)
+	- stk <unknown> (embed)
+	- vigra <unknown> (embed)
+
+scim-tables
+	- koffice-kivio <unknown> (embed)
+	- openoffice.org <unknown> (embed)
+
+scipy
+	- maxima <unknown> (embed)
+	- octave <unknown> (embed)
+	- perl-PDL <unknown> (embed)
+
+scribus
+	- koffice <unknown> (embed)
+	- spicebird <unknown> (embed)
+
+seamonkey
+	- claws-mail-plugins <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- kdebase3 <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+	- libical <unknown> (embed)
+	- orage <unknown> (embed)
+	- smart <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- thunderbird <unknown> (embed)
+
+sed
+	- a2ps <unknown> (embed)
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- glibc <unknown> (embed)
+	- kBuild <unknown> (embed)
+
+selenium-core
+	- mantis <unknown> (embed)
+	- netbeans <unknown> (embed)
+
+sharutils
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- cadaver <unknown> (embed)
+	- freedink <unknown> (embed)
+	- gettext <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+
+shutter
+	- gnome-themes-extras <unknown> (embed)
+	- immix <unknown> (embed)
+	- tango-icon-theme <unknown> (embed)
+	- tucan <unknown> (embed)
+
+six
+	- kbibtex <unknown> (embed)
+	- kdeaddons <unknown> (embed)
+	- kdebase3 <unknown> (embed)
+	- kdegames3 <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- kdepim3 <unknown> (embed)
+	- kdewebdev <unknown> (embed)
+	- kerry <unknown> (embed)
+	- kftpgrabber <unknown> (embed)
+	- klamav <unknown> (embed)
+	- knetstats <unknown> (embed)
+	- krecipes <unknown> (embed)
+	- kst <unknown> (embed)
+	- libkexif <unknown> (embed)
+
+sk2py
+	- Cython <unknown> (embed)
+	- Pyrex <unknown> (embed)
+	- gnue-common <unknown> (embed)
+
+skyviewer
+	- apbs <unknown> (embed)
+	- frepple <unknown> (embed)
+	- ogre <unknown> (embed)
+	- xqilla <unknown> (embed)
+
+slf4j
+	- freemarker <unknown> (embed)
+	- jaxen-bootstrap <unknown> (embed)
+
+slrn
+	- jed <unknown> (embed)
+	- slang <unknown> (embed)
+
+smart
+	- kdelibs3 <unknown> (embed)
+	- koffice-kivio <unknown> (embed)
+	- nx <unknown> (embed)
+	- texlive <unknown> (embed)
+
+smokeping
+	- mantis <unknown> (embed)
+	- selenium-core <unknown> (embed)
+
+snobol
+	- gtk-gnutella <unknown> (embed)
+	- perl <unknown> (embed)
+
+snort
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- mysql <unknown> (embed)
+	- rekall <unknown> (embed)
+
+speex
+	- gstreamer-plugins-base <unknown> (embed)
+	- mumble 1.1.8-16.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- opal 3.6.8-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- quake3 1.36-7.svn1783.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- tremfusion <unknown> (embed)
+
+spu-binutils
+	- arm-gp2x-linux-binutils <unknown> (embed)
+	- arm-gp2x-linux-gcc <unknown> (embed)
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-binutils <unknown> (embed)
+	- avr-gcc <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- binutils <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gccxml <unknown> (embed)
+	- gdb <unknown> (embed)
+	- ghdl <unknown> (embed)
+	- gnu-smalltalk <unknown> (embed)
+	- ht <unknown> (embed)
+	- insight <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- mingw32-binutils <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- msp430-binutils <unknown> (embed)
+	- msp430-gcc <unknown> (embed)
+	- nesc <unknown> (embed)
+	- valgrind <unknown> (embed)
+	- xemacs <unknown> (embed)
+	- xen <unknown> (embed)
+
+squirrel
+	- codeblocks <unknown> (embed)
+	- openttd <unknown> (embed)
+	- supertux <unknown> (embed)
+
+star
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- cdrdao <unknown> (embed)
+	- texlive <unknown> (embed)
+
+stellarium
+	- k3d <unknown> (embed)
+	- mesa <unknown> (embed)
+
+sugar-chat
+	- olpc-switch-desktop <unknown> (embed)
+	- sugar-base <unknown> (embed)
+	- sugar-browse <unknown> (embed)
+	- sugar-connect <unknown> (embed)
+	- sugar-distance <unknown> (embed)
+	- sugar-imageviewer <unknown> (embed)
+	- sugar-jukebox <unknown> (embed)
+	- sugar-log <unknown> (embed)
+	- sugar-memorize <unknown> (embed)
+	- sugar-physics <unknown> (embed)
+	- sugar-playgo <unknown> (embed)
+	- sugar-toolkit <unknown> (embed)
+	- sugar-turtleart <unknown> (embed)
+	- sugar-view-slides <unknown> (embed)
+	- sugar-write <unknown> (embed)
+
+sugar-finance
+	- sugar <unknown> (embed)
+	- sugar-infoslicer <unknown> (embed)
+	- sugar-visualmatch <unknown> (embed)
+
+sunbird
+	- kdepim3 <unknown> (embed)
+	- libkml <unknown> (embed)
+	- thunderbird <unknown> (embed)
+
+swarp
+	- ds9 <unknown> (embed)
+	- sextractor <unknown> (embed)
+
+syck
+	- perl-YAML-Syck <unknown> (embed)
+	- ruby <unknown> (embed)
+
+sylpheed
+	- claws-mail <unknown> (embed)
+	- mutt <unknown> (embed)
+
+syslinux
+	- firefox <unknown> (embed)
+	- uboot-tools <unknown> (embed)
+
+system-config-samba
+	- system-config-date <unknown> (embed)
+	- system-config-services <unknown> (embed)
+
+system-config-services-docs
+	- system-config-date-docs <unknown> (embed)
+	- system-config-nfs-docs <unknown> (embed)
+	- system-config-samba-docs <unknown> (embed)
+	- system-config-users-docs <unknown> (embed)
+
+t1lib
+	- grace 5.1.22-7.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- nx <unknown> (embed)
+	- texlive <unknown> (embed)
+	- xdvik 22.84.14-8.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+tachyon
+	- GMT <unknown> (embed)
+	- gcx <unknown> (embed)
+
+tango-icon-theme
+	- gnome-colors-icon-theme <unknown> (embed)
+	- gnome-themes-extras <unknown> (embed)
+
+tar
+	- a2ps <unknown> (embed)
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- diffutils <unknown> (embed)
+	- freedink <unknown> (embed)
+	- gdb <unknown> (embed)
+	- gettext <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gnupg2 <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- mingw32-iconv <unknown> (embed)
+	- pspp <unknown> (embed)
+	- texi2html <unknown> (embed)
+	- texlive <unknown> (embed)
+
+taskcoach
+	- eric <unknown> (embed)
+	- wxPython <unknown> (embed)
+
+taskjuggler
+	- kdepim3 <unknown> (embed)
+	- krecipes <unknown> (embed)
+
+tasque
+	- f-spot <unknown> (embed)
+	- gnome-do-plugins <unknown> (embed)
+
+tcl-tclvfs
+	- coccinella 0.96.16-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- ds9 <unknown> (embed)
+
+tcl-tclxml
+	- coccinella <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- insight <unknown> (embed)
+
+tcl-tktreectrl
+	- ruby <unknown> (embed)
+
+tcllib
+	- amsn <unknown> (embed)
+	- coccinella <unknown> (embed)
+	- ds9 5.7-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- insight <unknown> (embed)
+	- tclhttpd 3.5.1-21.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- tklib 0.5-4.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+tcpdump
+	- bind <unknown> (embed)
+	- mingw32-wpcap <unknown> (embed)
+	- xen <unknown> (embed)
+
+tcpdump
+	- arpwatch <unknown> (embed)
+
+tcpreplay
+	- autogen <unknown> (embed)
+	- ntp <unknown> (embed)
+
+teckit
+	- afflib <unknown> (embed)
+	- bolzplatz2006 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- cvs <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- firefox <unknown> (embed)
+	- gcc <unknown> (embed)
+	- google-gadgets <unknown> (embed)
+	- grid-packaging-tools <unknown> (embed)
+	- libkml <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- nx <unknown> (embed)
+	- ogdi <unknown> (embed)
+	- optipng <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- qt <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- texlive <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- virtuoso-opensource <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+telepathy-haze
+	- empathy 2.30.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- spicebird 0.7.1-1.fc11 (embed)
+	NOTE: Might be fixed earlier.
+	- telepathy-gabble <unknown> (embed)
+	- telepathy-glib <unknown> (embed)
+	- telepathy-mission-control <unknown> (embed)
+	- telepathy-salut <unknown> (embed)
+
+telepathy-idle
+	- empathy 2.30.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- telepathy-haze <unknown> (embed)
+	- telepathy-mission-control <unknown> (embed)
+	- telepathy-salut <unknown> (embed)
+
+telepathy-sofiasip
+	- empathy <unknown> (embed)
+	- telepathy-gabble <unknown> (embed)
+	- telepathy-glib <unknown> (embed)
+	- telepathy-mission-control <unknown> (embed)
+	- telepathy-salut <unknown> (embed)
+
+telepathy-stream-engine
+	- empathy <unknown> (embed)
+	- telepathy-idle <unknown> (embed)
+	- telepathy-mission-control <unknown> (embed)
+	- telepathy-salut <unknown> (embed)
+	- telepathy-sofiasip <unknown> (embed)
+
+testdisk
+	- awstats <unknown> (embed)
+
+texlive
+	- compat-gcc-296 <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- gridengine <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- kernel <unknown> (embed)
+	- nx <unknown> (embed)
+	- root <unknown> (embed)
+	- spicebird <unknown> (embed)
+
+texmaker
+	- gcx <unknown> (embed)
+	- lyx <unknown> (embed)
+	- qt-creator <unknown> (embed)
+	- texmakerx <unknown> (embed)
+
+tinyxml
+	- blobby <unknown> (embed)
+	- codeblocks 10.05-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- filezilla 3.3.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- geos <unknown> (embed)
+	- maxr <unknown> (embed)
+	- trustyrc 0.1.4-1.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+tk
+	- blt 2.4-32.z.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- ds9 5.7-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- grass 6.3.0-15.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- insight 6.8.1-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- nxtvepg 2.8.1-5.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- perl-Tk <unknown> (embed)
+	- ruby <unknown> (embed)
+	- tclhttpd <unknown> (embed)
+
+tkimg
+	- bolzplatz2006 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- cvs <unknown> (embed)
+	- ds9 5.7-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- grid-packaging-tools <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- qt <unknown> (embed)
+	- quake3 <unknown> (embed)
+	- samba <unknown> (embed)
+	- texlive <unknown> (embed)
+	- tigervnc <unknown> (embed)
+
+tktable
+	- ds9 5.7-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- insight <unknown> (embed)
+	- perl-Tk-TableMatrix <unknown> (embed)
+
+tolua++
+	- cegui 0.6.2-5.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- enigma <unknown> (embed)
+	- freeciv <unknown> (embed)
+
+tomboy
+	- banshee <unknown> (embed)
+	- beagle <unknown> (embed)
+	- f-spot <unknown> (embed)
+
+tomcat-native
+	- httpd <unknown> (embed)
+	- tomcat5 <unknown> (embed)
+	- tomcat6 <unknown> (embed)
+
+tomcat6
+
+torium
+	- cherokee <unknown> (embed)
+	- goldendict <unknown> (embed)
+	- horde <unknown> (embed)
+	- kde-plasma-translatoid <unknown> (embed)
+	- monkeystudio <unknown> (embed)
+	- nicotine+ <unknown> (embed)
+	- xqf <unknown> (embed)
+
+transifex
+	- cherokee <unknown> (embed)
+	- gallery2 <unknown> (embed)
+	- peppy <unknown> (embed)
+
+tre
+	- R <unknown> (embed)
+	- lensfun <unknown> (embed)
+
+tremfusion
+	- CriticalMass <unknown> (embed)
+	- SDL <unknown> (embed)
+	- alienarena <unknown> (embed)
+	- arm-gp2x-linux-SDL <unknown> (embed)
+	- cmake <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- escape <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- mingw32-SDL <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- quake3 <unknown> (embed)
+	- teeworlds <unknown> (embed)
+	- texlive <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- tremulous <unknown> (embed)
+	- vdrift <unknown> (embed)
+	- wsdlpull <unknown> (embed)
+
+trustyrc
+	- armadillo <unknown> (embed)
+	- conexus <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- stk <unknown> (embed)
+
+turba
+	- horde <unknown> (embed)
+	- imp <unknown> (embed)
+	- ingo <unknown> (embed)
+	- kronolith <unknown> (embed)
+
+tuxmath
+	- tuxpaint <unknown> (embed)
+	- tuxtype2 <unknown> (embed)
+
+typepad-motion
+	- peppy <unknown> (embed)
+	- transifex <unknown> (embed)
+
+uClibc
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- arm-gp2x-linux-kernel-headers <unknown> (embed)
+	- avr-binutils <unknown> (embed)
+	- avr-gdb <unknown> (embed)
+	- busybox <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- dc3dd <unknown> (embed)
+	- dietlibc <unknown> (embed)
+	- flite <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gdb <unknown> (embed)
+	- glibc <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- js <unknown> (embed)
+	- kcbench-data <unknown> (embed)
+	- kernel <unknown> (embed)
+	- krb5 <unknown> (embed)
+	- libtirpc <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- nfs-utils-lib <unknown> (embed)
+	- ogdi <unknown> (embed)
+	- perl-Convert-Binary-C <unknown> (embed)
+	- pspp <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- squeak-vm <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- tcpdump <unknown> (embed)
+	- xen <unknown> (embed)
+
+udunits2
+	- ncl 5.2.0-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- netcdf <unknown> (embed)
+	- nx <unknown> (embed)
+
+unison227
+	- openswan <unknown> (embed)
+	- sunpinyin <unknown> (embed)
+
+urw-fonts
+	- R <unknown> (embed)
+	- grace 5.1.22-7.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- libwmf 0.2.8.4-21.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+vala
+	- gnome-globalmenu <unknown> (embed)
+	- gobject-introspection <unknown> (embed)
+	- libgee <unknown> (embed)
+
+vamp-plugin-sdk
+	- ardour <unknown> (embed)
+	- audacity 1.3.12-0.4.beta.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+vino
+	- brasero <unknown> (embed)
+	- evince <unknown> (embed)
+	- file-roller <unknown> (embed)
+	- gedit <unknown> (embed)
+	- gmpc <unknown> (embed)
+	- gnome-panel <unknown> (embed)
+	- gnome-session <unknown> (embed)
+	- gnome-utils <unknown> (embed)
+	- gthumb <unknown> (embed)
+	- nautilus <unknown> (embed)
+	- rhythmbox <unknown> (embed)
+	- seahorse <unknown> (embed)
+	- workrave <unknown> (embed)
+
+virtuoso-opensource
+	- EMBOSS <unknown> (embed)
+	- R <unknown> (embed)
+	- TurboGears <unknown> (embed)
+	- WebCalendar <unknown> (embed)
+	- boost <unknown> (embed)
+	- cherokee <unknown> (embed)
+	- eclipse <unknown> (embed)
+	- eclipse-phpeclipse <unknown> (embed)
+	- freemarker <unknown> (embed)
+	- gcc <unknown> (embed)
+	- glib2 <unknown> (embed)
+	- google-gadgets <unknown> (embed)
+	- horde <unknown> (embed)
+	- kdelibs3 <unknown> (embed)
+	- libiodbc <unknown> (embed)
+	- mingw32-boost <unknown> (embed)
+	- mingw32-gcc <unknown> (embed)
+	- mingw32-glib2 <unknown> (embed)
+	- netbeans <unknown> (embed)
+	- pcre <unknown> (embed)
+	- php <unknown> (embed)
+	- poco <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- texlive <unknown> (embed)
+	- tin <unknown> (embed)
+	- tomcat5 <unknown> (embed)
+	- tomcat6 <unknown> (embed)
+	- xsp <unknown> (embed)
+
+vtk
+	- LabPlot <unknown> (embed)
+	- OpenSceneGraph <unknown> (embed)
+	- blender <unknown> (embed)
+	- cadaver <unknown> (embed)
+	- cmake <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- gccxml <unknown> (embed)
+	- gettext <unknown> (embed)
+	- insight <unknown> (embed)
+	- libxml2 <unknown> (embed)
+	- mingw32-OpenSceneGraph <unknown> (embed)
+	- mingw32-gettext <unknown> (embed)
+	- mingw32-libxml2 <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- mingw32-tcl <unknown> (embed)
+	- mrpt <unknown> (embed)
+	- netcdf <unknown> (embed)
+	- ogdi <unknown> (embed)
+	- paraview <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- qt <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- root <unknown> (embed)
+	- sitecopy <unknown> (embed)
+	- tcl <unknown> (embed)
+	- texlive <unknown> (embed)
+	- tk <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+	- xorg-x11-fonts <unknown> (embed)
+
+vym
+	- mcu8051ide <unknown> (embed)
+	- monkeystudio <unknown> (embed)
+
+w3c-libwww
+	- gridengine <unknown> (embed)
+	- texlive <unknown> (embed)
+
+warzone2100
+	- tuxpaint-stamps <unknown> (embed)
+	- vidalia <unknown> (embed)
+	- vino <unknown> (embed)
+
+wordpress
+	- RackTables <unknown> (embed)
+	- geda-gaf <unknown> (embed)
+	- glpi <unknown> (embed)
+	- horde <unknown> (embed)
+	- imp <unknown> (embed)
+	- kronolith <unknown> (embed)
+	- netbeans <unknown> (embed)
+	- pnp4nagios <unknown> (embed)
+	- python-Scriptaculous <unknown> (embed)
+	- roundcubemail <unknown> (embed)
+	- smokeping <unknown> (embed)
+	- websvn <unknown> (embed)
+	- wordpress-mu <unknown> (embed)
+	- zabbix <unknown> (embed)
+	- zikula <unknown> (embed)
+
+wsdlpull
+	- armadillo <unknown> (embed)
+	- bakery <unknown> (embed)
+	- cegui <unknown> (embed)
+	- frepple <unknown> (embed)
+	- gnome-vfsmm26 <unknown> (embed)
+	- gstreamermm <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- mingw32-libxml++ <unknown> (embed)
+	- ogre <unknown> (embed)
+	- papyrus <unknown> (embed)
+	- qca2 <unknown> (embed)
+	- rapidsvn <unknown> (embed)
+	- schroot <unknown> (embed)
+	- skyviewer <unknown> (embed)
+	- xqilla <unknown> (embed)
+
+wxGTK
+	- ds9 <unknown> (embed)
+	- muse <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- pl <unknown> (embed)
+	- texlive <unknown> (embed)
+	- wxPython 2.8.11.0-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- xchm 1.17-2.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+xbae
+	- grace 5.1.22-7.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- gridengine <unknown> (embed)
+
+xdvik
+	- autoconf213 <unknown> (embed)
+	- texlive <unknown> (embed)
+
+xemacs
+	- emacs <unknown> (embed)
+	- texi2html <unknown> (embed)
+	- texlive <unknown> (embed)
+
+xen
+	- arm-gp2x-linux-glibc <unknown> (embed)
+	- krb5 <unknown> (embed)
+	- mingw32-runtime <unknown> (embed)
+	- snort <unknown> (embed)
+
+xenner
+	- afflib <unknown> (embed)
+	- xen 3.4.3-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+xerces-j2
+	- java-1.6.0-openjdk <unknown> (embed)
+	- msv <unknown> (embed)
+	- tomcat5 5.5.27-7.4.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- tomcat6 <unknown> (embed)
+	- ws-jaxme 0.5.1-4.4.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- xalan-j2 2.7.0-9.5.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+xfwm4-theme-nodoka
+	- xfwm4 <unknown> (embed)
+	- xfwm4-themes <unknown> (embed)
+
+xhtml1-dtds
+	- eclipse <unknown> (embed)
+	- erlang <unknown> (embed)
+	- firefox <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- netbeans <unknown> (embed)
+	- netbeans-platform <unknown> (embed)
+	- seamonkey <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- virtuoso-opensource <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+xine-plugin
+	- djview4 <unknown> (embed)
+	- djvulibre <unknown> (embed)
+	- google-gadgets <unknown> (embed)
+	- spicebird <unknown> (embed)
+
+xorg-x11-drv-ati
+	- mesa <unknown> (embed)
+	- xorg-x11-server <unknown> (embed)
+
+xorg-x11-drv-nv
+	- xorg-x11-drv-ati <unknown> (embed)
+	- xorg-x11-server <unknown> (embed)
+
+xorg-x11-fonts
+	- fonts-ISO8859-2 <unknown> (embed)
+
+xorg-x11-proto-devel
+	- nx <unknown> (embed)
+	- xwnc <unknown> (embed)
+
+xorg-x11-server
+	- libXNVCtrl <unknown> (embed)
+	- nx <unknown> (embed)
+
+xpa
+	- ds9 <unknown> (embed)
+	- funtools <unknown> (embed)
+
+xpdf
+	- koffice-kivio <unknown> (embed)
+	- pdfedit <unknown> (embed)
+	- poppler <unknown> (embed)
+	- texlive <unknown> (embed)
+
+xwnc
+	- libX11 <unknown> (embed)
+	- libXau <unknown> (embed)
+	- nx <unknown> (embed)
+	- xorg-x11-server <unknown> (embed)
+	- xorg-x11-xfs <unknown> (embed)
+	- xorg-x11-xtrans-devel <unknown> (embed)
+
+yasm
+	- mpir <unknown> (embed)
+	- nasm <unknown> (embed)
+	- re2c <unknown> (embed)
+
+yecht
+	- ruby <unknown> (embed)
+	- syck <unknown> (embed)
+
+yelp
+	- epiphany <unknown> (embed)
+	- evince <unknown> (embed)
+	- evolution <unknown> (embed)
+	- file-roller <unknown> (embed)
+	- gedit <unknown> (embed)
+	- gmpc <unknown> (embed)
+	- gnome-games <unknown> (embed)
+	- gnome-session <unknown> (embed)
+	- gnome-terminal <unknown> (embed)
+	- totem <unknown> (embed)
+	- workrave <unknown> (embed)
+
+zarafa
+	- grsync <unknown> (embed)
+	- gsoap <unknown> (embed)
+	- ingo <unknown> (embed)
+	- vdr <unknown> (embed)
+
+zarafa
+	- horde <unknown> (embed)
+	- zikula <unknown> (embed)
+
+zarafa-webaccess
+	- horde <unknown> (embed)
+	- moin <unknown> (embed)
+	- rt3 <unknown> (embed)
+	- virtuoso-opensource <unknown> (embed)
+	- zarafa <unknown> (embed)
+
+zikula-module-feeds
+	- zikula <unknown> (embed)
+	- zikula-module-Polls <unknown> (embed)
+
+zip
+	- ds9 <unknown> (embed)
+	- texlive <unknown> (embed)
+	- unzip <unknown> (embed)
+
+zoneminder
+	- TurboGears <unknown> (embed)
+	- cacti <unknown> (embed)
+	- entertrack <unknown> (embed)
+	- pnp4nagios <unknown> (embed)
+	- python-tw-forms <unknown> (embed)
+	- zikula <unknown> (embed)

@@ -1,0 +1,4 @@
+N=6
+CFinder -t 2
+f > 0.5 || scoreMap >= 5 gotmatch++
+maxGotmatch >= 1 && maxWeight >= 0.4

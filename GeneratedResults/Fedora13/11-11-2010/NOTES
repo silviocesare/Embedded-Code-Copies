@@ -1,0 +1,7 @@
+I have opted to favour detection rate over false positive reduction. I will probably change this in the future if I push the list into distributions.
+
+Also, some of the package names are problematic, eg compat-expat1 versus expat. Some package names are completely wrong.
+
+In addition, I have not built a complete dependency list when identifying fixed versions, ie I have only looked at the immediate dependencies. Before pushing out to distributions, I will calculate the full list, but it's time consuming in my implementation.
+
+Finally, it sometimes gets the relationship between embedded package and packages, eg libpng. This seems hard to solve completely, and I might have to employ a greater number of bizarre heuristics.
