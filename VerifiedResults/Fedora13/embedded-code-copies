@@ -1,0 +1,220 @@
+---BEGIN
+bzip2 (verified)
+	- R <unknown> (embed)
+	- codeblocks <unknown> (embed)
+	- gtkwave <unknown> (embed)
+	- mingw32-bzip2 <unknown> (embed)
+	- pards <unknown> (embed)
+	- perl <unknown> (embed)
+	- perl-Compress-Bzip2 <unknown> (embed)
+	- texlive <unknown> (embed)
+	- vrq <unknown> (embed)
+	- xmoto <unknown> (embed)
+
+expat (verified)
+	- EMBOSS <unknown> (embed)
+	- PyXML <unknown> (embed)
+	- SimGear <unknown> (embed)
+	- afflib <unknown> (embed)
+	- apr-util <unknown> (embed)
+	- ayttm <unknown> (embed)
+	- cadaver <unknown> (embed)
+	- centerim <unknown> (embed)
+	- cmake <unknown> (embed)
+	- firefox <unknown> (embed)
+	- httpd <unknown> (embed)
+	- libtlen <unknown> (embed)
+	- libwbxml <unknown> (embed)
+	- mcabber <unknown> (embed)
+	- netcdf <unknown> (embed)
+	- nx <unknown> (embed)
+	- ogdi <unknown> (embed)
+	- paraview <unknown> (embed)
+	- poco <unknown> (embed)
+	- python <unknown> (embed)
+	- python-4Suite-XML <unknown> (embed)
+	- python-docs <unknown> (embed)
+	- python3 <unknown> (embed)
+	- seamonkey <unknown> (embed)
+	- sitecopy <unknown> (embed)
+	- smart <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- syncevolution <unknown> (embed)
+	- teckit <unknown> (embed)
+	- texlive <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- tla <unknown> (embed)
+	- udunits2 <unknown> (embed)
+	- vtk <unknown> (embed)
+	- w3c-libwww <unknown> (embed)
+	- wbxml2 <unknown> (embed)
+	- whatsup <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+	- xmlrpc-c <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+git (verified)
+	- cgit <unknown> (embed)
+	- gitweb-caching <unknown> (embed)
+
+freetype
+
+gd
+
+lib3ds (verified)
+	- GLC_lib 1.1.0-2.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- OpenSceneGraph <unknown> (embed)
+	- mingw32-OpenSceneGraph <unknown> (embed)
+	- mm3d 1.3.8a-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mrpt <unknown> (embed)
+
+libjpeg (to check)
+        - bolzplatz2006 1.0.3-10.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - dc3dd <unknown> (embed)
+        - ds9 <unknown> (embed)
+        - firefox <unknown> (embed)
+        - fltk 1.1.10-1.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - freeimage 3.10.0-3.fc12 (embed)
+        NOTE: Might be fixed earlier.
+        - gdal 1.6.2-6.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - gettext <unknown> (embed)
+        - gzip <unknown> (embed)
+        - htmldoc 1.8.27-13.fc12 (embed)
+        NOTE: Might be fixed earlier.
+        - irrlicht 1.6.1-1.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - java-1.6.0-openjdk 1.6.0.0-43.1.8.2.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - libAfterImage <unknown> (embed)
+        - libpng <unknown> (embed)
+        - libpng10 <unknown> (embed)
+        - libvirt <unknown> (embed)
+        - mingw32-gettext <unknown> (embed)
+        - mingw32-iconv <unknown> (embed)
+        - mingw32-libjpeg <unknown> (embed)
+        - mingw32-libpng <unknown> (embed)
+        - mingw32-qt <unknown> (embed)
+        - mrpt <unknown> (embed)
+        - opencv 2.0.0-9.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - optipng <unknown> (embed)
+        - paraview 3.8.0-2.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - perl-Tk 804.028-11.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - petitboot 0.2-4.fc12 (embed)
+        NOTE: Might be fixed earlier.
+        - pngcrush <unknown> (embed)
+        - pspp <unknown> (embed)
+        - qt <unknown> (embed)
+        - qt3 3.3.8b-29.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - rawtherapee 3.0-0.21.a1.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - root <unknown> (embed)
+        - seamonkey 2.0.8-2.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - spicebird 0.7.1-1.fc11 (embed)
+        NOTE: Might be fixed earlier.
+        - squeak-vm <unknown> (embed)
+        - sunbird <unknown> (embed)
+        - syslinux <unknown> (embed)
+        - tar <unknown> (embed)
+        - texlive <unknown> (embed)
+        - thunderbird 3.1.6-1.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - tigervnc <unknown> (embed)
+        - tkimg <unknown> (embed)
+        - tremfusion <unknown> (embed)
+        - tremulous 1.1.0-10.fc12 (embed)
+        NOTE: Might be fixed earlier.
+        - vtk 5.4.2-34.fc12 (embed)
+        NOTE: Might be fixed earlier.
+        - wxGTK 2.8.11-1.fc13 (embed)
+        NOTE: Might be fixed earlier.
+        - wxPython <unknown> (embed)
+        - xloadimage 4.1-4.fc12 (embed)
+        NOTE: Might be fixed earlier.
+        - xulrunner 1.9.2.12-1.fc13 (embed)
+        NOTE: Might be fixed earlier.
+
+libpng (to check)
+	- advancecomp <unknown> (embed)
+	- bolzplatz2006 <unknown> (embed)
+	- ds9 <unknown> (embed)
+	- firefox <unknown> (embed)
+	- fltk <unknown> (embed)
+	- freeimage <unknown> (embed)
+	- gdal <unknown> (embed)
+	- htmldoc <unknown> (embed)
+	- irrlicht <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- koffice <unknown> (embed)
+	- libAfterImage <unknown> (embed)
+	- libharu <unknown> (embed)
+	- mingw32-libpng <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- opencv <unknown> (embed)
+	- optipng <unknown> (embed)
+	- paraview <unknown> (embed)
+	- perl-Tk <unknown> (embed)
+	- petitboot
+	- pngcrush <unknown> (embed)
+	- python-matplotlib <unknown> (embed)
+	- qt <unknown> (embed)
+	- qt3 <unknown> (embed)
+	- root <unknown> (embed)
+	- seamonkey <unknown> (embed)
+	- spicebird <unknown> (embed)
+	- sunbird <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- tcllib <unknown> (embed)
+	- texlive <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- vtk <unknown> (embed)
+	- wxGTK <unknown> (embed)
+	- wxPython <unknown> (embed)
+	- xulrunner <unknown> (embed)
+
+libtiff (to check)
+	- ds9 <unknown> (embed)
+	- freeimage 3.10.0-3.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- gdal 1.6.2-6.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- mingw32-libtiff <unknown> (embed)
+	- mingw32-qt <unknown> (embed)
+	- opencv 2.0.0-9.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- paraview 3.8.0-2.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- qt <unknown> (embed)
+	- tkimg <unknown> (embed)
+	- vtk 5.4.2-34.fc12 (embed)
+	NOTE: Might be fixed earlier.
+	- wxGTK 2.8.11-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- wxPython <unknown> (embed)
+	- xloadimage 4.1-4.fc12 (embed)
+	NOTE: Might be fixed earlier.
+
+pcre
+
+php-Smarty (to check)
+	- gallery2 2.3.1-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+	- postgresql-pgpoolAdmin <unknown> (embed)
+	- ser <unknown> (embed)
+	- zarafa <unknown> (embed)
+	- zikula 1.2.3-1.fc13 (embed)
+	NOTE: Might be fixed earlier.
+
+
