@@ -1,0 +1,4 @@
+N=6
+CFinder -t 2
+name count > 0.33, freq >= 0.5
+minimum spanning tree (kruskal) singleMaxWeight > 0.6

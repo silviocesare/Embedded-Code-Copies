@@ -1,0 +1,1 @@
+New algorithm implemented for selecting the embedded package from a set of related packages. Testing against Debian's labelled data shows a significant improvement in accuracy.
