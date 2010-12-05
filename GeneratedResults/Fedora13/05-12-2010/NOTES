@@ -1,0 +1,1 @@
+Improved clique detection to find maximal cliques of size 2 or more (previously it was 3-cliques or higher).  This should improve the detection rate.
