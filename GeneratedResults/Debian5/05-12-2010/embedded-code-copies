@@ -1,0 +1,4934 @@
+---BEGIN
+busybox
+	- linux-2.6
+	- gnulib
+	- parted
+	- bglibs
+
+cdparanoia
+	- cdrdao
+	- libcdio
+
+libtk-img
+	- radiance
+	- insight
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- paraview
+	- cvsnt
+	- analog
+	- nel
+	- syslinux
+	- vnc4
+	- vtk
+	- libhdf4
+	- xulrunner
+	- wxwidgets2.6
+	- povray
+	- qt4-x11
+	- plt-scheme
+	- insighttoolkit
+	- vrweb
+	- qt-x11-free
+	- doxygen
+	- python2.5
+	- openjpeg
+	- gdal
+	- iceweasel
+	- ghostscript
+	- iceape
+	- vice
+	- gpsbabel
+	- sks-ecc
+	- grass
+	- perl-tk
+	- fltk1.1
+	- xmame
+
+global
+	- krb5
+	- db4.2
+	- asterisk
+	- gnat-gps
+	- db1-compat
+	- htdig
+
+cherrypy3
+	- hplip
+	- python-cherrypy
+
+netcdf
+	- vtk
+	- libhdf4
+	- genesis
+	- paraview
+
+openh323-titan
+	- opal
+	- openh323
+	- pwlib-titan
+	- pwlib
+
+libjpeg6b
+	- povray
+	- parted
+	- tar
+	- freeimage
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- qt4-x11
+	- paraview
+	- fbi
+	- texinfo
+	- cvsnt
+	- wxwidgets2.6
+	- nel
+	- syslinux
+	- visualboyadvance
+	- vnc4
+	- xloadimage
+	- vtk
+	- libhdf4
+	- xnc
+	- gettext
+	- squeak-vm
+	- man-db
+	- m4
+	- xulrunner
+	- mailutils
+	- libpng
+	- gnulib
+	- vrweb
+	- pspp
+	- inetutils
+	- lftp
+	- pose
+	- plt-scheme
+	- insighttoolkit
+	- outguess
+	- cpio
+	- qt-x11-free
+	- gwenview
+	- shishi
+	- ghostscript
+	- openarena
+	- tremulous
+	- wvstreams
+	- gdal
+	- iceweasel
+	- htmldoc
+	- icoutils
+	- doxygen
+	- iceape
+	- vice
+	- diffutils
+	- stella
+	- dcmtk
+	- bison
+	- fltk1.1
+	- cflow
+	- id-utils
+	- gzip
+	- perl-tk
+	- gnuit
+
+perlsgml
+	- opensp
+	- jade
+	- php-doc
+	- sgml-data
+	- xemacs21-packages
+	- openjade1.3
+
+libmlx4
+	- libmthca
+	- linux-2.6
+
+atk1.0
+	- xulrunner
+	- iceweasel
+
+feedparser
+	- boost1.35
+	- diveintopython-zh
+	- diveintopython
+	- nodebox-web
+	- chardet
+	- boost
+
+wml
+	- pocketpc-gas
+	- pocketpc-binutils
+	- mp4h
+
+grace6
+	- iceape
+	- texlive-bin
+	- xulrunner
+	- vnc4
+	- tightvnc
+	- gridengine
+	- iceweasel
+
+junit
+	- libfontbox-java
+	- nekohtml
+	- cfi
+	- entagged
+	- jexcelapi
+	- hsqldb
+	- hyperestraier
+	- libjempbox-java
+	- netbeans-ide
+	- junit4
+	- xml-im-exporter
+	- jlgui
+
+lftp
+	- mednafen
+	- r-base-core-ra
+	- man-db
+	- parted
+	- gettext
+	- r-base
+	- libtasn1-3
+	- gnulib
+
+unzip
+	- zip
+	- texlive-bin
+	- boinc
+
+horde3
+	- albumshaper
+	- egroupware
+	- gforge
+	- phpgroupware
+	- webcalendar
+	- moodle
+
+vlc
+	- xawtv
+	- gdb
+	- insight
+
+cadaver
+	- parted
+	- tar
+	- r-base-core-ra
+	- man-db
+	- grun
+	- texlive-bin
+	- paraview
+	- cvsnt
+	- sitecopy
+	- gettext
+	- poco
+	- xulrunner
+	- gnulib
+	- pspp
+	- mednafen
+	- insighttoolkit
+	- renameutils
+	- r-base
+	- iceweasel
+	- iceape
+	- diffutils
+	- a2ps
+	- gnupg
+	- aria2
+	- gnuit
+	- findutils
+
+openarena
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- paraview
+	- wxwidgets2.6
+	- visualboyadvance
+	- vtk
+	- xulrunner
+	- povray
+	- iceweasel
+	- qt4-x11
+	- plt-scheme
+	- insighttoolkit
+	- qt-x11-free
+	- gdal
+	- tremulous
+	- htmldoc
+	- ghostscript
+	- iceape
+	- xnc
+	- perl-tk
+	- fltk1.1
+
+tmake
+	- doxygen
+	- qt-x11-free
+
+icoutils
+	- tar
+	- parted
+	- diffutils
+	- libidn
+	- gcvs
+	- cpio
+	- gettext
+	- man-db
+	- shishi
+	- gnutls26
+	- bison
+	- findutils
+	- gsasl
+	- renameutils
+	- cvsnt
+	- gnulib
+
+ghostscript
+	- scorched3d
+	- nel
+	- iceape
+	- insighttoolkit
+	- vtk
+	- texlive-bin
+	- wxwidgets2.8
+	- xulrunner
+	- paraview
+	- cvsnt
+	- wxwidgets2.6
+	- iceweasel
+
+debian-cd
+	- live-helper
+	- debian-installer
+
+libid3tag
+	- libtunepimp
+	- audacious
+
+racc
+	- ruby1.8
+	- ruby1.9
+
+libgtkada2
+	- libxmlada
+	- gnat-gps
+
+a2ps
+	- pspp
+	- parted
+	- insight
+	- mailutils
+	- sdcc-nf
+	- id-utils
+	- pocketpc-binutils
+	- gcl
+	- cpio
+	- gcc-h8300-hms
+	- pocketpc-gas
+	- gdb
+	- kbuild
+	- lrzsz
+	- rpm
+	- binutils-h8300-hms
+	- gnu-smalltalk
+	- autoconf-nonfree
+	- pocketpc-gcc
+	- gnulib
+
+libmikmod
+	- sdl-mixer1.2
+	- uqm
+	- black-box
+	- pysol-sound-server
+
+libdvdread
+	- xine-lib
+	- libdvdnav
+	- mplayer
+
+semweb
+	- beagle
+	- f-spot
+
+libxslt
+	- docbook-xml
+	- kde4libs
+	- jbossas4
+	- kdelibs
+	- gjdoc
+	- subversion
+	- docbook-defguide
+
+asio
+	- miro
+	- boost1.35
+	- deluge-torrent
+
+noiz2sa
+	- kdepim
+	- boost1.35
+	- libsmbios
+	- lyx
+	- rrootage
+	- fityk
+	- k3d
+	- nsis
+	- bfilter
+	- boost
+
+fastjar
+	- gv
+	- parted
+	- tar
+	- mailutils
+	- anubis
+	- ale
+	- findutils
+	- texinfo
+	- cvsnt
+	- libpreludedb
+	- msmtp
+	- gettext
+	- gnutls26
+	- gmediaserver
+	- pspp
+	- inetutils
+	- lftp
+	- prelude-lml
+	- libidn
+	- cpio
+	- renameutils
+	- shishi
+	- gsasl
+	- wvstreams
+	- gnulib
+	- gss
+	- nagios-plugins
+	- libntlm
+	- bison
+	- cflow
+	- id-utils
+	- gzip
+	- libtasn1-3
+	- amanda
+	- mpop
+
+jscropperui
+	- libgettext-ruby
+	- knowledgeroot
+	- activeldap
+	- smokeping
+	- imp4
+	- webcit
+	- wordpress
+	- typo3-src
+	- kronolith2
+	- pixelpost
+	- xulrunner
+	- scriptaculous
+	- mantis
+	- mt-daapd
+	- webhelpers
+	- qwik
+	- symfony
+	- glpi
+	- iceweasel
+
+libjdic-java
+	- netbeans-ide
+	- libswingx-java
+	- omegat
+
+xom
+	- w3c-dtd-xhtml
+	- pxp
+	- xulrunner
+	- xemacs21-packages
+	- hugs98
+	- iceweasel
+
+gnustep-back
+	- gsfonts
+	- r-base-core-ra
+	- libwmf
+	- r-base
+	- grace
+
+slirp
+	- vde2
+	- lft
+	- kvm
+	- qemu
+	- virtualbox-ose
+
+kipi-plugins
+	- ghostscript
+	- plt-scheme
+	- digikam
+	- xulrunner
+	- povray
+	- iceweasel
+
+pidgin
+	- gajim
+	- emesene
+
+python2.4
+	- egenix-mx-base
+	- codespeak-lib
+	- imgseek
+	- graphviz
+	- wxwidgets2.8
+	- paraview
+	- cvsnt
+	- wxwidgets2.6
+	- vnc4
+	- vtk
+	- ruby1.9
+	- xulrunner
+	- pyqwt3d
+	- plastex
+	- jython
+	- insighttoolkit
+	- mayavi
+	- python2.5
+	- whitedune
+	- texlive-bin
+	- python-xml
+	- moin
+	- iceweasel
+	- roundup
+	- ghostscript
+	- sphinx
+	- iceape
+	- fltk1.1
+
+libsdl1.2
+	- tightvnc
+	- vnc4
+	- virtualbox-ose
+
+xfs
+	- xwnc
+	- xorg-server
+	- tightvnc
+	- vnc4
+	- virtualbox-ose
+
+c-ares
+	- sbnc
+	- libares
+	- bzflag
+
+gridengine
+	- vnc4
+	- texlive-bin
+	- root-system
+	- xulrunner
+	- tightvnc
+
+xpdf
+	- pdfedit
+	- pdftoipe
+	- koffice
+	- libextractor
+	- texlive-bin
+	- poppler
+	- kdegraphics
+	- cups
+
+hdf5
+	- libhdf4
+	- paraview
+
+mantis
+	- qwik
+	- knowledgeroot
+	- egroupware
+	- webcit
+	- symfony
+	- ntop
+	- typo3-src
+	- apache2
+	- xulrunner
+	- phpgroupware
+	- mt-daapd
+	- mahara
+	- glpi
+	- plone3
+	- iceweasel
+
+bow
+	- ifile
+	- wvstreams
+	- tar
+	- parted
+	- mailutils
+	- cpio
+	- lsh-utils
+	- cflow
+	- man-db
+	- pocketpc-gcc
+	- gnulib
+
+ghdl
+	- gcc-h8300-hms
+	- pocketpc-binutils
+	- tcc
+	- gccxml
+	- pocketpc-gcc
+
+vic
+	- openh323-titan
+	- opal
+	- openh323
+
+bison++
+	- dibbler
+	- bisonc++
+	- aegis
+	- mozart
+
+boost1.35
+	- simgear
+	- wesnoth
+	- chardet
+	- boost
+	- mapnik
+	- boost-jam
+
+icmake
+	- bobcat
+	- bisonc++
+	- c++-annotations
+
+libev
+	- rxvt-unicode
+	- prelude-manager
+
+lwt
+	- unison
+	- unison2.13.16
+
+perl
+	- linux-2.6
+	- texlive-bin
+	- wengophone
+	- wml
+	- grass
+	- perl-tk
+
+tzdata
+	- kdepim
+	- pike7.6
+	- kdepimlibs
+
+m4
+	- msmtp
+	- parted
+	- pspp
+	- icoutils
+	- tar
+	- augeas
+	- mailutils
+	- anubis
+	- ale
+	- mlocate
+	- texlive-bin
+	- gnupg2
+	- wxwidgets2.8
+	- gdb
+	- sed
+	- jwhois
+	- findutils
+	- patch
+	- texinfo
+	- cvsnt
+	- libgnupdf
+	- mp4h
+	- fastjar
+	- gnu-fdisk
+	- libpreludedb
+	- mpop
+	- gcl
+	- gettext
+	- gnutls26
+	- hello-debhelper
+	- clisp
+	- man-db
+	- xindy
+	- gmediaserver
+	- pocketpc-binutils
+	- inetutils
+	- lftp
+	- insight
+	- prelude-manager
+	- prelude-lml
+	- libidn
+	- pose
+	- cpio
+	- gawk
+	- libvirt
+	- libprelude
+	- ffcall
+	- renameutils
+	- gsasl
+	- wvstreams
+	- gdal
+	- gnulib
+	- gss
+	- pocketpc-gas
+	- prelude-correlator
+	- diffutils
+	- paperkey
+	- shishi
+	- pocketpc-gcc
+	- gcc-h8300-hms
+	- nagios-plugins
+	- libntlm
+	- kbuild
+	- bison
+	- gnuit
+	- cflow
+	- id-utils
+	- gzip
+	- libtasn1-3
+	- gtk-vnc
+	- amanda
+	- hello
+	- a2ps
+	- paraview
+
+dietlibc
+	- linux-2.6
+	- insight
+	- gcl
+	- gdb
+	- xen-3
+	- emacs21
+	- xenomai
+	- pocketpc-gcc
+	- pocketpc-binutils
+
+povray
+	- ghostscript
+	- plt-scheme
+	- kipi-plugins
+	- qt4-x11
+	- xulrunner
+	- iceweasel
+
+pydb
+	- plastex
+	- python2.4-doc
+	- python2.5-doc
+	- pyopenssl
+	- python2.5
+	- python2.4
+
+sprng
+	- genesis
+	- tree-puzzle
+
+autogen
+	- gcc-h8300-hms
+	- gdb
+	- binutils
+	- gccxml
+	- pocketpc-gcc
+
+libcommons-jxpath-java
+	- tomcat5.5
+	- lucene
+	- tomcat6
+	- glassfish
+	- netbeans-ide
+
+flac
+	- libtunepimp
+	- vorbis-tools
+
+imagezoom
+	- iceape
+	- beagle
+	- mozilla-dom-inspector
+	- xulrunner
+	- iceweasel
+	- torbutton
+	- livehttpheaders
+
+webkit
+	- kdelibs
+	- qt4-x11
+	- kde4libs
+
+gnus
+	- mh-e
+	- xpn
+	- ayttm
+	- emacs21
+	- emacs22
+	- xemacs21-packages
+
+libpar2
+	- par2cmdline
+	- nget
+
+libntlm
+	- parted
+	- tar
+	- heimdal
+	- cpio
+	- shishi
+	- gnutls26
+	- libtasn1-3
+	- gnulib
+
+faad2
+	- xine-lib
+	- vlc
+	- audacious-plugins
+	- mplayer
+
+erc
+	- xemacs21-packages
+	- emacs22
+
+libtasn1-3
+	- open-vm-tools
+	- aspell
+	- imagemagick
+	- autogen
+	- r-base-core-ra
+	- gnucash
+	- heimdal
+	- gettext
+	- openbabel
+	- gdb
+	- openmpi
+	- gdal
+	- ecryptfs-utils
+	- r-base
+	- binutils
+
+xwnc
+	- x11proto-gl
+	- vnc4
+	- xorg-server
+	- xfree86-driver-synaptics
+	- tightvnc
+	- virtualbox-ose
+	- libxau
+
+lcms
+	- xulrunner
+	- foo2zjs
+	- iceweasel
+
+krb5
+	- rpm
+	- bsd-mailx
+	- gcvs
+	- gridengine
+	- heimdal
+
+sqlite
+	- klamav
+	- showimg
+	- koffice
+	- monotone
+	- hk-classes
+	- libdbd-sqlite2-perl
+	- qt-x11-free
+	- digikam
+	- sqlite3
+	- php5
+	- libdbd-sqlite3-perl
+	- kdenetwork
+
+tar
+	- parted
+	- ocaml
+	- texlive-bin
+	- mysql-dfsg-5.0
+	- gdb
+	- pocketpc-gcc
+	- heimdal
+	- cvsnt
+	- gnulib
+
+itcl3.1
+	- insight
+	- tk8.4
+	- tk8.5
+	- tk8.3
+	- amsn
+	- tix
+	- blt
+	- ruby1.8
+	- ruby1.9
+	- tkdvi
+	- tile
+	- fv
+	- tcllib
+	- openldap
+	- tcltrf
+	- tcl8.3
+	- tcl8.5
+	- tcl8.4
+	- itcl3
+	- grass
+	- perl-tk
+
+gnome-libs
+	- koffice
+	- scribus
+	- libart-lgpl
+	- gcompris
+	- scribus-ng
+
+htdig
+	- wwwoffle
+	- erlang
+
+bogl
+	- xfonts-75dpi
+	- scilab
+	- usplash
+
+spe
+	- wxwidgets2.8
+	- wxwidgets2.6
+	- swi-prolog
+
+sitecopy
+	- screem
+	- xulrunner
+	- iceweasel
+
+viewvc
+	- phpgroupware
+	- gforge
+
+xloadimage
+	- freeimage
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- qt4-x11
+	- paraview
+	- libjpeg6b
+	- squeak-vm
+	- wxwidgets2.6
+	- vtk
+	- libhdf4
+	- xnc
+	- xulrunner
+	- povray
+	- tremulous
+	- outguess
+	- plt-scheme
+	- insighttoolkit
+	- pose
+	- qt-x11-free
+	- openarena
+	- gdal
+	- iceweasel
+	- htmldoc
+	- ghostscript
+	- iceape
+	- vrweb
+	- dcmtk
+	- perl-tk
+	- fltk1.1
+
+ktorrent2.2
+	- kdevelop
+	- ktorrent
+	- tork
+	- kpowersave
+
+pycxx
+	- koffice
+	- pysvn
+	- matplotlib
+	- inkscape
+
+pine
+	- ng
+	- alpine
+
+botan
+	- psi
+	- qca2
+	- botan-devel
+	- monotone
+	- strongswan
+	- libcrypto++
+
+tkdvi
+	- itcl3
+	- fv
+	- insight
+	- itcl3.1
+	- iwidgets4
+
+scriptaculous
+	- libgettext-ruby
+	- knowledgeroot
+	- activeldap
+	- imp4
+	- webcit
+	- typo3-src
+	- mantis
+	- pixelpost
+	- xulrunner
+	- rails
+	- webhelpers
+	- wordpress
+	- symfony
+	- glpi
+	- iceweasel
+
+mochikit
+	- mahara
+	- ntop
+	- xulrunner
+	- iceweasel
+
+docbook-xsl
+	- docbook-website
+	- php-doc
+
+loop-aes-utils
+	- manpages-es-extra
+	- cbflib
+	- nilfs2-tools
+	- busybox
+	- manpages-ja
+	- ocfs2-tools
+	- manpages-hu
+	- manpages-zh
+	- manpages-fr-extra
+	- manpages-pl
+	- bsdmainutils
+	- watchdog
+	- util-linux
+	- shadow
+	- multipath-tools
+
+xfwm4
+	- xfwm4-themes
+	- murrine-themes
+	- oroborus
+
+firestring
+	- dsbltesters
+	- firedns
+
+gnome-chess
+	- docbook-dsssl
+	- brickos
+	- gmime2.2
+	- xlhtml
+	- apbs
+	- tea
+	- videolan-doc
+	- php-doc
+	- zeroc-ice
+	- python-gtk2-tutorial
+	- phpgroupware
+	- gnome-libs
+	- gutenprint
+	- freetds
+	- gtk+2.0
+
+ganymed-ssh2
+	- libbsf-java
+	- commons-httpclient
+	- trilead-ssh2
+	- libjdom0-java
+	- libjgrapht-java
+	- db4.5
+	- libjgraph-java
+	- db4.6
+	- libqdwizard-java
+	- rpm
+	- velocity
+	- jakarta-log4j
+	- netbeans-ide
+	- qdbm
+	- aspectj
+	- hyperestraier
+	- axis
+
+fv
+	- insight
+	- aolserver4
+
+renameutils
+	- gss
+	- tar
+	- parted
+	- libidn
+	- cpio
+	- gettext
+	- libntlm
+	- shishi
+	- gnutls26
+	- bison
+	- findutils
+	- gsasl
+	- cvsnt
+	- gnulib
+
+mesa
+	- xwnc
+	- xserver-xorg-video-intel
+	- xserver-xorg-video-ati
+	- vnc4
+	- xorg-server
+	- libjogl-java
+	- k3d
+	- libavg
+	- virtualbox-ose
+	- inventor
+
+docbook-dsssl
+	- kdelibs
+	- freetds
+	- php-doc
+
+asm2
+	- asm3
+	- asm
+
+qca2
+	- pathfinder
+	- bouncycastle
+	- mauve
+	- xmlsec1
+	- xulrunner
+	- iceweasel
+
+fribidi
+	- pango1.0
+	- quesoglc
+
+libx11
+	- nas
+	- xwnc
+
+libxkbfile
+	- xorg-server
+	- vnc4
+
+nsis
+	- iceape
+	- blender
+
+binutils-h8300-hms
+	- parted
+	- insight
+	- gdb
+	- gatos
+	- gnat-gps
+	- xemacs21
+	- sdcc-nf
+	- gcl
+	- pocketpc-binutils
+	- webcpp
+	- plt-scheme
+	- c-cpp-reference
+	- mysql-dfsg-5.0
+	- ht
+	- xen-3
+	- libffi
+	- wget
+	- gccxml
+	- gnulib
+	- mono-debugger
+	- pocketpc-gas
+	- linux-2.6
+	- valgrind
+	- gcc-h8300-hms
+	- ghdl
+	- binutils
+	- gnu-smalltalk
+	- pocketpc-gcc
+	- a2ps
+	- gputils
+
+wine
+	- gstreamer0.10-pitfdll
+	- libsdl-sound1.2
+	- xine-lib
+	- insight
+	- vice
+	- linux-2.6
+	- avifile
+	- gdb
+	- mplayer
+	- compiz
+	- liquidwar
+	- gtk+2.0
+	- vlc
+	- swi-prolog
+
+paintlib
+	- doxygen
+	- iceape
+	- vtk
+	- xulrunner
+	- paraview
+	- povray
+	- cvsnt
+	- iceweasel
+
+enet
+	- blockattack
+	- sauerbraten
+
+classpath
+	- libcobra-java
+	- netbeans-ide
+
+mydms
+	- kdeartwork
+	- egroupware
+	- moodle
+
+opensc
+	- belpic
+	- pam-pkcs11
+
+pcp
+	- samba
+	- heimdal
+
+boson
+	- cmake
+	- boson-music
+	- boson-data
+
+jpilot
+	- jppy
+	- wireshark
+
+xulrunner
+	- libtk-img
+	- texlive-bin
+	- netbeans-ide
+	- squeak-vm
+	- libgettext-ruby
+	- vnc4
+	- classpath
+	- rails
+	- perl
+	- ruby1.9
+	- rtai
+	- qt4-x11
+	- plt-scheme
+	- bug-buddy
+	- texmaker
+	- libcompress-raw-bzip2-perl
+	- gtkhtml3.14
+	- tcllib
+	- webkit
+	- conkeror
+	- iceweasel
+	- activeldap
+	- iceape
+	- gtkhtml3.8
+	- streamtuner
+	- scilab
+	- perl-tk
+
+erlang
+	- erlang-doc-html
+	- yaws
+
+pixman
+	- xulrunner
+	- iceweasel
+
+libgdiplus
+	- xorg-server
+	- wine
+
+icewm-themes
+	- kdeartwork
+	- qtdmm
+
+rake
+	- jruby1.0
+	- ruby1.9
+
+tile
+	- itcl3
+	- fv
+	- ruby1.9
+	- libtk-img
+	- insight
+	- ruby1.8
+	- itcl3.1
+	- iwidgets4
+	- tcl8.3
+	- perl-tk
+	- tcltrf
+
+maildrop
+	- courier-authlib
+	- cone
+	- courier
+	- swi-prolog
+
+openjpeg
+	- qt4-x11
+	- freeimage
+	- libtk-img
+	- wxwidgets2.8
+	- insighttoolkit
+	- wxwidgets2.6
+
+tkrat
+	- uw-imap
+	- pine
+	- alpine
+
+htmldoc
+	- freeimage
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- paraview
+	- wxwidgets2.6
+	- syslinux
+	- visualboyadvance
+	- vtk
+	- xulrunner
+	- povray
+	- qt4-x11
+	- plt-scheme
+	- insighttoolkit
+	- vrweb
+	- qt-x11-free
+	- doxygen
+	- gdal
+	- iceweasel
+	- ghostscript
+	- iceape
+	- vice
+	- stella
+	- xnc
+	- perl-tk
+	- fltk1.1
+
+knowledgeroot
+	- symfony
+	- gforge
+	- webcit
+	- typo3-src
+	- mantis
+	- xulrunner
+	- mahara
+	- glpi
+	- plone3
+	- iceweasel
+
+fnord
+	- ipsvd
+	- djbdns
+	- libowfat
+	- runit
+	- libdjbdns
+	- ucspi-tcp-src
+	- ucspi-tcp
+	- checkpw
+	- freecdb
+	- daemontools
+	- qmail
+
+memchan
+	- tile
+	- itcl3
+	- fv
+	- insight
+	- tclxml
+	- itcl3.1
+	- tcl8.3
+	- perl-tk
+	- tcl8.5
+
+libqwt
+	- quantlib-refman-html
+	- simpledb
+	- kmchart
+	- libtrace3
+	- libpqxx
+	- pyqwt5
+	- libxml++2.6
+	- schroot
+	- rtai
+	- rapidsvn
+	- pyqwt
+	- glibmm2.4
+	- libgnomemm2.6
+	- gtkmm2.4
+	- qwt
+	- libgdamm3.0
+	- qca2
+	- apbs
+	- gtkglextmm
+	- log4cpp-doc
+	- ogre-doc-nonfree
+	- bmagic
+	- gsoap
+	- qdbm
+
+sks-ecc
+	- ghostscript
+	- iceape
+	- plt-scheme
+	- libtk-img
+	- qt-x11-free
+	- wxwidgets2.8
+	- doxygen
+	- xulrunner
+	- texlive-bin
+	- qt4-x11
+	- povray
+	- syslinux
+	- perl-tk
+	- cvsnt
+	- iceweasel
+
+mirrordir
+	- manpages-ja
+	- texlive-bin
+
+workman
+	- ascd
+	- kdemultimedia
+
+f2c
+	- pcx
+	- scilab
+
+manpages-es-extra
+	- manpages-de
+	- manpages-ja
+	- manpages-pt
+	- manpages-zh
+	- manpages-es
+	- manpages
+	- manpages-fr-extra
+	- manpages-pl
+	- manpages-hu
+
+cairo
+	- libgdiplus
+	- xulrunner
+	- iceape
+	- librsvg
+	- iceweasel
+
+mxml
+	- asterisk-addons
+	- asterisk
+	- zaptel
+
+sdcc
+	- pspp
+	- parted
+	- fhist
+	- sdcc-nf
+	- digitemp
+	- dietlibc
+	- cook
+	- linux86
+	- gnulib
+
+lzma
+	- p7zip
+	- criticalmass
+
+fckeditor
+	- knowledgeroot
+	- egroupware
+	- docvert
+	- gforge
+	- moin
+
+tightvnc
+	- nss
+	- iceape
+	- xview
+	- x11proto-kb
+	- xutils-dev
+	- xbitmaps
+	- xulrunner
+	- virtualbox-ose
+	- xorg-server
+	- vnc4
+	- perl-tk
+	- tendra
+	- iceweasel
+
+freeciv
+	- iceape
+	- freej
+	- xulrunner
+	- biloba
+	- iceweasel
+
+poppler
+	- kdegraphics
+	- okular
+	- kde4libs
+
+gmediaserver
+	- inetutils
+	- gv
+	- lftp
+	- wvstreams
+	- parted
+	- cpio
+	- shishi
+	- bison
+	- emacs22
+	- mailutils
+	- gzip
+	- texinfo
+	- pspp
+	- gengetopt
+	- gnulib
+
+glib1.2
+	- gtk+2.0
+	- glib2.0
+	- gettext
+	- pkg-config
+
+kdepim
+	- eqonomize
+	- digikam
+	- taskjuggler
+	- tellico
+
+neon26
+	- tla
+	- neon27
+	- gnome-vfs
+	- sitecopy
+	- cadaver
+
+putty
+	- xtrkcad
+	- cvsnt
+	- halibut
+	- filezilla
+
+cssed
+	- scite
+	- gphpedit
+	- geany
+	- wxwidgets2.8
+	- qscintilla2
+	- qscintilla
+	- wxwidgets2.6
+
+potrace
+	- ktoon
+	- inkscape
+
+libedit
+	- mono-debugger
+	- asterisk
+	- heimdal
+	- mysql-dfsg-5.0
+	- tnftp
+	- openipmi
+	- libbsd
+
+botan-devel
+	- openswan
+	- strongswan
+	- botan
+
+openssl
+	- xmail
+	- qca2
+	- binkd
+	- cyrus-sasl2
+	- cyrus-sasl2-heimdal
+	- strongswan
+	- gnupg
+	- crack
+	- wine
+	- openswan
+
+yui
+	- bcfg2
+	- moodle
+
+mdbtools
+	- hk-classes
+	- keximdb
+
+fruit
+	- glaurung
+	- polyglot
+	- toga2
+
+luatex
+	- texlive-base
+	- texlive-bin
+	- dvipsk-ja
+
+libsexy
+	- gimmie
+	- rhythmbox
+
+libqt4-ruby
+	- kdelibs
+	- kdepim
+	- kdebindings
+	- qt4-x11
+	- kde4libs
+
+psyco-doc
+	- psyco
+	- python2.5
+
+agenda.app
+	- price.app
+	- volumecontrol.app
+	- projectcenter.app
+	- talksoup.app
+	- steptalk
+	- cynthiune.app
+	- gnustep-examples
+	- paje.app
+	- mpdcon.app
+	- gorm.app
+	- gworkspace
+	- rssreader.app
+	- etoile
+	- adun.app
+	- gtamsanalyzer.app
+	- projectmanager.app
+
+vnc4
+	- xwnc
+	- amsn
+	- libxdmcp
+	- iceape
+	- linux-2.6
+	- directvnc
+	- texlive-bin
+	- vncsnapshot
+	- kdenetwork
+	- grace6
+	- tightvnc
+	- gridengine
+	- grace
+	- italc
+	- directfb
+
+festival
+	- speech-tools
+	- festival-doc
+
+twisted
+	- twisted-web2
+	- twisted-calendarserver
+
+rails
+	- libgettext-ruby
+	- kwalify
+	- activeldap
+	- libopenid-ruby
+	- librspec-ruby
+	- jruby1.0
+	- puppet
+	- netbeans-ide
+	- libactiverecord-ruby
+
+libxpm
+	- vnc4
+	- plt-scheme
+	- icon
+
+arch-buildpackage
+	- gtk-led-askpass
+	- oroborus
+	- pymad
+	- icheck
+	- archway
+	- svn-arch-mirror
+
+fftw3
+	- asymptote
+	- fftw
+
+pspp
+	- parted
+	- gcl
+	- gnutls26
+	- dk-milter
+	- gnulib
+	- rpm
+
+kiwi
+	- pida
+	- sshproxy
+	- elisa
+
+magpierss
+	- entagged
+	- moodle
+
+picon-misc
+	- picon-weather
+	- picon-usenix
+	- picon-news
+	- picon-domains
+	- picon-users
+
+svgalib
+	- usplash
+	- koules
+
+lrzsz
+	- lftp
+	- tar
+	- sharutils
+	- pocketpc-binutils
+	- parted
+	- gawk
+	- gnulib
+	- a2ps
+	- findutils
+
+sigscheme
+	- uim
+	- autoconf-archive
+
+netpanzer
+	- lincity-ng
+	- boost-build
+	- boost1.35
+
+libevent
+	- transmission
+	- openmpi
+	- dnsproxy
+
+redland
+	- redland-bindings
+	- rasqal
+	- raptor
+
+lcdf-typetools
+	- xmahjongg
+	- texlive-bin
+
+inventor
+	- glut
+	- mesa
+
+bind9
+	- mpich
+	- tcpdump
+	- openswan
+
+kino
+	- xine-lib
+	- allegro4.2
+	- ipgrab
+	- ffmpeg-debian
+	- avifile
+	- libpano12
+	- audiofile
+	- xyssl
+	- vice
+	- vlc
+	- linux-2.6
+	- libtk-img
+	- smilutils
+	- dvgrab
+	- mplayer
+
+libmodplug
+	- gst-plugins-bad0.10
+	- schism
+
+libauthen-smb-perl
+	- inn2
+	- libapache2-authenntlm-perl
+	- squid
+	- muddleftpd
+	- libroxen-smbauth
+	- freeradius
+	- squid3
+
+gnupg
+	- parted
+	- clisp
+	- man-db
+	- gcvs
+	- gnupg2
+	- gettext
+	- shishi
+	- texlive-bin
+	- gnulib
+
+fbxkb
+	- pychess
+	- awffull
+	- xqf
+	- lxpanel
+	- xfce4-xkb-plugin
+	- gcompris
+	- awstats
+
+libdate-calc-perl
+	- psad
+	- libdate-pcalc-perl
+
+libggz
+	- ggz-gtk-client
+	- ggz-gtk-games
+	- ggz-server
+	- gnome-games
+	- ggz-client-libs
+	- ggz-kde-games
+
+xaw3d
+	- vnc4
+	- xfig
+	- texlive-bin
+	- libxaw
+	- scilab
+	- genesis
+
+man-db
+	- parted
+	- gettext
+	- shishi
+	- texlive-bin
+	- gnupg
+	- gnulib
+
+libcroco
+	- inkscape
+	- gettext
+	- cssed
+
+libphp-adodb
+	- cacti
+	- gforge
+	- torrentflux
+	- phpwiki
+	- typo3-src
+	- moodle
+	- egroupware
+	- phppgadmin
+	- mahara
+	- phpgacl
+
+libggi
+	- open-vm-tools
+	- r-base
+	- libggiwmh
+	- r-base-core-ra
+	- libgiigic
+	- gnucash
+	- heimdal
+	- libggigcp
+	- gdb
+	- libgii
+	- svgalib4libggi
+	- libggimisc
+
+pyalsaaudio
+	- kiwi
+	- plastex
+	- python2.4-doc
+	- cx-bsdiff
+	- mailman
+	- libapache2-mod-python
+	- pyopenssl
+	- python-pychart
+	- python2.5
+	- python2.4
+	- pyqwt3d
+	- pythoncard
+	- python2.5-doc
+	- zsi
+
+tk8.4
+	- tkabber
+	- vnc4
+	- fv
+	- xotcl
+	- vtk
+	- insight
+	- itcl3.1
+	- paraview
+	- tk8.5
+	- tdom
+
+sdcc-nf
+	- parted
+	- insight
+	- gdb
+	- linux86
+	- rpm
+	- xemacs21
+	- sdcc
+	- gcl
+	- dietlibc
+	- wml
+	- gmp
+	- pspp
+	- ecl
+	- uucp
+	- cook
+	- gccxml
+	- gnulib
+	- mono-debugger
+	- fhist
+	- pocketpc-gas
+	- gcc-h8300-hms
+	- ghdl
+	- wine
+	- pocketpc-binutils
+	- binutils-h8300-hms
+	- grass
+	- binutils
+	- pocketpc-gcc
+
+tk8.3
+	- libtk-img
+	- insight
+	- nxtvepg
+	- itcl3.1
+	- paraview
+	- tk8.4
+	- tightvnc
+	- amsn
+	- tk8.5
+	- tix
+	- vnc4
+	- tktable2.9
+	- blt
+	- vtk
+	- ruby1.8
+	- ruby1.9
+	- virtualbox-ose
+	- tcllib
+	- saods9
+	- fv
+	- tclxml
+	- lablgl
+	- tcl8.3
+	- tcl8.5
+	- tcl8.4
+	- tile
+	- itcl3
+	- tklib
+	- iwidgets4
+	- bwidget
+	- scilab
+	- grass
+	- perl-tk
+	- xwnc
+
+libgadu
+	- ekg
+	- wengophone
+	- centerim
+	- kdenetwork
+	- pidgin
+
+jaxme
+	- libservlet2.4-java
+	- tomcat5.5
+	- tomcat6
+	- glassfish
+	- netbeans-ide
+
+tinymce
+	- webcit
+	- knowledgeroot
+	- turbotinymce
+	- wordpress
+	- mahara
+	- tinymce2
+	- glpi
+
+automake1.9-nonfree
+	- insight
+	- automake
+	- gdb
+	- automake1.9
+	- binutils
+	- automake1.10
+	- automake1.7
+	- autoconf
+	- autoconf-nonfree
+	- a2ps
+	- dasher
+
+ruby1.9
+	- insight
+	- qwik
+	- activeldap
+	- libjson-ruby
+	- hiki
+	- ruby-gnome2
+	- libtk-img
+	- hylafax
+	- grass
+	- ruby1.8
+	- libtmail-ruby
+	- libdevel-logger-ruby
+	- xulrunner
+	- libcairo-ruby
+	- wine
+	- vnc4
+	- libyaml-syck-perl
+	- bind9
+	- linux-2.6
+	- iceweasel
+
+klibc
+	- libtk-img
+	- texlive-bin
+	- root-system
+	- linux86
+	- cvsnt
+	- syslinux
+	- gcl
+	- xulrunner
+	- dietlibc
+	- povray
+	- qt4-x11
+	- 9base
+	- pose
+	- mysql-dfsg-5.0
+	- python2.5
+	- emacs21
+	- emacs22
+	- qt-x11-free
+	- iceweasel
+	- ghostscript
+	- iceape
+	- kdelibs
+	- linux-2.6
+	- kbuild
+	- pocketpc-binutils
+	- pocketpc-gas
+	- perl-tk
+	- pocketpc-gcc
+
+dk-milter
+	- xenomai
+	- dkim-milter
+
+squeak-vm
+	- classpath
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- libtk-img
+	- paraview
+	- wxwidgets2.6
+	- blender
+	- vnc4
+	- vtk
+	- libhdf4
+	- cvsnt
+	- freej
+	- xulrunner
+	- povray
+	- rtai
+	- qt4-x11
+	- plt-scheme
+	- insighttoolkit
+	- vrweb
+	- qt-x11-free
+	- jscoverage
+	- bfilter
+	- iceweasel
+	- ghostscript
+	- iceape
+	- xloadimage
+	- xnc
+	- perl-tk
+	- pocketpc-gcc
+
+webgen0.4
+	- webgen
+	- egroupware
+
+libf2c2
+	- pcx
+	- superlu
+	- insighttoolkit
+	- digikam
+	- xppaut
+	- scilab
+
+flexml
+	- w3c-dtd-xhtml
+	- xemacs21-packages
+	- xom
+	- w3-recs
+	- jhove
+	- xulrunner
+	- selfhtml
+	- libstruts1.2-java
+	- netbeans-ide
+	- erlang
+	- plone3
+	- hugs98
+	- iceweasel
+
+lucene2
+	- netbeans-ide
+	- gforge
+
+minpack
+	- insighttoolkit
+	- scilab
+	- cl-f2cl
+	- python-scipy
+
+t1lib
+	- vnc4
+	- dvipsk-ja
+	- libxfont
+	- texlive-bin
+	- grace6
+	- tightvnc
+	- grace
+
+vgabios
+	- kvm
+	- xen-3
+	- virtualbox-ose
+
+sdd
+	- cdrkit
+	- dvdrtools
+	- sformat
+	- sfind
+	- cdrdao
+
+cimg
+	- quantlib-refman-html
+	- ipe
+	- libpqxx
+	- libofx
+	- ccfits
+	- qscintilla2
+	- libsigc++-2.0
+	- pam-pkcs11
+	- libxml++2.6
+	- qscintilla
+	- rapidsvn
+	- mysql++
+	- scim
+	- pyqwt3d
+	- gtkmm2.4
+	- qca2
+	- libgdamm3.0
+	- libqglviewer
+	- apbs
+	- libyaml
+	- log4cpp-doc
+	- cairomm
+	- xapian-core
+
+kdelibs
+	- kdepim
+	- boost
+	- boost1.35
+	- kde4libs
+
+nettle
+	- beecrypt
+	- parted
+	- xyssl
+	- lsh-utils
+	- shishi
+	- gnutls26
+	- gnulib
+	- libcrypto++
+
+libdvbpsi4
+	- libdvbpsi5
+	- libdvbpsi3
+
+maloc
+	- electric-fence
+	- apbs
+
+tinymce2
+	- webcit
+	- knowledgeroot
+	- moodle
+	- wordpress
+	- mahara
+	- turbotinymce
+	- glpi
+	- plone3
+
+nethack
+	- linux-2.6
+	- slashem
+
+runit
+	- busybox
+	- bglibs
+
+qwtplot3d
+	- pyqwt3d
+	- kmchart
+	- paraview
+	- labplot
+
+r-base-core-ra
+	- krb5
+	- povray
+	- libggiwmh
+	- libtk-img
+	- texlive-base
+	- texlive-bin
+	- labplot
+	- rpart
+	- plotutils
+	- gdb
+	- openbabel
+	- paraview
+	- base-files
+	- r-base
+	- cvsnt
+	- analog
+	- openafs
+	- plt-scheme
+	- libhdf4
+	- heimdal
+	- gettext
+	- man-db
+	- poco
+	- openmpi
+	- xulrunner
+	- dietlibc
+	- libxml2
+	- php5
+	- erlang
+	- zelig
+	- mednafen
+	- open-vm-tools
+	- lftp
+	- qt4-x11
+	- imagemagick
+	- libtasn1-3
+	- insighttoolkit
+	- monotone
+	- glib2.0
+	- libpdf-writer-ruby
+	- hypermail
+	- matplotlib
+	- xmoto
+	- libwmf
+	- grace
+	- gdal
+	- iceweasel
+	- aspell
+	- iceape
+	- gnucash
+	- libggi
+	- scilab
+	- aria2
+	- nlme
+	- binutils
+
+findutils
+	- parted
+	- samba
+	- tar
+	- mc
+	- insight
+	- mysql-dfsg-5.0
+	- gdb
+	- gimp
+	- gnulib
+
+popt
+	- rsync
+	- samba
+	- distcc
+	- orbit
+	- pilot-link
+	- rpm
+
+wxwidgets2.6
+	- qt4-x11
+	- root-system
+	- lyx
+	- qt-x11-free
+	- wxwidgets2.8
+	- qscintilla2
+
+portaudio19
+	- wsjt
+	- praat
+	- audacity
+	- portaudio
+	- mixxx
+	- teeworlds
+
+jam
+	- ftjam
+	- boost1.35
+	- boost
+	- boost-build
+	- boost-jam
+
+chmlib
+	- wine
+	- kchmviewer
+
+javax-servletapi2.3
+	- libservlet2.4-java
+	- tomcat5.5
+	- tomcat6
+	- glassfish
+	- netbeans-ide
+
+pyqwt3d
+	- xulrunner
+	- qca2
+	- iceweasel
+
+libtheora
+	- gst-plugins-good0.10
+	- gst-plugins-bad0.10
+
+nunit
+	- mono
+	- mysql-connector-net-5.0
+
+vtk
+	- cmake
+	- ogre
+	- insighttoolkit
+	- octaviz
+	- glut
+	- gtkglext
+	- paraview
+	- mesa
+	- gccxml
+
+xdm
+	- xorg-server
+	- vnc4
+
+cpio
+	- wflogs
+	- busybox
+	- parted
+	- tar
+	- mailutils
+	- insight
+	- texlive-bin
+	- gdb
+	- findutils
+	- recode
+	- rpm
+	- cvsnt
+	- ffcall
+	- libntlm
+	- heimdal
+	- gettext
+	- gnutls26
+	- man-db
+	- gmediaserver
+	- pocketpc-binutils
+	- inetutils
+	- lftp
+	- shishi
+	- xindy
+	- emacs22
+	- wvstreams
+	- gnulib
+	- icoutils
+	- pocketpc-gas
+	- gcvs
+	- gcc-h8300-hms
+	- binutils
+	- bison
+	- a2ps
+	- id-utils
+	- gnu-smalltalk
+	- libtasn1-3
+	- pspp
+	- gnuit
+	- pocketpc-gcc
+
+celementtree
+	- scorched3d
+	- libxmltok
+	- expat
+	- texlive-bin
+	- wxwidgets2.8
+	- libspiff
+	- jabber
+	- cvsnt
+	- sitecopy
+	- cmake
+	- vnc4
+	- xotcl
+	- vtk
+	- tla
+	- apache2
+	- poco
+	- xulrunner
+	- wxwidgets2.6
+	- libparagui1.0
+	- libparagui1.1
+	- grace6
+	- iceweasel
+	- dasher
+	- wbxml2
+	- swish-e
+	- insighttoolkit
+	- albert
+	- python2.5
+	- cadaver
+	- apr-util
+	- mcabber
+	- python-xml
+	- python2.4
+	- iceape
+	- ganglia-monitor-core
+	- ghostscript
+	- centerim
+	- ayttm
+	- cableswig
+	- grmonitor
+	- xmlrpc-c
+	- simgear
+	- audacity
+	- xmame
+	- matanza
+	- tdom
+	- paraview
+
+bfilter
+	- kdepim
+	- boost1.35
+	- libsmbios
+	- lyx
+	- fityk
+	- k3d
+	- boost
+	- framewave
+
+fvwm1
+	- fvwm
+	- asclassic
+
+phpsysinfo
+	- egroupware
+	- phpgroupware
+	- moodle
+
+swfdec0.6
+	- gst-plugins-bad0.10
+	- gstreamer0.10-ffmpeg
+
+linux-2.6
+	- vnc4
+	- busybox
+	- parted
+	- linux-kbuild-2.6
+	- libx86
+	- libgtop2
+	- insight
+	- proll
+	- discover
+	- collectd
+	- lsh-utils
+	- iproute
+	- gdb
+	- skyeye
+	- aegis
+	- xmame
+	- xenomai
+	- dnprogs
+	- linux86
+	- bacula
+	- hatari
+	- klibc
+	- isdnutils
+	- rsync
+	- samba
+	- alsa-driver
+	- testdisk
+	- etherboot
+	- ffmpeg-debian
+	- comedi
+	- heimdal
+	- perl
+	- netatalk
+	- grub2
+	- kbuild
+	- strongswan
+	- php5
+	- dietlibc
+	- rtai
+	- ocp
+	- iptables
+	- gnumach
+	- kvm
+	- exult
+	- ntp
+	- vlc
+	- device-tree-compiler
+	- qemu
+	- kdeutils
+	- syslinux
+	- xen-3
+	- emacs21
+	- emacs22
+	- dosemu
+	- mesa
+	- gnulib
+	- bsdgames
+	- pocketpc-gas
+	- iceape
+	- root-system
+	- hwinfo
+	- libnl
+	- openssl
+	- e2fsprogs
+	- gcc-h8300-hms
+	- xloadimage
+	- zabbix
+	- apcupsd
+	- wine
+	- pocketpc-binutils
+	- bochs
+	- kdelibs
+	- aranym
+	- pocketpc-gcc
+	- ocfs2-tools
+	- openbios-sparc
+	- mplayer
+
+talloc
+	- ldb
+	- tdb
+	- samba
+	- ctdb
+
+lsb-appchk3
+	- lsb-pkgchk3
+	- lsb-build-base3
+	- mysql-connector-net-5.0
+
+bison
+	- parted
+	- tar
+	- mailutils
+	- insight
+	- texlive-bin
+	- gdb
+	- findutils
+	- cvsnt
+	- gimp
+	- gettext
+	- man-db
+	- pocketpc-binutils
+	- inetutils
+	- sharutils
+	- cpio
+	- gawk
+	- libvirt
+	- emacs22
+	- gsasl
+	- dpkg
+	- gnulib
+	- pocketpc-gas
+	- gcc-h8300-hms
+	- kbuild
+	- binutils
+	- id-utils
+	- gnu-smalltalk
+	- libtasn1-3
+	- pspp
+	- a2ps
+	- pocketpc-gcc
+
+cairo-clock
+	- awn-extras-applets
+	- screenlets
+
+gcc-4.2-doc-non-dfsg
+	- gcc-4.3-doc-non-dfsg
+	- gcc-4.1-doc-non-dfsg
+	- pocketpc-gcc
+	- gcc-h8300-hms
+
+jade
+	- jadetex
+	- openjade1.3
+	- openjade
+	- opensp
+
+autoconf2.13
+	- dvipsk-ja
+	- luatex
+	- texlive-bin
+	- sdd
+	- sformat
+	- sfind
+	- cdrdao
+
+octave3.0
+	- octave2.1
+	- python-scipy
+	- insighttoolkit
+	- gcc-h8300-hms
+	- cssc
+	- pdl
+	- cl-f2cl
+	- scilab
+	- pocketpc-gcc
+	- maxima
+
+cyrus-sasl2-heimdal
+	- mpack
+	- kolab-cyrus-imapd
+	- cyrus-imapd-2.2
+	- cyrus-sasl2
+	- heimdal
+	- strongswan
+
+libtnt
+	- cgal
+	- liblip
+
+sed
+	- parted
+	- tar
+	- mailutils
+	- anubis
+	- insight
+	- gdb
+	- findutils
+	- ssed
+	- gettext
+	- m4
+	- gnutls26
+	- pspp
+	- inetutils
+	- shishi
+	- gsasl
+	- gnulib
+	- gcc-h8300-hms
+	- kbuild
+	- bison
+	- id-utils
+	- gnu-smalltalk
+	- a2ps
+	- pocketpc-gcc
+
+extlib
+	- haxe
+	- camomile
+
+drbd8
+	- linux-2.6
+	- drbd0.7
+
+pvm
+	- r-base-core-ra
+	- shibboleth-sp
+	- scilab
+	- xpvm
+	- swi-prolog
+
+analog
+	- ghostscript
+	- iceape
+	- plt-scheme
+	- r-base-core-ra
+	- libtk-img
+	- vtk
+	- vrweb
+	- libhdf4
+	- xnc
+	- texlive-bin
+	- r-base
+	- qt4-x11
+	- xulrunner
+	- perl-tk
+	- gnupg
+	- povray
+	- vnc4
+	- avfs
+	- iceweasel
+
+gravitation
+	- transcend
+	- cultivation
+	- leaktracer
+	- passage
+
+apoo
+	- darcs
+	- mailman
+	- yappy
+	- renaissance
+	- gosa
+	- octave-optim
+	- gcx
+
+autopkgtest
+	- lsb-appchk3
+	- pam-tmpdir
+	- lsb-pkgchk3
+
+libgnome
+	- libgnomeui
+	- gnome-libs
+
+libactivesupport-ruby
+	- libbuilder-ruby
+	- rails
+
+clisp
+	- cln
+	- mailutils
+	- ecl
+	- ffcall
+	- xsok
+	- cmucl
+	- xindy
+	- cl-clx-sbcl
+
+manpages-hu
+	- manpages-de
+	- manpages-ja
+	- manpages-zh
+	- manpages-es
+	- manpages
+	- manpages-fr-extra
+	- manpages-pl
+	- manpages-ru
+
+libpng
+	- parted
+	- freeimage
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- qt4-x11
+	- paraview
+	- cloop
+	- libjpeg6b
+	- cvsnt
+	- wxwidgets2.6
+	- syslinux
+	- visualboyadvance
+	- vnc4
+	- xloadimage
+	- vtk
+	- libhdf4
+	- xnc
+	- gettext
+	- squeak-vm
+	- vrweb
+	- xulrunner
+	- povray
+	- tremulous
+	- lftp
+	- pose
+	- plt-scheme
+	- insighttoolkit
+	- outguess
+	- qt-x11-free
+	- advancecomp
+	- tcllib
+	- ghostscript
+	- openarena
+	- gdal
+	- iceweasel
+	- htmldoc
+	- doxygen
+	- iceape
+	- vice
+	- fsl
+	- stella
+	- dcmtk
+	- libtasn1-3
+	- perl-tk
+	- fltk1.1
+
+ocamlgraph
+	- why
+	- menhir
+
+hfsplus
+	- pearpc
+	- hfsutils
+	- dvdrtools
+	- cdrkit
+	- openbios-sparc
+
+bulletml
+	- noiz2sa
+	- criticalmass
+	- rrootage
+
+wl
+	- wl-beta
+	- xemacs21-packages
+	- w3m-el-snapshot
+
+xen-3
+	- crash
+	- linux-2.6
+	- insight
+	- gdb
+	- acpidump
+
+coq
+	- why
+	- ocamlgraph
+
+mono
+	- iceape
+	- plt-scheme
+	- beagle
+	- xulrunner
+	- monodoc
+	- iceweasel
+
+tclthread
+	- itcl3
+	- fv
+	- memchan
+	- libtk-img
+	- insight
+	- tclvfs
+	- tile
+	- tclxml
+	- tcl8.3
+	- tk8.4
+	- tk8.5
+	- perl-tk
+	- tk8.3
+	- tcl8.5
+	- tcl8.4
+
+transmission
+	- unison
+	- xulrunner
+	- iceweasel
+
+perl-tk
+	- ghostscript
+	- iceape
+	- plt-scheme
+	- wxwidgets2.6
+	- insight
+	- mysql-dfsg-5.0
+	- python2.5
+	- wxwidgets2.8
+	- root-system
+	- qt4-x11
+	- virtualbox-ose
+	- qt-x11-free
+	- texlive-bin
+	- povray
+	- vnc4
+	- xulrunner
+	- tightvnc
+	- cvsnt
+	- swi-prolog
+	- iceweasel
+
+libical
+	- kdepim
+	- calendarserver
+	- multisync
+	- claws-mail-extra-plugins
+	- kdepimlibs
+	- jppy
+	- orage
+	- etpan-ng
+	- evolution-data-server
+
+binutils
+	- parted
+	- pocketpc-gas
+	- insight
+	- autoconf-nonfree
+	- pocketpc-binutils
+	- binutils-h8300-hms
+
+boost-jam
+	- iceape
+	- plt-scheme
+	- mono
+	- ecl
+	- uim
+	- sigscheme
+	- synopsis
+	- boost-build
+	- libgc
+	- boost1.35
+
+libgd2
+	- plt-scheme
+	- ploticus
+	- texlive-bin
+	- libwmf
+	- openvas-client
+	- bulmages
+	- nessusclient
+	- php5
+	- scilab
+	- graphviz
+	- nessus-core
+
+unison2.13.16
+	- unison
+	- geneweb
+	- ocaml
+
+phpldapadmin
+	- symfony
+	- cacti
+	- gforge
+	- horde3
+	- phpwiki
+	- moodle
+	- egroupware
+	- phpgroupware
+	- mahara
+	- glpi
+	- plone3
+
+pygments
+	- jade
+	- openjade1.3
+	- swi-prolog
+	- opensp
+
+libosip2
+	- libexosip2
+	- wengophone
+
+qemu
+	- etherboot
+	- kvm
+	- xen-3
+	- virtualbox-ose
+	- openbios-sparc
+
+syslinux
+	- vtk
+	- ghostscript
+	- iceape
+	- wxwidgets2.6
+	- qt-x11-free
+	- mysql-dfsg-5.0
+	- python2.5
+	- wxwidgets2.8
+	- qt4-x11
+	- virtualbox-ose
+	- paraview
+	- texlive-bin
+	- povray
+	- xulrunner
+	- mesa
+	- perl-tk
+	- cvsnt
+	- fltk1.1
+	- iceweasel
+
+silc-client
+	- monotone
+	- libidn
+	- psi
+	- silc-server
+	- silc-toolkit
+
+diveintopython-zh
+	- libxml2
+	- phatch
+	- boost1.35
+	- kde4libs
+	- amavisd-new
+	- esvn
+	- diveintopython
+	- asciidoc
+	- capisuite
+	- pida
+	- docbook-defguide
+	- kdelibs
+	- docbook-xsl
+	- libxslt
+	- dict-jargon
+	- boost
+
+venkman
+	- iceape
+	- bidiui
+	- xulrunner
+	- biloba
+	- iceweasel
+	- livehttpheaders
+
+gtkglarea
+	- libgtkada2
+	- gabedit
+	- gtkgl2
+
+xine-plugin
+	- gnash
+	- iceape
+	- nspr
+	- xulrunner
+	- virtualbox-ose
+	- iceweasel
+
+fox1.6
+	- fox1.4
+	- tuxpaint
+	- fltk1.1
+
+enblend
+	- hugin
+	- libvigraimpex
+
+ncurses
+	- cmake
+	- texlive-bin
+	- manpages-pl
+
+gst-plugins-bad0.10
+	- iceape
+	- freeciv
+	- xulrunner
+	- tightvnc
+	- iceweasel
+
+libmad
+	- xine-lib
+	- avifile
+
+knews
+	- scilab
+	- xaw3d
+	- vnc4
+
+ant
+	- libfontbox-java
+	- xom
+	- jbossas4
+	- tomcat5.5
+	- tomcat6
+	- libjempbox-java
+	- lucene2
+	- netbeans-ide
+	- libpdfbox-java
+	- axis
+
+activeldap
+	- qwik
+	- ruby1.9
+	- ruby1.8
+	- jruby1.0
+	- xulrunner
+	- iceweasel
+
+zlib
+	- tntnet
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- ktoon
+	- cvsnt
+	- klibc
+	- syslinux
+	- vnc4
+	- kicad
+	- libhdf4
+	- xulrunner
+	- analog
+	- povray
+	- pyqwt3d
+	- dreamchess
+	- qt4-x11
+	- plt-scheme
+	- vlc
+	- vrweb
+	- qt-x11-free
+	- python2.5
+	- scribus-ng
+	- iceweasel
+	- libaws
+	- ghostscript
+	- iceape
+	- gpsbabel
+	- scribus
+	- gcvs
+	- httrack
+	- nsis
+	- sks-ecc
+	- perl-tk
+
+balazar
+	- slune
+	- soya-doc
+	- balazarbrothers
+
+mplayerplug-in
+	- xulrunner
+	- iceape
+	- pcmanx-gtk2
+	- iceweasel
+
+libselinux
+	- linux-2.6
+	- libsepol
+
+procps
+	- manpages-ja
+	- manpages-fr-extra
+
+pocketpc-gcc
+	- tar
+	- insight
+	- gcc-h8300-hms
+	- gdb
+	- wine
+
+libassuan
+	- gpgme1.0
+	- kdepim
+
+libxml2
+	- boost1.35
+	- kde4libs
+	- kdelibs
+	- paraview
+	- docbook-defguide
+	- docbook-xsl
+	- libxslt
+	- dict-jargon
+	- boost
+	- gnucash-docs
+
+blas
+	- octave2.1
+	- hypre
+	- insighttoolkit
+	- mopac7
+	- octave3.0
+	- lapack
+	- cl-f2cl
+	- semidef-oct
+	- atlas
+	- scilab
+	- arpack
+
+geshi
+	- moodle
+	- dokuwiki
+
+libffi
+	- plt-scheme
+	- python2.5
+	- ghdl
+	- ctypes
+	- gnu-smalltalk
+	- gauche-c-wrapper
+
+pyqwt5
+	- pyqwt3d
+	- pyqwt
+	- kmchart
+
+gimp
+	- koffice
+	- create-resources
+
+mako
+	- jinja
+	- genshi
+
+whois
+	- inetutils
+	- psad
+	- bastille
+
+libhdf4
+	- ghostscript
+	- iceape
+	- plt-scheme
+	- root-system
+	- insighttoolkit
+	- qt-x11-free
+	- vrweb
+	- exult
+	- squeak-vm
+	- digikam
+	- xulrunner
+	- paraview
+	- povray
+	- vnc4
+	- scilab
+	- pocketpc-gcc
+	- perl-tk
+	- cvsnt
+	- texlive-bin
+	- iceweasel
+
+sqlite3
+	- klamav
+	- iceape
+	- showimg
+	- koffice
+	- monotone
+	- libdbd-sqlite3-perl
+	- libgda3
+	- php5
+	- hk-classes
+	- kdenetwork
+
+libyahoo2
+	- bitlbee
+	- centerim
+	- ayttm
+
+kde-icons-gorilla
+	- kde-icons-kneu
+	- kdeartwork
+	- kde-icons-crystalproject
+	- kde-icons-korilla
+	- kde-icons-nuvola
+
+libnet
+	- sing
+	- snort
+
+superlu
+	- octave2.1-forge
+	- hypre
+	- python-scipy
+	- pysparse
+	- blender
+
+gtodo
+	- gtodo-applet
+	- anjuta
+
+glib2.0
+	- qt4-x11
+	- root-system
+	- gettext
+	- poco
+	- gnome-libs
+	- gtk+2.0
+	- medit
+	- cvsnt
+	- pkg-config
+
+qmail-qfilter
+	- ipsvd
+	- djbdns
+	- runit
+	- qmail
+	- ucspi-tcp
+	- ucspi-unix
+	- mailfront
+	- checkpw
+	- ucspi-tcp-src
+	- bglibs
+
+libvirt
+	- gdb
+	- insight
+	- vlc
+	- gimp
+
+fuse
+	- ntfs-3g
+	- linux-2.6
+
+emacs21
+	- octave2.1
+	- scm
+	- parted
+	- insight
+	- octave3.0
+	- sweep
+	- ne
+	- gdb
+	- aegis
+	- linux86
+	- klibc
+	- xemacs21
+	- vnc4
+	- pcp
+	- gcl
+	- xemacs21-packages
+	- dietlibc
+	- tendra
+	- wm-icons
+	- emacs22
+	- redland
+	- cedet
+	- gnulib
+	- kdelibs
+	- linux-2.6
+	- unicon
+	- kbuild
+	- pocketpc-binutils
+	- pocketpc-gas
+	- pocketpc-gcc
+
+emacs22
+	- icewm-themes
+	- swi-prolog
+
+tix
+	- ruby1.9
+	- tdom
+	- python2.5
+	- python2.4
+
+libmpcdec
+	- mednafen
+	- xine-lib
+
+zziplib
+	- autoconf-archive
+	- luatex
+
+shapelib
+	- gpsbabel
+	- xastir
+	- thuban
+	- gdal
+
+iceweasel
+	- webcit
+	- openjdk-6
+	- fbreader
+	- texlive-bin
+	- wxwidgets2.8
+	- digikam
+	- paraview
+	- netbeans-ide
+	- cvsnt
+	- egroupware
+	- kdebase
+	- imp4
+	- mozilla-traybiff
+	- phpgroupware
+	- apache2
+	- ruby1.9
+	- azureus
+	- xpilot-ng
+	- xulrunner
+	- vnc4
+	- mauve
+	- mpich
+	- erlang
+	- w3-recs
+	- nunit
+	- qt4-x11
+	- gforge
+	- screem
+	- mysql-dfsg-5.0
+	- qt-x11-free
+	- vtk
+	- virtualbox-ose
+	- powder
+	- bind9
+	- kazehakase
+	- iceape
+	- ayttm
+	- root-system
+	- mono
+	- qca2
+	- typo3-src
+	- gnat-gps
+	- audacity
+	- squeak-vm
+	- selfhtml
+	- xemacs21-packages
+	- scilab
+	- perl-tk
+	- plone3
+	- pocketpc-gcc
+
+noweb
+	- hol88
+	- pretzel
+
+goffice0.4
+	- gnumeric
+	- abiword
+	- goffice
+
+paperkey
+	- msmtp
+	- parted
+	- icoutils
+	- tar
+	- augeas
+	- mailutils
+	- anubis
+	- ale
+	- mlocate
+	- texlive-bin
+	- jwhois
+	- findutils
+	- texinfo
+	- libgnupdf
+	- fastjar
+	- gnu-fdisk
+	- libpreludedb
+	- mpop
+	- gnupg2
+	- gettext
+	- gnutls26
+	- hello-debhelper
+	- clisp
+	- man-db
+	- gmediaserver
+	- pspp
+	- inetutils
+	- lftp
+	- prelude-manager
+	- prelude-lml
+	- libidn
+	- cpio
+	- renameutils
+	- libvirt
+	- libprelude
+	- xindy
+	- gsasl
+	- wvstreams
+	- gnulib
+	- gss
+	- diffutils
+	- shishi
+	- nagios-plugins
+	- prelude-correlator
+	- bison
+	- cflow
+	- id-utils
+	- gzip
+	- libtasn1-3
+	- gtk-vnc
+	- amanda
+	- hello
+	- gnuit
+
+hypermail
+	- mednafen
+	- lftp
+	- r-base-core-ra
+	- libxml2
+	- fetchmail
+	- r-base
+	- paraview
+	- avida
+	- bogofilter
+
+gzip
+	- gv
+	- parted
+	- tar
+	- mailutils
+	- anubis
+	- ale
+	- texlive-bin
+	- findutils
+	- texinfo
+	- klibc
+	- libpreludedb
+	- gettext
+	- gnutls26
+	- gmediaserver
+	- pspp
+	- inetutils
+	- lftp
+	- libidn
+	- pose
+	- cpio
+	- renameutils
+	- shishi
+	- emacs22
+	- gsasl
+	- wvstreams
+	- gnulib
+	- gss
+	- nagios-plugins
+	- libntlm
+	- bison
+	- cflow
+	- libtasn1-3
+	- amanda
+	- mpop
+
+gsl
+	- r-base
+	- bogofilter
+	- praat
+
+speex
+	- celt
+	- opal
+	- gst-plugins-bad0.10
+	- pulseaudio
+	- pwlib-titan
+	- alsa-plugins
+	- openh323-titan
+	- openh323
+	- mumble
+
+ldb
+	- samba
+	- heimdal
+
+antlr
+	- kdevelop
+	- kdesdk
+	- gnudatalanguage
+	- ant
+	- glassfish
+	- netbeans-ide
+	- fwbuilder
+
+glitz
+	- xulrunner
+	- iceweasel
+
+glut
+	- boinc-app-seti
+	- mesa
+	- xscreensaver
+
+xplc
+	- busybox
+	- wvstreams
+	- gmediaserver
+	- e2fsprogs
+
+db1-compat
+	- krb5
+	- vigor
+	- global
+	- iceape
+	- asterisk
+	- db4.2
+	- db4.5
+	- mysql-dfsg-5.0
+	- db4.6
+	- pocketpc-gcc
+	- htdig
+	- gnat-gps
+	- rpm
+	- osiris
+
+gdb
+	- parted
+	- dejagnu
+	- xscreensaver
+	- man-db
+	- insight
+	- heimdal
+	- findutils
+	- gcc-h8300-hms
+	- rpm
+	- jamvm
+	- gimp
+	- skyeye
+	- xemacs21
+	- sdcc-nf
+	- classpath
+	- gcl
+	- dietlibc
+	- wml
+	- guile-1.6
+	- pocketpc-binutils
+	- plt-scheme
+	- cpio
+	- zapping
+	- mysql-dfsg-5.0
+	- emacs21
+	- emacs22
+	- automake1.7
+	- gccxml
+	- alpine
+	- mono-debugger
+	- pocketpc-gas
+	- linux-2.6
+	- gnat-gps
+	- petsc
+	- ghdl
+	- bison
+	- binutils
+	- binutils-h8300-hms
+	- gnu-smalltalk
+	- scilab
+	- wine
+	- a2ps
+	- pocketpc-gcc
+
+webcalendar
+	- ampache
+	- moodle
+	- gforge
+	- horde3
+
+libsamplerate
+	- gmfsk
+	- k3b
+	- lmms
+	- gavl
+	- mixxx
+	- fldigi
+
+linux86
+	- fhist
+	- dietlibc
+	- tendra
+	- linux-2.6
+	- sdcc-nf
+	- unzip
+	- aegis
+	- emacs21
+	- emacs22
+	- cook
+	- grass
+	- bacula
+	- tcc
+	- klibc
+	- pocketpc-gcc
+
+gdl
+	- screem
+	- monodevelop
+	- inkscape
+
+cppunit
+	- paintlib
+	- nel
+	- iceape
+	- vtk
+	- xpilot-ng
+	- xulrunner
+	- paraview
+	- mpich
+	- cvsnt
+	- iceweasel
+
+ruby1.8
+	- amrita
+	- adanaxisgpl
+	- libjson-ruby
+	- vnc4
+	- ruby1.9
+	- soap4r
+	- linux-2.6
+	- insight
+	- jruby1.0
+	- aswiki
+	- activeldap
+	- puppet
+	- php5
+	- libgems-ruby
+	- kbuild
+	- netbeans-ide
+
+samba
+	- orbit
+	- mc
+
+libpcap
+	- nessus-libraries
+	- nmap
+	- tcpdump
+	- argus-client
+	- argus
+	- sniffit
+	- snort
+	- prismstumbler
+	- sing
+	- bind9
+	- nslint
+	- wireshark
+
+lapack
+	- octave2.1
+	- hypre
+	- insighttoolkit
+	- scalapack
+	- octave3.0
+	- python-scipy
+	- octave2.1-forge
+	- cl-f2cl
+	- scilab
+	- arpack
+
+ffmpeg-debian
+	- xine-lib
+	- vice
+	- kino
+	- avifile
+	- audacious-plugins
+	- mplayer
+	- gstreamer0.10-ffmpeg
+	- cmus
+
+kronolith2
+	- symfony
+	- knowledgeroot
+	- gforge
+	- imp4
+	- webcit
+	- typo3-src
+	- pixelpost
+	- wordpress
+	- mantis
+	- xmoto
+	- phpgroupware
+	- xulrunner
+	- mahara
+	- glpi
+	- iceweasel
+
+apache2
+	- tomcat6
+	- libapache-mod-jk
+	- tomcat5.5
+
+suitesparse-metis
+	- cvxopt
+	- pysparse
+	- rmatrix
+	- suitesparse
+
+guile-1.8
+	- guile-1.6
+	- slib
+	- wine
+
+gmp
+	- icmake
+	- core++
+	- mailutils
+	- ecl
+	- libhdf4
+	- gcl
+	- gmp-ecm
+	- mpfr
+
+mmm-mode
+	- xemacs21-packages
+	- proofgeneral
+
+python-qt4
+	- python-qt3
+	- qt4-x11
+	- kdebindings
+	- qt-x11-free
+
+xterm
+	- plotutils
+	- kterm
+	- vnc4
+	- vile
+
+zephyr
+	- pidgin
+	- wengophone
+
+apr-util
+	- tomcat-native
+	- apr
+	- tomcat5.5
+	- tomcat6
+	- apache2
+	- cvsnt
+
+libdrm
+	- linux-2.6
+	- vnc4
+
+libphysfs
+	- libparagui1.0
+	- libparagui1.1
+
+tcl8.3
+	- libtk-img
+	- insight
+	- nxtvepg
+	- wxwidgets2.8
+	- itcl3.1
+	- tk8.4
+	- tk8.5
+	- tk8.3
+	- tcltls
+	- amsn
+	- vnc4
+	- xotcl
+	- ruby1.8
+	- ruby1.9
+	- wxwidgets2.6
+	- tile
+	- saods9
+	- fv
+	- tcllib
+	- tcltrf
+	- swi-prolog
+	- tcl8.5
+	- tcl8.4
+	- itcl3
+	- perl-tk
+	- grass
+	- tdom
+
+pcre3
+	- nmap
+	- tomcat5.5
+	- r-base-core-ra
+	- tf5
+	- chicken
+	- libapache-mod-jk
+	- ncbi-tools6
+	- cherokee
+	- apache2
+	- poco
+	- tin
+	- php5
+	- erlang
+	- medit
+	- gtamsanalyzer.app
+	- qt4-x11
+	- monotone
+	- glib2.0
+	- r-base
+	- cvsnt
+	- hypermail
+	- privoxy
+
+tcl8.5
+	- amsn
+	- libtk-img
+	- insight
+	- tkabber-plugins
+	- tklib
+	- tcllib
+
+qwik
+	- erlang
+	- xulrunner
+	- iceweasel
+	- apache2
+
+gtktrain
+	- baycomepp
+	- wmakerconf
+	- afbackup
+	- gatos
+	- oregano
+	- lletters
+	- gwhere
+	- vdkbuilder2
+	- ebview
+	- xt
+	- openjade
+	- gcal
+	- papaya
+	- plt-scheme
+	- spellutils
+	- lrzsz
+	- weex
+	- soundmodem
+	- baycomusb
+	- synaptic
+	- librep
+	- gtkdiskfree
+	- gaby
+	- pocketpc-gas
+	- gsmlib
+	- orbit
+	- xkbsel
+	- pocketpc-binutils
+	- binutils-h8300-hms
+	- lpe
+	- gnometab
+
+scribus
+	- knoda
+	- fontmatrix
+	- ktimetrace
+	- koffice
+	- gdk-pixbuf
+	- kdegraphics
+	- gtk+2.0
+	- scribus-ng
+	- openoffice.org-dictionaries
+
+phpwiki
+	- php-fpdf
+	- egroupware
+	- gforge
+	- phpmyadmin
+	- php-cache
+	- moodle
+
+vrweb
+	- wxwidgets2.6
+	- vnc4
+	- vtk
+	- wxwidgets2.8
+	- paraview
+	- mesa
+	- fltk1.1
+
+cflow
+	- gv
+	- parted
+	- tar
+	- mailutils
+	- anubis
+	- insight
+	- mlocate
+	- lsh-utils
+	- gdb
+	- sed
+	- findutils
+	- gengetopt
+	- texinfo
+	- mpop
+	- gettext
+	- m4
+	- gnutls26
+	- man-db
+	- gmediaserver
+	- pspp
+	- inetutils
+	- cpio
+	- renameutils
+	- shishi
+	- xindy
+	- wvstreams
+	- gnulib
+	- nagios-plugins
+	- kbuild
+	- bison
+	- pocketpc-binutils
+	- id-utils
+	- gnu-smalltalk
+	- a2ps
+	- pocketpc-gcc
+
+libactiverecord-ruby
+	- libwill-paginate-ruby
+	- rails
+
+gtksourceview
+	- vdk2
+	- gretl
+	- pidgin
+
+ijs
+	- hplip
+	- ghostscript
+
+swfdec-mozilla
+	- gnash
+	- iceape
+	- kdebase
+	- djview4
+	- kmplayer
+	- xulrunner
+	- xine-plugin
+	- djvulibre
+	- iceweasel
+
+mailutils
+	- parted
+	- insight
+	- gcl
+	- gdb
+	- pocketpc-binutils
+	- emacs22
+	- pspp
+	- gnulib
+
+autoconf-nonfree
+	- parted
+	- pocketpc-gas
+	- insight
+	- bison
+	- a2ps
+	- binutils
+	- pocketpc-binutils
+
+libcdio
+	- xine-lib
+	- vcdimager
+
+libarray-refelem-perl
+	- grandr
+	- websec
+	- libgit-ruby
+	- blktrace
+	- arora
+	- lockfile-progs
+	- cairo-clock
+
+libsigsegv
+	- gnu-smalltalk
+	- ffcall
+	- xindy
+
+ucspi-tcp-src
+	- ipsvd
+	- djbdns
+	- libowfat
+	- runit
+	- libdjbdns
+	- skalibs
+	- integrit
+	- qmail-qfilter
+	- ucspi-tcp
+	- safecat
+	- qmail
+	- swi-prolog
+	- checkpw
+	- memtester
+	- freecdb
+	- daemontools
+	- bglibs
+
+plplot
+	- emboss
+	- plt-scheme
+
+slang-slirp
+	- slgtk
+	- tess
+
+rpm
+	- nmap
+	- manpages-ja
+	- snort
+	- gnat-gps
+
+libgsm
+	- xine-lib
+	- libsndfile
+	- wsola
+	- opal
+	- asterisk
+	- rplay
+	- swh-plugins
+	- mgetty
+	- wengophone
+	- openh323-titan
+	- openh323
+
+freej
+	- xulrunner
+	- iceape
+	- openjdk-6
+	- iceweasel
+
+gnutls26
+	- xmlsec1
+	- parted
+	- db4.2
+	- db4.5
+	- db4.6
+	- lsh-utils
+	- ysmv7
+	- rpm
+	- gnulib
+
+hello-debhelper
+	- parted
+	- tar
+	- mailutils
+	- anubis
+	- sed
+	- findutils
+	- m4
+	- gettext
+	- ssed
+	- man-db
+	- pspp
+	- inetutils
+	- shishi
+	- gsasl
+	- gnulib
+	- kbuild
+	- bison
+	- cflow
+	- id-utils
+	- hello
+	- a2ps
+
+pwlib-titan
+	- vigor
+	- pwlib
+	- iceape
+	- opal
+	- xulrunner
+	- mysql-dfsg-5.0
+	- z88dk
+	- gimp
+	- vnc4
+	- openmcu
+	- mpich
+	- php5
+	- knews
+	- cvsnt
+	- nvi
+	- iceweasel
+
+itrans
+	- wxwidgets2.8
+	- texlive-bin
+
+stl-manual
+	- boost1.35
+	- stlport4.6
+	- boost
+	- stlport5.1
+	- tendra
+
+cpphs
+	- hmake
+	- hugs98
+
+yaws
+	- netbeans-ide
+	- phpwiki
+	- gforge
+
+barcode
+	- facturalux
+	- glabels
+
+munge
+	- pdsh
+	- slurm-llnl
+
+xnc
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- paraview
+	- squeak-vm
+	- wxwidgets2.6
+	- vnc4
+	- vtk
+	- libhdf4
+	- freej
+	- xulrunner
+	- vrweb
+	- qt4-x11
+	- plt-scheme
+	- insighttoolkit
+	- povray
+	- qt-x11-free
+	- iceweasel
+	- ghostscript
+	- iceape
+	- xloadimage
+	- perl-tk
+
+paste
+	- webhelpers
+	- pastedeploy
+	- sphinx
+	- pastescript
+
+raptor
+	- redland
+	- flickcurl
+
+libtommath
+	- dropbear
+	- tcl8.5
+
+itcl3
+	- libtk-img
+	- insight
+	- itcl3.1
+	- tk8.4
+	- tk8.5
+	- tk8.3
+	- tcltls
+	- tix
+	- tile
+	- fv
+	- mysqltcl
+	- tclvfs
+	- tclxml
+	- tcllib
+	- tcltrf
+	- tcl8.3
+	- tclx8.3
+	- tclcurl
+	- tcl8.5
+	- tcl8.4
+	- memchan
+	- perl-tk
+	- tclthread
+	- tklib
+	- iwidgets4
+	- tdom
+
+libnet0
+	- sing
+	- netw-ib-ox-ag
+
+dcfldd
+	- pspp
+	- lftp
+	- tar
+	- parted
+	- cpio
+	- lrzsz
+	- a2ps
+	- gnulib
+	- gmediaserver
+	- gnuit
+	- findutils
+
+libexif
+	- gimageview
+	- pornview
+
+libclass-dbi-sweet-perl
+	- libclass-dbi-perl
+	- libdbix-class-perl
+
+xcin
+	- unicon
+	- chinput
+
+kbuild
+	- parted
+	- libsepol
+	- remake
+	- mailutils
+	- linux-2.6
+	- insight
+	- gcl
+	- gawk
+	- gcc-h8300-hms
+	- gdb
+	- pocketpc-binutils
+	- emacs22
+	- pocketpc-gas
+	- pocketpc-gcc
+	- texlive-bin
+	- gnulib
+
+pccts
+	- cccc
+	- cdrdao
+	- libbtparse
+	- gtkwave
+	- tellico
+
+adns
+	- lyskom-server
+	- ircd-ratbox
+
+libgda3
+	- libgda2
+	- libgnomedb3
+
+irssi
+	- irssi-plugin-otr
+	- pork
+	- silc-client
+
+smarty
+	- moodle
+	- gosa
+	- movabletype-opensource
+	- serendipity
+	- mahara
+	- phpgacl
+
+libwmf
+	- r-base-core-ra
+	- php5
+	- hypermail
+	- r-base
+
+libvncserver
+	- xwnc
+	- vino
+	- directvnc
+	- vncsnapshot
+	- italc
+	- tightvnc
+	- kdenetwork
+
+libmng
+	- freeimage
+	- qt4-x11
+	- qt-x11-free
+
+nss
+	- tightvnc
+	- iceape
+	- nspr
+	- asterisk
+	- gnat-gps
+	- xmlsec1
+	- freej
+	- pocketpc-gcc
+	- xulrunner
+	- vnc4
+	- belpic
+	- root-system
+	- iceweasel
+
+batmon.app
+	- viewpdf.app
+	- price.app
+	- projectcenter.app
+	- gnustep-dl2
+	- talksoup.app
+	- rssreader.app
+	- steptalk
+	- cynthiune.app
+	- gnustep-examples
+	- gnustep-gui
+	- textedit.app
+	- mpdcon.app
+	- gorm.app
+	- gworkspace
+	- agenda.app
+	- paje.app
+	- remotedesk
+	- adun.app
+	- gtamsanalyzer.app
+	- projectmanager.app
+
+extremetuxracer
+	- ppracer
+	- xine-ui
+	- btanks
+	- scummvm
+
+imp4
+	- symfony
+	- mantis
+	- xulrunner
+	- phpgroupware
+	- kronolith2
+	- glpi
+	- iceweasel
+
+db4.2
+	- krb5
+	- evolution-data-server
+	- asterisk
+	- db4.5
+	- mysql-dfsg-5.0
+	- gnat-gps
+	- libberkeleydb-perl
+	- htdig
+	- db4.6
+	- rpm
+	- osiris
+
+db4.5
+	- krb5
+	- erlang-doc-html
+	- gnulib
+	- evolution-data-server
+	- parted
+	- db4.2
+	- mysql-dfsg-5.0
+	- apache2
+	- db1-compat
+	- perl
+	- pocketpc-gcc
+	- libdb-je-java
+	- php5
+	- htdig
+	- db4.6
+	- rpm
+	- aspectj
+	- axis
+
+db4.6
+	- babel
+	- db4.5
+	- perl-doc-html
+	- php5
+	- netbeans-ide
+	- libdb-ruby
+	- axis
+
+libparagui1.0
+	- texlive-bin
+	- wxwidgets2.8
+	- paraview
+	- cvsnt
+	- wxwidgets2.6
+	- vnc4
+	- vtk
+	- libhdf4
+	- apache2
+	- poco
+	- xulrunner
+	- analog
+	- vrweb
+	- qt4-x11
+	- plt-scheme
+	- insighttoolkit
+	- libparagui1.1
+	- python2.5
+	- asc
+	- iceweasel
+	- ghostscript
+	- iceape
+	- xnc
+	- avfs
+	- xmame
+
+ftgl
+	- extremetuxracer
+	- glut
+	- ppracer
+	- root-system
+	- paraview
+	- octplot
+	- mysql-gui-tools
+	- rgl
+	- vtk
+
+gnome-keyring-sharp
+	- tomboy
+	- f-spot
+
+dvipsk-ja
+	- texlive-base
+	- texlive-bin
+	- catdvi
+
+docbookwiki
+	- sip-tester
+	- xulrunner
+	- iceweasel
+
+mew-beta
+	- mew
+	- im
+	- xemacs21-packages
+
+libgems-ruby
+	- jruby1.0
+	- ruby1.9
+	- shoes
+	- amarok
+
+gnulib
+	- parted
+	- tar
+	- mailutils
+	- insight
+	- heimdal
+	- gdb
+	- findutils
+	- rpm
+	- cvsnt
+	- samba
+	- gcl
+	- gnutls26
+	- gmp
+	- pspp
+	- mednafen
+	- mysql-dfsg-5.0
+	- fhist
+	- mc
+	- linux-2.6
+	- ocaml
+	- nagios-plugins
+	- pocketpc-binutils
+	- aria2
+	- gnuit
+	- pocketpc-gcc
+
+lua5.1
+	- nmap
+	- zangband
+	- scratchbox2
+	- lua50
+	- olsrd
+	- rpm
+	- celestia
+	- freeciv
+	- gltron
+	- apt-rpm
+	- gtk2-engines
+	- medit
+	- scite
+	- infon
+	- monotone
+	- lua-gtk
+	- lua40
+	- crawl
+	- teeworlds
+	- luatex
+	- tome
+
+cacti
+	- serverstats
+	- moodle
+
+attr
+	- manpages-ja
+	- manpages
+
+man-pages-it
+	- manpages-de
+	- manpages-ja
+	- manpages-pt
+	- manpages-zh
+	- manpages-es
+	- manpages
+	- manpages-ru
+	- manpages-pl
+	- manpages-hu
+	- manpages-fr
+
+flim
+	- gnus
+	- xemacs21-packages
+
+hunspell
+	- texmaker
+	- enchant
+
+cl-interpol
+	- cl-portable-aserve
+	- cl-ppcre
+	- cl-html-template
+
+id-utils
+	- lftp
+	- tar
+	- parted
+	- mailutils
+	- sharutils
+	- cpio
+	- gettext
+	- bison
+	- gawk
+	- pspp
+	- findutils
+	- gnulib
+
+grass
+	- libgeotiff-epsg
+	- xastir
+	- gdal
+
+gnuit
+	- pspp
+	- lftp
+	- parted
+	- mailutils
+	- sharutils
+	- cpio
+	- gettext
+	- mysql-dfsg-5.0
+	- gdb
+	- bison
+	- findutils
+	- recode
+	- id-utils
+	- texlive-bin
+	- patch
+	- tar
+	- a2ps
+	- gnulib
+
+manpages-de
+	- z88dk
+	- manpages-es
+	- manpages
+	- manpages-pl
+
+kde4libs
+	- kdelibs
+	- wordtrans
+
+tomcat5.5
+	- netbeans-ide
+	- qt4-x11
+
+tomcat6
+	- groovy
+	- libservlet2.4-java
+	- fop
+	- tomcat5.5
+	- glassfish
+	- jakarta-log4j
+	- netbeans-ide
+	- libcommons-digester-java
+
+liborigin
+	- qtiplot
+	- labplot
+
+file
+	- tct
+	- rpm
+	- tcsh
+
+curl
+	- alien-arena
+	- cmake
+	- texlive-bin
+	- openarena
+	- wengophone
+	- criticalmass
+
+cvsnt
+	- paintlib
+	- bind9
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- paraview
+	- cppunit
+	- nel
+	- vnc4
+	- vtk
+	- apache2
+	- poco
+	- xulrunner
+	- wxwidgets2.6
+	- povray
+	- mpich
+	- belpic
+	- erlang
+	- qt4-x11
+	- insighttoolkit
+	- iceweasel
+	- ghostscript
+	- iceape
+	- tla
+
+batik
+	- netbeans-ide
+	- libjaxp1.2-java
+
+bzip2
+	- iceape
+	- r-base-core-ra
+	- texlive-bin
+	- libcompress-raw-bzip2-perl
+	- r-base
+	- gtkwave
+	- xmoto
+	- libcompress-bzip2-perl
+	- xulrunner
+	- avfs
+	- analog
+	- iceweasel
+
+cmake
+	- kde4libs
+	- texlive-bin
+	- wxwidgets2.8
+	- kbfx
+	- paraview
+	- cvsnt
+	- wxwidgets2.6
+	- plplot
+	- vnc4
+	- vtk
+	- apache2
+	- xulrunner
+	- openscenegraph
+	- insighttoolkit
+	- libsyncml
+	- hugin
+	- openarena
+	- wengophone
+	- gpsdrive
+	- iceweasel
+	- ghostscript
+	- iceape
+	- nateon
+	- scilab
+
+textedit.app
+	- price.app
+	- projectcenter.app
+	- timemon.app
+	- steptalk
+	- cynthiune.app
+	- gnustep-examples
+	- gnustep-gui
+	- cenon.app
+	- viewpdf.app
+	- gorm.app
+	- gworkspace
+	- agenda.app
+	- paje.app
+	- rssreader.app
+	- talksoup.app
+	- adun.app
+	- mpdcon.app
+	- projectmanager.app
+
+altermime
+	- p3scan
+	- scilab
+	- ripole
+
+dasher
+	- iceweasel
+	- xulrunner
+	- docbookwiki
+
+kdeartwork
+	- prokyon3
+	- phpgroupware
+
+readline5
+	- cle
+	- insight
+	- mysql-dfsg-5.0
+	- gdb
+	- gdb-doc
+	- gnuit
+
+kvm
+	- insight
+	- pocketpc-gas
+	- linux-2.6
+	- rdesktop
+	- gdb
+	- virtualbox-ose
+	- pocketpc-binutils
+	- binutils-h8300-hms
+	- xen-3
+	- qemu
+	- binutils
+	- wine
+
+asterisk
+	- iceape
+	- osiris
+	- mysql-dfsg-5.0
+	- pocketpc-gcc
+	- xulrunner
+	- gnat-gps
+	- iceweasel
+
+xtrans
+	- tightvnc
+	- chinput
+	- vnc4
+	- xwnc
+
+bwidget
+	- amsn
+	- scilab
+	- grass
+	- fsl
+
+libupnp4
+	- pxp
+	- mediatomb
+	- libupnp
+	- hugs98
+
+glpi
+	- symfony
+	- knowledgeroot
+	- egroupware
+	- gforge
+	- ntop
+	- yaws
+	- phpwiki
+	- kronolith2
+	- typo3-src
+	- moodle
+	- xulrunner
+	- mantis
+	- phpgroupware
+	- mahara
+	- plone3
+	- iceweasel
+
+glpk
+	- praat
+	- liblip
+
+eog
+	- f-spot
+	- mrwtoppm
+	- gthumb
+
+lib3ds
+	- openscenegraph
+	- boson
+
+agg
+	- matplotlib
+	- mapnik
+
+diffutils
+	- parted
+	- tar
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- findutils
+	- cvsnt
+	- libgnupdf
+	- syslinux
+	- vnc4
+	- vtk
+	- libhdf4
+	- gettext
+	- man-db
+	- vrweb
+	- gnutls26
+	- xulrunner
+	- wxwidgets2.6
+	- mailutils
+	- gnulib
+	- gmediaserver
+	- sharutils
+	- manpages-fr-extra
+	- lftp
+	- qt4-x11
+	- plt-scheme
+	- insighttoolkit
+	- libidn
+	- povray
+	- icoutils
+	- qt-x11-free
+	- cpio
+	- shishi
+	- ghostscript
+	- renameutils
+	- gsasl
+	- heroes
+	- iceweasel
+	- gss
+	- doxygen
+	- iceape
+	- gcvs
+	- patch
+	- nagios-plugins
+	- libntlm
+	- bison
+	- a2ps
+	- cflow
+	- id-utils
+	- pspp
+	- perl-tk
+	- gnuit
+	- paraview
+
+libsieve
+	- cyrus-imapd-2.2
+	- kolab-cyrus-imapd
+
+libgnomecanvas
+	- gcompris
+	- gnome-libs
+
+phonon
+	- kdebase-runtime
+	- qt4-x11
+	- kde4libs
+
+pocketpc-binutils
+	- parted
+	- sdcc-nf
+	- mysql-dfsg-5.0
+	- dmake
+	- pocketpc-gas
+	- awffull
+	- insight
+	- pocketpc-gcc
+	- gcl
+	- klibc
+	- gcc-h8300-hms
+	- xemacs21
+	- orbit
+	- gdb
+	- kbuild
+	- emacs21
+	- rpm
+	- linux-2.6
+	- a2ps
+	- gnulib
+
+icewm
+	- icewm-themes
+	- kdeartwork
+
+gnu-smalltalk
+	- plt-scheme
+	- autogen
+	- pocketpc-gas
+	- insight
+	- gcc-h8300-hms
+	- gdb
+	- pocketpc-binutils
+	- binutils-h8300-hms
+	- libffi
+	- lightning
+	- binutils
+	- pocketpc-gcc
