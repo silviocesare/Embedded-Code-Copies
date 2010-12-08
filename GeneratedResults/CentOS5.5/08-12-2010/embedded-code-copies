@@ -1,0 +1,1406 @@
+---BEGIN
+openssl097a
+	- openssl <unknown> (embed)
+
+speex
+	- opal <unknown> (embed)
+
+dejagnu
+	- gdb <unknown> (embed)
+
+nss_db
+	- compat-glibc <unknown> (embed)
+	- glibc <unknown> (embed)
+	- openldap <unknown> (embed)
+	- rpm <unknown> (embed)
+	- pam <unknown> (embed)
+
+antlr
+	- kdevelop <unknown> (embed)
+	- kdesdk <unknown> (embed)
+
+neon
+	- gnome-vfs2 <unknown> (embed)
+	- cadaver 0.22.3-4.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+celt051
+	- speex <unknown> (embed)
+
+iproute
+	- busybox <unknown> (embed)
+	- kernel <unknown> (embed)
+
+gdb
+	- gcc <unknown> (embed)
+	- crash <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- valgrind <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- indent <unknown> (embed)
+	- binutils <unknown> (embed)
+
+gd
+	- php <unknown> (embed)
+	- tetex 3.0-33.8.el5_5.6 (embed)
+	NOTE: Might be fixed earlier.
+	- libwmf 0.2.8.4-10.2 (embed)
+	NOTE: Might be fixed earlier.
+
+findutils
+	- compat-glibc <unknown> (embed)
+	- tar <unknown> (embed)
+	- tetex <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gettext <unknown> (embed)
+	- coreutils 5.97-23.el5_4.2 (embed)
+	NOTE: Might be fixed earlier.
+	- gdb <unknown> (embed)
+	- a2ps <unknown> (embed)
+	- bash <unknown> (embed)
+
+mysql
+	- krb5 <unknown> (embed)
+	- kernel <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- qt <unknown> (embed)
+	- pwlib <unknown> (embed)
+	- glibc <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- qt4 <unknown> (embed)
+	- tetex <unknown> (embed)
+	- php <unknown> (embed)
+
+kdesdk
+	- kde-i18n <unknown> (embed)
+
+gdm
+	- kdebase <unknown> (embed)
+
+m17n-db
+	- perl <unknown> (embed)
+
+libmlx4
+	- libmthca <unknown> (embed)
+
+compat-readline43
+	- gdb <unknown> (embed)
+	- readline <unknown> (embed)
+	- bash <unknown> (embed)
+	- mysql <unknown> (embed)
+
+imake
+	- openmotif <unknown> (embed)
+	- openmotif22 <unknown> (embed)
+
+automake17
+	- automake16 <unknown> (embed)
+	- automake15 <unknown> (embed)
+	- automake <unknown> (embed)
+
+tetex
+	- kernel <unknown> (embed)
+	- firefox <unknown> (embed)
+	- opensp <unknown> (embed)
+	- gdb <unknown> (embed)
+	- mysql <unknown> (embed)
+	- gcc <unknown> (embed)
+	- glibc <unknown> (embed)
+	- xulrunner <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- qt4 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- cadaver <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- cvs <unknown> (embed)
+	- elinks <unknown> (embed)
+	- make <unknown> (embed)
+	- binutils <unknown> (embed)
+	- openswan <unknown> (embed)
+
+gjdoc
+	- libidn <unknown> (embed)
+	- gcc44 <unknown> (embed)
+
+kdnssd-avahi
+	- netlabel_tools <unknown> (embed)
+
+gdk-pixbuf
+	- gtk2 <unknown> (embed)
+
+openmotif22
+	- openmotif <unknown> (embed)
+
+libgnome
+	- libgnomeui 2.16.0-5.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+tk
+	- tcl <unknown> (embed)
+	- ruby <unknown> (embed)
+
+jakarta-commons-digester
+	- tomcat5 <unknown> (embed)
+	- jakarta-commons-logging <unknown> (embed)
+
+iptables
+	- kernel <unknown> (embed)
+
+freetype
+	- xulrunner 1.9.2.11-4.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- qt4 4.2.1-1 (embed)
+	NOTE: Might be fixed earlier.
+	- firefox <unknown> (embed)
+
+dogtail
+	- glade2 <unknown> (embed)
+
+kdebase
+	- kdepim 3.5.4-6.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- kdenetwork 3.5.4-9.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- kde-i18n <unknown> (embed)
+
+latex2html
+	- mvapich <unknown> (embed)
+
+python
+	- pyOpenSSL 0.6-1.p24.7.2.2 (embed)
+	NOTE: Might be fixed earlier.
+	- python-docs 2.4.3-1.1 (embed)
+	NOTE: Might be fixed earlier.
+
+jakarta-commons-el
+	- jakarta-taglibs-standard <unknown> (embed)
+
+libidn
+	- compat-glibc <unknown> (embed)
+	- glibc <unknown> (embed)
+
+mpitests
+	- mvapich <unknown> (embed)
+
+blktrace
+	- kernel <unknown> (embed)
+	- iscsi-initiator-utils <unknown> (embed)
+	- pciutils <unknown> (embed)
+
+gnome-icon-theme
+	- libgnomeui <unknown> (embed)
+	- gnome-themes <unknown> (embed)
+
+gtk2
+	- gdk-pixbuf <unknown> (embed)
+	- gftp 2.0.18-3.2.2 (embed)
+	NOTE: Might be fixed earlier.
+	- pygtk2 2.10.1-12.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- gtk+ <unknown> (embed)
+
+cadaver
+	- compat-glibc <unknown> (embed)
+	- gnupg <unknown> (embed)
+	- glibc <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- lftp <unknown> (embed)
+	- gettext <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- tetex <unknown> (embed)
+	- elinks <unknown> (embed)
+	- texinfo <unknown> (embed)
+	- bash <unknown> (embed)
+
+apr-util
+	- httpd 2.2.3-43.el5.centos.3 (embed)
+	NOTE: Might be fixed earlier.
+
+postgresql-odbc
+	- unixODBC <unknown> (embed)
+
+libdrm
+	- kernel <unknown> (embed)
+
+bcel
+	- java-1.6.0-openjdk <unknown> (embed)
+	- docbook-style-xsl <unknown> (embed)
+
+grep
+	- compat-glibc <unknown> (embed)
+	- tar <unknown> (embed)
+	- gettext <unknown> (embed)
+	- glibc <unknown> (embed)
+	- lftp <unknown> (embed)
+	- gawk <unknown> (embed)
+	- coreutils 5.97-23.el5_4.2 (embed)
+	NOTE: Might be fixed earlier.
+	- a2ps <unknown> (embed)
+	- sharutils <unknown> (embed)
+	- bash <unknown> (embed)
+	- findutils <unknown> (embed)
+
+util-linux
+	- man-pages-ja <unknown> (embed)
+
+db4
+	- compat-db <unknown> (embed)
+	- krb5 <unknown> (embed)
+	- firefox <unknown> (embed)
+	- evolution-data-server 1.12.3-18.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- jakarta-commons-httpclient <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- nss_db <unknown> (embed)
+	- cyrus-sasl <unknown> (embed)
+	- pam <unknown> (embed)
+	- perl 5.8.8-32.el5_5.2 (embed)
+	NOTE: Might be fixed earlier.
+	- openldap <unknown> (embed)
+	- xulrunner <unknown> (embed)
+	- mysql <unknown> (embed)
+	- htdig <unknown> (embed)
+	- nss <unknown> (embed)
+	- rpm <unknown> (embed)
+
+qt
+	- gcc <unknown> (embed)
+	- firefox <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- kdevelop 3.3.4-1.fc6 (embed)
+	NOTE: Might be fixed earlier.
+	- PyQt 3.16-4 (embed)
+	NOTE: Might be fixed earlier.
+	- gcc44 <unknown> (embed)
+	- xulrunner <unknown> (embed)
+	- kdebindings 3.5.4-6.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- kdewebdev 3.5.4-2.fc6 (embed)
+	NOTE: Might be fixed earlier.
+
+evolution
+	- evolution-connector 2.12.3-11.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+ghostscript
+	- hplip <unknown> (embed)
+	- man-pages-cs <unknown> (embed)
+	- poppler <unknown> (embed)
+
+freeradius2
+	- freeradius <unknown> (embed)
+	- wireshark <unknown> (embed)
+
+libdbi
+	- libdbi-drivers 0.8.1a-1.2.2 (embed)
+	NOTE: Might be fixed earlier.
+
+nspr
+	- thunderbird 2.0.0.24-12.el5.centos (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner 1.9.2.11-4.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- firefox 3.6.11-2.el5.centos (embed)
+	NOTE: Might be fixed earlier.
+
+libXfont
+	- tetex <unknown> (embed)
+
+kdewebdev
+	- kde-i18n <unknown> (embed)
+
+adaptx
+	- castor 0.9.5-1jpp.7 (embed)
+	NOTE: Might be fixed earlier.
+
+pam
+	- rpm <unknown> (embed)
+
+perl-Bit-Vector
+	- perl-Date-Calc 5.4-1.2.2.1 (embed)
+	NOTE: Might be fixed earlier.
+
+libjpeg
+	- qt4 4.2.1-1 (embed)
+	NOTE: Might be fixed earlier.
+	- firefox <unknown> (embed)
+	- qt 3.3.6-23.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- thunderbird 2.0.0.24-12.el5.centos (embed)
+	NOTE: Might be fixed earlier.
+	- java-1.6.0-openjdk 1.6.0.0-1.16.b17.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner 1.9.2.11-4.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+bison
+	- compat-glibc <unknown> (embed)
+	- lftp <unknown> (embed)
+	- tar <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gettext <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- gdb <unknown> (embed)
+	- tetex <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- texinfo <unknown> (embed)
+	- a2ps <unknown> (embed)
+
+libvorbis
+	- xulrunner <unknown> (embed)
+	- firefox <unknown> (embed)
+
+cscope
+	- httpd <unknown> (embed)
+
+system-config-httpd
+	- system-config-netboot <unknown> (embed)
+
+a2ps
+	- gcc <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- tar <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gettext <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- gdb <unknown> (embed)
+	- sed <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- bash <unknown> (embed)
+	- rpm <unknown> (embed)
+	- binutils <unknown> (embed)
+	- tetex <unknown> (embed)
+
+kernel
+	- qt4 <unknown> (embed)
+	- hfsutils <unknown> (embed)
+	- qt <unknown> (embed)
+	- cdrtools <unknown> (embed)
+	- fuse 2.7.4-8.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- mysql <unknown> (embed)
+	- lm_sensors <unknown> (embed)
+
+clustermon
+	- conga <unknown> (embed)
+
+desktop-backgrounds
+	- nautilus <unknown> (embed)
+	- kdebase <unknown> (embed)
+
+grub
+	- kernel <unknown> (embed)
+
+slang
+	- mc 4.6.1a-35.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- compat-slang <unknown> (embed)
+
+cairo
+	- thunderbird 2.0.0.24-12.el5.centos (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner 1.9.2.11-4.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- firefox 3.6.11-2.el5.centos (embed)
+	NOTE: Might be fixed earlier.
+	- qcairo <unknown> (embed)
+
+jakarta-commons-collections
+	- jakarta-commons-pool <unknown> (embed)
+	- jakarta-commons-dbcp 1.2.1-7jpp.1 (embed)
+	NOTE: Might be fixed earlier.
+
+qt4
+	- gcc <unknown> (embed)
+	- firefox <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- xulrunner <unknown> (embed)
+	- kdebindings <unknown> (embed)
+
+readline
+	- gdb 7.0.1-23.el5_5.2 (embed)
+	NOTE: Might be fixed earlier.
+	- compat-readline43 <unknown> (embed)
+	- texinfo <unknown> (embed)
+	- bash <unknown> (embed)
+	- mysql <unknown> (embed)
+
+docbook-slides
+	- docbook-style-xsl <unknown> (embed)
+
+libtermcap
+	- bash 3.2-24.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+anaconda
+	- kernel <unknown> (embed)
+	- mkinitrd <unknown> (embed)
+	- gzip <unknown> (embed)
+	- util-linux <unknown> (embed)
+	- bogl <unknown> (embed)
+
+libxslt
+	- subversion <unknown> (embed)
+
+texi2html
+	- tetex <unknown> (embed)
+
+ftp
+	- krb5 <unknown> (embed)
+
+gnome-desktop
+	- gtk2 <unknown> (embed)
+	- gnome-panel 2.16.1-7.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+elfutils
+	- systemtap <unknown> (embed)
+
+e4fsprogs
+	- krb5 <unknown> (embed)
+	- kernel <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- busybox <unknown> (embed)
+	- scrollkeeper <unknown> (embed)
+	- e2fsprogs <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- cyrus-imapd <unknown> (embed)
+
+rhgb
+	- setuptool <unknown> (embed)
+
+lcms
+	- java-1.6.0-openjdk <unknown> (embed)
+
+libpng
+	- qt4 4.2.1-1 (embed)
+	NOTE: Might be fixed earlier.
+	- syslinux <unknown> (embed)
+	- firefox <unknown> (embed)
+	- qt 3.3.6-23.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- thunderbird <unknown> (embed)
+	- doxygen <unknown> (embed)
+	- java-1.6.0-openjdk 1.6.0.0-1.16.b17.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- tetex 3.0-33.8.el5_5.6 (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner <unknown> (embed)
+
+python-elementtree
+	- PyXML <unknown> (embed)
+
+boost
+	- kdelibs <unknown> (embed)
+	- kdepim <unknown> (embed)
+
+openjade
+	- opensp <unknown> (embed)
+
+pcre
+	- nmap 4.11-1.1 (embed)
+	NOTE: Might be fixed earlier.
+	- httpd 2.2.3-43.el5.centos.3 (embed)
+	NOTE: Might be fixed earlier.
+	- tomcat5 <unknown> (embed)
+	- php 5.1.6-27.el5_5.3 (embed)
+	NOTE: Might be fixed earlier.
+	- exim 4.63-5.el5_5.1 (embed)
+	NOTE: Might be fixed earlier.
+
+kdepim
+	- kde-i18n <unknown> (embed)
+
+jakarta-commons-dbcp
+	- jakarta-commons-collections <unknown> (embed)
+	- jakarta-commons-beanutils <unknown> (embed)
+	- jakarta-commons-pool <unknown> (embed)
+
+compat-gcc-34
+	- kernel <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- elinks <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- xml-commons <unknown> (embed)
+	- gnupg <unknown> (embed)
+	- openswan <unknown> (embed)
+
+sharutils
+	- compat-glibc <unknown> (embed)
+	- tar <unknown> (embed)
+	- glibc <unknown> (embed)
+	- lftp <unknown> (embed)
+	- gettext <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- findutils <unknown> (embed)
+
+cyrus-sasl
+	- compat-db <unknown> (embed)
+	- openoffice.org <unknown> (embed)
+	- nss_db <unknown> (embed)
+	- jakarta-commons-httpclient <unknown> (embed)
+	- pam <unknown> (embed)
+	- openldap <unknown> (embed)
+	- rpm <unknown> (embed)
+	- db4 <unknown> (embed)
+
+gnome-panel
+	- gnome-user-docs <unknown> (embed)
+
+compat-gcc-32
+	- gcc <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- w3m <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- gcc44 <unknown> (embed)
+
+jakarta-oro
+	- openoffice.org <unknown> (embed)
+
+dmidecode
+	- python-dmidecode <unknown> (embed)
+
+samba
+	- kernel <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- mc <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- glibc <unknown> (embed)
+	- rsync <unknown> (embed)
+	- docbook-style-xsl <unknown> (embed)
+	- rpm <unknown> (embed)
+	- samba3x <unknown> (embed)
+
+avahi
+	- NetworkManager <unknown> (embed)
+
+bash
+	- compat-glibc <unknown> (embed)
+	- gnupg 1.4.5-14.el5_5.1 (embed)
+	NOTE: Might be fixed earlier.
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gcc 4.1.2-48.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- gettext 0.14.6-4.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- compat-gcc-32 <unknown> (embed)
+	- coreutils 5.97-23.el5_4.2 (embed)
+	NOTE: Might be fixed earlier.
+	- gdb 7.0.1-23.el5_5.2 (embed)
+	NOTE: Might be fixed earlier.
+	- gcc44 <unknown> (embed)
+	- tetex 3.0-33.8.el5_5.6 (embed)
+	NOTE: Might be fixed earlier.
+	- elinks <unknown> (embed)
+	- mysql 5.0.77-4.el5_5.4 (embed)
+	NOTE: Might be fixed earlier.
+	- mutt 1.4.2.2-3.0.2.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- cadaver <unknown> (embed)
+	- texinfo 4.8-14.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+doxygen
+	- compat-gcc-34 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+
+indent
+	- gcc <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- libsilc <unknown> (embed)
+
+redhat-rpm-config
+	- rpm <unknown> (embed)
+
+jakarta-commons-codec
+	- jakarta-commons-lang <unknown> (embed)
+
+cman
+	- gfs2-utils <unknown> (embed)
+	- rgmanager 2.0.52-6.el5.centos.8 (embed)
+	NOTE: Might be fixed earlier.
+
+acl
+	- attr <unknown> (embed)
+	- nfs4-acl-tools <unknown> (embed)
+
+sound-juicer
+	- totem <unknown> (embed)
+
+kdegraphics
+	- kde-i18n <unknown> (embed)
+
+yum
+	- yum-updatesd 0.9-2.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+glib2
+	- glib <unknown> (embed)
+	- pkgconfig <unknown> (embed)
+
+ekiga
+	- libgnomeui <unknown> (embed)
+
+compat-db
+	- evolution-data-server <unknown> (embed)
+	- nss_db <unknown> (embed)
+	- cyrus-sasl <unknown> (embed)
+	- openldap <unknown> (embed)
+	- mysql <unknown> (embed)
+	- htdig <unknown> (embed)
+	- rpm <unknown> (embed)
+	- pam <unknown> (embed)
+
+firefox
+	- thunderbird <unknown> (embed)
+
+apr
+	- apr-util 1.2.7-11.el5_5.1 (embed)
+	NOTE: Might be fixed earlier.
+	- httpd 2.2.3-43.el5.centos.3 (embed)
+	NOTE: Might be fixed earlier.
+	- tomcat5 <unknown> (embed)
+	- php <unknown> (embed)
+
+ElectricFence
+	- ntp <unknown> (embed)
+
+ppp
+	- kernel <unknown> (embed)
+	- isdn4k-utils <unknown> (embed)
+
+sane-backends
+	- sane-frontends 1.0.14-1.2.2 (embed)
+	NOTE: Might be fixed earlier.
+
+nss
+	- firefox <unknown> (embed)
+	- thunderbird 2.0.0.24-12.el5.centos (embed)
+	NOTE: Might be fixed earlier.
+	- esc 1.1.0-12.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner 1.9.2.11-4.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- mozldap 6.0.5-1.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+at-spi
+	- gnome-mag 0.13.1-1.fc6 (embed)
+	NOTE: Might be fixed earlier.
+
+conga
+	- system-config-cluster <unknown> (embed)
+	- thunderbird <unknown> (embed)
+
+mkinitrd
+	- watchdog <unknown> (embed)
+
+tzdata
+	- compat-glibc <unknown> (embed)
+	- postgresql <unknown> (embed)
+	- glibc <unknown> (embed)
+	- postgresql84 <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+
+arts
+	- kdelibs 3.5.4-25.el5.centos.1 (embed)
+	NOTE: Might be fixed earlier.
+
+gfs2-utils
+	- gnbd <unknown> (embed)
+	- gfs-utils 0.1.20-7.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+kdemultimedia
+	- kde-i18n <unknown> (embed)
+
+perl-Convert-ASN1
+	- perl-LDAP 0.33-3.fc6 (embed)
+	NOTE: Might be fixed earlier.
+
+gnupg2
+	- lftp <unknown> (embed)
+	- mutt <unknown> (embed)
+	- gettext <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- gnupg <unknown> (embed)
+	- gnutls <unknown> (embed)
+	- libgcrypt <unknown> (embed)
+
+compat-slang
+	- slang <unknown> (embed)
+	- mc <unknown> (embed)
+
+perl
+	- compat-db <unknown> (embed)
+	- evolution-data-server <unknown> (embed)
+
+gnu-crypto
+	- gcc <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- xml-commons <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+
+m4
+	- tar <unknown> (embed)
+	- gdb <unknown> (embed)
+	- sed <unknown> (embed)
+	- findutils <unknown> (embed)
+	- texinfo <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gnupg2 <unknown> (embed)
+	- gettext <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- lftp <unknown> (embed)
+	- libidn <unknown> (embed)
+	- cpio <unknown> (embed)
+	- gawk <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- gnutls <unknown> (embed)
+	- diffutils <unknown> (embed)
+	- bison 2.3-2.1 (embed)
+	NOTE: Might be fixed earlier.
+	- gtk-vnc <unknown> (embed)
+	- libwvstreams <unknown> (embed)
+	- a2ps <unknown> (embed)
+	- tetex <unknown> (embed)
+
+man-pages-ru
+	- man-pages-de <unknown> (embed)
+	- man-pages-pl <unknown> (embed)
+	- man-pages-ko <unknown> (embed)
+	- man-pages-it <unknown> (embed)
+	- man-pages-ja <unknown> (embed)
+	- man-pages-fr <unknown> (embed)
+	- man-pages-es <unknown> (embed)
+	- man-pages <unknown> (embed)
+
+emacs
+	- kernel <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- glibc <unknown> (embed)
+	- cvs <unknown> (embed)
+	- dev86 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- gdb <unknown> (embed)
+
+newt
+	- newt-perl 1.08-9.2.2 (embed)
+	NOTE: Might be fixed earlier.
+
+gcc44
+	- gcc <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- mc <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- scribus <unknown> (embed)
+	- gawk <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- gftp <unknown> (embed)
+	- gettext <unknown> (embed)
+	- gmp <unknown> (embed)
+	- unixODBC <unknown> (embed)
+	- libsilc <unknown> (embed)
+
+mozldap
+	- firefox <unknown> (embed)
+	- nspr <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- xulrunner <unknown> (embed)
+	- nss <unknown> (embed)
+
+libwnck
+	- metacity <unknown> (embed)
+
+glib
+	- glib2 <unknown> (embed)
+	- pkgconfig <unknown> (embed)
+
+ncurses
+	- termcap <unknown> (embed)
+	- tetex <unknown> (embed)
+
+file-roller
+	- gthumb <unknown> (embed)
+
+telnet
+	- krb5 <unknown> (embed)
+
+system-config-netboot
+	- system-config-network <unknown> (embed)
+
+privoxy
+	- tomcat5 <unknown> (embed)
+
+ipsec-tools
+	- openswan <unknown> (embed)
+
+docbook-simple
+	- libxslt <unknown> (embed)
+
+flac
+	- vorbis-tools 1.1.1-3.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+libevent
+	- xulrunner <unknown> (embed)
+	- openmpi <unknown> (embed)
+	- firefox <unknown> (embed)
+
+postgresql
+	- postgresql84 <unknown> (embed)
+
+beecrypt
+	- gnome-keyring <unknown> (embed)
+
+Xaw3d
+	- openmotif <unknown> (embed)
+	- openmotif22 <unknown> (embed)
+	- libXaw <unknown> (embed)
+
+mc
+	- kernel <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gettext <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- gdb <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- libsilc <unknown> (embed)
+	- elinks <unknown> (embed)
+	- mutt <unknown> (embed)
+	- texinfo <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- rpm <unknown> (embed)
+	- tar <unknown> (embed)
+	- tetex <unknown> (embed)
+
+autoconf213
+	- openldap <unknown> (embed)
+	- tetex <unknown> (embed)
+
+spice-xpi
+	- thunderbird <unknown> (embed)
+
+libnl
+	- NetworkManager <unknown> (embed)
+	- kernel <unknown> (embed)
+
+zlib
+	- gcc <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- firefox <unknown> (embed)
+	- qt 3.3.6-23.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- qt4 4.2.1-1 (embed)
+	NOTE: Might be fixed earlier.
+	- compat-gcc-34 <unknown> (embed)
+	- xulrunner 1.9.2.11-4.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- thunderbird 2.0.0.24-12.el5.centos (embed)
+	NOTE: Might be fixed earlier.
+	- cvs 1.11.22-7.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- compat-gcc-32 <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- tetex 3.0-33.8.el5_5.6 (embed)
+	NOTE: Might be fixed earlier.
+	- mysql 5.0.77-4.el5_5.4 (embed)
+	NOTE: Might be fixed earlier.
+	- vnc 4.1.2-14.el5_5.4 (embed)
+	NOTE: Might be fixed earlier.
+	- nss 3.12.8-1.el5.centos (embed)
+	NOTE: Might be fixed earlier.
+
+eclipse
+	- struts <unknown> (embed)
+
+cvs
+	- kernel <unknown> (embed)
+	- firefox <unknown> (embed)
+	- freetype <unknown> (embed)
+	- tetex <unknown> (embed)
+	- mysql <unknown> (embed)
+	- nss <unknown> (embed)
+	- gcc <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- xulrunner <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- qt4 <unknown> (embed)
+	- vnc <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- doxygen <unknown> (embed)
+	- qt <unknown> (embed)
+	- zlib <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- gnupg <unknown> (embed)
+	- openswan <unknown> (embed)
+
+openmotif
+	- firefox <unknown> (embed)
+	- imake <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- openmotif22 <unknown> (embed)
+	- xulrunner <unknown> (embed)
+	- nss <unknown> (embed)
+
+kdelibs
+	- kde-i18n <unknown> (embed)
+
+docbook-dtds
+	- kdelibs <unknown> (embed)
+	- gjdoc <unknown> (embed)
+	- subversion <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- libxslt <unknown> (embed)
+
+gnupg
+	- kernel <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- firefox <unknown> (embed)
+	- mutt <unknown> (embed)
+	- qt4 <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- glibc <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- cvs <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- mysql <unknown> (embed)
+	- xulrunner <unknown> (embed)
+	- nss <unknown> (embed)
+	- bash <unknown> (embed)
+	- openswan <unknown> (embed)
+
+diffutils
+	- compat-glibc <unknown> (embed)
+	- grep <unknown> (embed)
+	- tar <unknown> (embed)
+	- glibc <unknown> (embed)
+	- lftp <unknown> (embed)
+	- cpio <unknown> (embed)
+	- gettext <unknown> (embed)
+	- cadaver <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- bison <unknown> (embed)
+	- findutils <unknown> (embed)
+	- cvs <unknown> (embed)
+	- texinfo <unknown> (embed)
+	- sharutils <unknown> (embed)
+	- a2ps <unknown> (embed)
+	- tetex <unknown> (embed)
+
+openssl
+	- openssl097a <unknown> (embed)
+	- openswan <unknown> (embed)
+
+classpathx-mail
+	- gcc <unknown> (embed)
+	- gjdoc <unknown> (embed)
+	- gnu-crypto <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- gcc44 <unknown> (embed)
+
+autoconf
+	- bison <unknown> (embed)
+	- automake 1.9.6-2.3.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+kdevelop
+	- kde-i18n <unknown> (embed)
+
+krb5
+	- nfs-utils-lib <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- tcpdump <unknown> (embed)
+	- glibc <unknown> (embed)
+
+man-pages-de
+	- man-pages-es <unknown> (embed)
+
+sqlite
+	- qt4 <unknown> (embed)
+	- php <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- setools <unknown> (embed)
+	- kdenetwork <unknown> (embed)
+
+control-center
+	- nautilus <unknown> (embed)
+	- gnome-applets <unknown> (embed)
+
+tar
+	- compat-glibc <unknown> (embed)
+	- mc <unknown> (embed)
+	- tetex <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- glibc <unknown> (embed)
+	- cvs <unknown> (embed)
+	- gettext <unknown> (embed)
+	- gcc <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- gdb <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- bash <unknown> (embed)
+	- libvirt <unknown> (embed)
+	- texinfo <unknown> (embed)
+	- binutils <unknown> (embed)
+	- findutils <unknown> (embed)
+
+libxml2
+	- firefox <unknown> (embed)
+	- kdelibs 3.5.4-25.el5.centos.1 (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner <unknown> (embed)
+	- docbook-style-xsl <unknown> (embed)
+	- libxslt 1.1.17-2.el5_2.2 (embed)
+	NOTE: Might be fixed earlier.
+	- boost <unknown> (embed)
+
+expat
+	- httpd 2.2.3-43.el5.centos.3 (embed)
+	NOTE: Might be fixed earlier.
+	- firefox <unknown> (embed)
+	- PyXML 0.8.4-4.el5_4.2 (embed)
+	NOTE: Might be fixed earlier.
+	- python <unknown> (embed)
+	- thunderbird 2.0.0.24-12.el5.centos (embed)
+	NOTE: Might be fixed earlier.
+	- cadaver 0.22.3-4.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- apr-util 1.2.7-11.el5_5.1 (embed)
+	NOTE: Might be fixed earlier.
+	- xulrunner <unknown> (embed)
+	- libmusicbrainz 2.1.1-4.1 (embed)
+	NOTE: Might be fixed earlier.
+	- python-elementtree 1.2.6-5 (embed)
+	NOTE: Might be fixed earlier.
+	- python-docs <unknown> (embed)
+	- dasher 4.2.0-2.el5 (embed)
+	NOTE: Might be fixed earlier.
+
+lftp
+	- compat-glibc <unknown> (embed)
+	- tar <unknown> (embed)
+	- gettext <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gawk <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- gdb <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- a2ps <unknown> (embed)
+	- gnupg <unknown> (embed)
+	- bash <unknown> (embed)
+	- findutils <unknown> (embed)
+
+gedit
+	- rhythmbox <unknown> (embed)
+
+atk
+	- xulrunner 1.9.2.11-4.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- firefox 3.6.11-2.el5.centos (embed)
+	NOTE: Might be fixed earlier.
+
+ant
+	- eclipse <unknown> (embed)
+	- openoffice.org <unknown> (embed)
+
+unzip
+	- zip <unknown> (embed)
+
+postgresql84
+	- compat-glibc <unknown> (embed)
+	- postgresql <unknown> (embed)
+	- elinks <unknown> (embed)
+
+file
+	- rpm <unknown> (embed)
+
+fonts-KOI8-R
+	- xorg-x11-fonts <unknown> (embed)
+
+htdig
+	- kdevelop <unknown> (embed)
+
+curl
+	- wget <unknown> (embed)
+
+texinfo
+	- gdb <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- binutils <unknown> (embed)
+	- tetex <unknown> (embed)
+
+rhythmbox
+	- sound-juicer <unknown> (embed)
+	- totem <unknown> (embed)
+
+gimp
+	- gimp-print <unknown> (embed)
+	- elinks <unknown> (embed)
+
+compat-glibc
+	- krb5 <unknown> (embed)
+	- kernel <unknown> (embed)
+	- nss_db <unknown> (embed)
+	- gdb <unknown> (embed)
+	- tetex <unknown> (embed)
+	- mysql <unknown> (embed)
+	- rpm <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- glibc <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- emacs <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- gmp <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- gnu-crypto <unknown> (embed)
+	- gcc <unknown> (embed)
+	- nfs-utils <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- java-1.6.0-openjdk <unknown> (embed)
+	- bind <unknown> (embed)
+	- minicom <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- kdelibs <unknown> (embed)
+	- binutils <unknown> (embed)
+
+sip
+	- kdebindings <unknown> (embed)
+
+tix
+	- python <unknown> (embed)
+	- python-docs <unknown> (embed)
+
+compat-gcc-296
+	- compat-gcc-34 <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+
+alsa-lib
+	- kernel <unknown> (embed)
+
+make
+	- tetex <unknown> (embed)
+
+gettext
+	- compat-glibc <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gcc <unknown> (embed)
+	- gawk <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- tetex <unknown> (embed)
+
+automake16
+	- automake15 <unknown> (embed)
+	- automake <unknown> (embed)
+
+coreutils
+	- busybox <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- glibc <unknown> (embed)
+	- cvs <unknown> (embed)
+	- gcc <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- gdb <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- tetex 3.0-33.8.el5_5.6 (embed)
+	NOTE: Might be fixed earlier.
+	- mysql 5.0.77-4.el5_5.4 (embed)
+	NOTE: Might be fixed earlier.
+
+automake14
+	- openldap <unknown> (embed)
+	- automake <unknown> (embed)
+	- automake16 <unknown> (embed)
+	- automake17 <unknown> (embed)
+	- automake15 <unknown> (embed)
+	- a2ps <unknown> (embed)
+
+automake15
+	- grep <unknown> (embed)
+	- automake <unknown> (embed)
+	- automake16 <unknown> (embed)
+	- automake17 <unknown> (embed)
+	- a2ps <unknown> (embed)
+	- dasher <unknown> (embed)
+
+xulrunner
+	- java-1.6.0-openjdk <unknown> (embed)
+	- kernel <unknown> (embed)
+	- rsync <unknown> (embed)
+	- qpixman <unknown> (embed)
+	- firefox 3.6.11-2.el5.centos (embed)
+	NOTE: Might be fixed earlier.
+	- nspluginwrapper <unknown> (embed)
+	- kdebase <unknown> (embed)
+	- bind <unknown> (embed)
+	- eclipse <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- cadaver <unknown> (embed)
+	- krb5 <unknown> (embed)
+	- openmpi <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- tetex <unknown> (embed)
+	- gnupg <unknown> (embed)
+	- mysql <unknown> (embed)
+	- esc 1.1.0-12.el5 (embed)
+	NOTE: Might be fixed earlier.
+	- vnc <unknown> (embed)
+	- openswan <unknown> (embed)
+
+log4j
+	- struts <unknown> (embed)
+
+man-pages-cs
+	- man-pages-de <unknown> (embed)
+	- man-pages-pl <unknown> (embed)
+	- man-pages-ko <unknown> (embed)
+	- man-pages-it <unknown> (embed)
+	- man-pages-es <unknown> (embed)
+	- man-pages <unknown> (embed)
+
+vnc
+	- pm-utils <unknown> (embed)
+	- gcc <unknown> (embed)
+	- zlib <unknown> (embed)
+	- firefox <unknown> (embed)
+	- xorg-x11-server <unknown> (embed)
+	- qt4 <unknown> (embed)
+	- cairo <unknown> (embed)
+	- xulrunner <unknown> (embed)
+	- thunderbird <unknown> (embed)
+	- cvs <unknown> (embed)
+	- gtk2 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- libexif <unknown> (embed)
+	- xorg-x11-xfs <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- tetex <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- nss <unknown> (embed)
+	- synaptics <unknown> (embed)
+
+ccid
+	- pcsc-lite 1.4.4-4.el5_5 (embed)
+	NOTE: Might be fixed earlier.
+
+kdeartwork
+	- kde-i18n <unknown> (embed)
+
+avalon-logkit
+	- log4j <unknown> (embed)
+
+bzip2
+	- thunderbird <unknown> (embed)
+
+gcc
+	- compat-gcc-34 <unknown> (embed)
+	- syslinux <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+
+kdeutils
+	- kde-i18n <unknown> (embed)
+
+openldap
+	- rpm <unknown> (embed)
+	- pam <unknown> (embed)
+
+libogg
+	- libvorbis 1.1.2-3.el5_4.4 (embed)
+	NOTE: Might be fixed earlier.
+
+mesa
+	- xorg-x11-drv-i810 <unknown> (embed)
+	- vnc <unknown> (embed)
+	- xorg-x11-server <unknown> (embed)
+
+kdegames
+	- kde-i18n <unknown> (embed)
+
+kdenetwork
+	- kdepim <unknown> (embed)
+	- kde-i18n <unknown> (embed)
+
+libgssapi
+	- krb5 <unknown> (embed)
+
+sed
+	- compat-glibc <unknown> (embed)
+	- glibc <unknown> (embed)
+	- lftp <unknown> (embed)
+	- gettext <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- gnupg <unknown> (embed)
+
+gamin
+	- libxslt <unknown> (embed)
+
+bind
+	- compat-glibc <unknown> (embed)
+	- glibc <unknown> (embed)
+	- ntp <unknown> (embed)
+	- dhcp <unknown> (embed)
+	- tcpdump <unknown> (embed)
+	- openswan <unknown> (embed)
+
+e2fsprogs
+	- krb5 <unknown> (embed)
+	- busybox <unknown> (embed)
+	- compat-glibc <unknown> (embed)
+	- compat-gcc-296 <unknown> (embed)
+	- kernel <unknown> (embed)
+	- compat-gcc-34 <unknown> (embed)
+	- glibc <unknown> (embed)
+	- gcc <unknown> (embed)
+	- compat-gcc-32 <unknown> (embed)
+	- e4fsprogs <unknown> (embed)
+	- coreutils <unknown> (embed)
+	- gdb <unknown> (embed)
+	- gcc44 <unknown> (embed)
+	- libwvstreams <unknown> (embed)
+	- bash <unknown> (embed)
+
+glibc
+	- compat-glibc 2.3.4-2.26 (embed)
+	NOTE: Might be fixed earlier.
