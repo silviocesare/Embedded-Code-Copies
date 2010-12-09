@@ -1,0 +1,2025 @@
+gd
+	- libwmf
+	- tetex
+	- php
+	- graphviz
+
+gc
+	- gcc
+	- kompozer
+	- boost
+	- mono
+
+atk1.0
+	- xulrunner
+	- mozilla-thunderbird
+	- firefox
+
+tk
+	- ruby
+	- blt
+	- tcl
+	- perl-Tk
+	- vtk
+
+unzip
+	- zip
+
+xditview
+	- groff
+
+x11-font-bh-100dpi
+	- x11-font-bh-75dpi
+
+liblbxutil
+	- virtualbox
+
+libneon0.27
+	- gnome-vfs2
+
+stylewriter
+	- printer-filters-utils
+
+libv4l
+	- v4l-utils
+
+polkit-qt-1
+	- polkit-qt
+
+ghostscript
+	- htmldoc
+	- wxgtk2.8
+	- qt4
+	- firefox
+	- fltk
+	- libjpeg
+	- vtk
+	- mozilla-thunderbird
+	- wxPythonGTK
+	- opencv
+	- java-1.6.0-openjdk
+	- xulrunner
+	- kompozer
+	- perl-Tk
+	- qt3
+
+jakarta-commons-discovery
+	- jakarta-commons-fileupload
+
+fftw
+	- blender
+
+dia
+	- gimp
+
+libid3tag
+	- libtunepimp
+
+sane
+	- sane-frontends
+
+netcdf
+	- vtk
+	- netcdf-devel
+
+drbd-utils
+	- kernel
+
+pmd
+	- jrefactory
+
+libxslt
+	- gcc
+	- sgml-common
+	- subversion
+	- docbook-dtd43-xml
+	- docbook-dtd42-xml
+	- kdelibs4
+	- virtuoso-opensource
+	- docbook-dtd412-xml
+
+multipath-tools
+	- util-linux-ng
+
+teckit
+	- kernel
+	- firefox
+	- physfs
+	- tcl
+	- virtuoso-opensource
+	- tetex
+	- virtualbox
+	- wxgtk2.8
+	- gcc
+	- samba
+	- cmake
+	- fltk
+	- kernel-xen-pvops
+	- vtk
+	- mozilla-thunderbird
+	- R-base
+	- xulrunner
+	- id3lib
+	- samba4
+	- qt4
+	- qt3
+	- python
+	- bzflag
+	- syslinux
+	- kernel-xen
+	- perl-Tk
+	- htmldoc
+	- wxPythonGTK
+	- doxygen
+	- mono
+	- kompozer
+
+celt
+	- speex
+
+libgpg-error
+	- dirmngr
+	- alsa-utils
+	- xine-lib
+	- aspell
+	- yp-tools
+	- openbox
+	- lyx
+	- gnupg2
+	- gawk
+	- vorbis-tools
+	- gnupg
+	- gutenprint
+	- linphone
+	- scim-hangul
+
+boost
+	- libsmbios
+	- lyx
+	- virtualbox
+
+nant
+	- netcdf-devel
+
+libsigc++2.0
+	- stardict
+
+libgoogle-data-mono
+	- mono
+
+gawk
+	- xine-lib
+	- kernel
+	- tar
+	- lyx
+	- tetex
+	- gstreamer0.10
+	- yp-tools
+	- make
+	- gnupg2
+	- gettext
+	- scim-hangul
+	- lftp
+	- vorbis-tools
+	- uClibc
+	- openbox
+	- sharutils
+	- gutenprint
+	- kernel-xen
+	- kernel-xen-pvops
+	- dirmngr
+	- rrdtool
+	- aspell
+	- diffutils
+	- cvs
+	- gnupg
+	- aria2
+	- linphone
+
+apache
+	- apache-mod_perl
+	- webmin
+	- kompozer
+	- perl-Apache-Test
+
+c-ares
+	- bzflag
+
+liblzo
+	- lzop
+
+libcroco0.6
+	- inkscape
+	- gettext
+
+libzip
+	- php
+
+libmbfl
+	- php
+
+libgweather
+	- gnome-applets
+
+liblzf
+	- virtualbox
+
+krb5
+	- cyrus-imapd
+	- kompozer
+	- samba
+	- openafs
+
+firefox
+	- xulrunner
+	- bug-buddy
+	- mozilla-thunderbird
+	- eclipse
+	- virtuoso-opensource
+	- java-1.6.0-openjdk
+	- cppunit
+	- gluezilla
+	- libiodbc
+	- kompozer
+	- inkscape
+
+apr
+	- apache
+	- apr-util
+	- tomcat5
+
+filezilla
+	- rarian
+
+deltarpm
+	- firefox
+	- xen
+	- tcl
+	- virtuoso-opensource
+	- tetex
+	- nss
+	- virtualbox
+	- wxgtk2.8
+	- gcc
+	- samba
+	- fltk
+	- mozilla-thunderbird
+	- xulrunner
+	- samba4
+	- qt4
+	- qt3
+	- python
+	- teckit
+	- syslinux
+	- perl-Tk
+	- wxPythonGTK
+	- mono
+	- zlib
+	- cvs
+	- kompozer
+
+python-lxml
+	- python-pygments
+
+gnome-python
+	- gnome-python-desktop
+	- python-gobject
+
+perl
+	- R-base
+	- virtuoso-opensource
+	- gcc
+	- wml
+
+m4
+	- tar
+	- gdb
+	- sed
+	- findutils
+	- wget
+	- gcc
+	- libpreludedb
+	- gnupg2
+	- gettext
+	- R-base
+	- prelude-manager
+	- source-highlight
+	- sharutils
+	- lftp
+	- uClibc
+	- prelude-lml
+	- libidn
+	- fastjar
+	- gawk
+	- cpio
+	- libprelude
+	- gnutls
+	- libvirt
+	- bash
+	- autoconf
+	- diffutils
+	- libtasn1
+	- cvs
+	- patch
+	- libntlm
+	- bison
+	- binutils
+	- gnupg
+	- gzip
+	- gtk-vnc
+	- a2ps
+	- tetex
+
+qemu
+	- kernel
+	- xen
+	- rdesktop
+	- gdb
+	- vde2
+	- kernel-xen
+	- kernel-xen-pvops
+	- virtualbox
+
+expat
+	- python-celementtree
+	- teckit
+	- cmake
+	- wxgtk2.8
+	- python
+	- davfs
+	- vtk
+	- mozilla-thunderbird
+	- wxPythonGTK
+	- apr-util
+	- xulrunner
+	- netcdf
+	- python-pyxml
+	- apache
+	- firefox
+	- kompozer
+	- w3c-libwww
+
+autogen
+	- ntp
+
+rgmanager
+	- cluster
+	- resource-agents
+
+python-cairo
+	- wxPythonGTK
+
+flac
+	- libtunepimp
+	- vorbis-tools
+
+freeipmi
+	- powerman
+
+onig
+	- php
+
+eclipse
+	- struts
+	- virtuoso-opensource
+	- aspectj
+
+lbxproxy
+	- xfs
+
+lxde-icon-theme
+	- lxsession-lite
+
+lcms
+	- java-1.6.0-openjdk
+	- printer-filters-utils
+	- firefox
+	- cups-drivers-foo2zjs
+
+java-cup
+	- jflex
+
+sqlite
+	- digikam
+	- kompozer
+	- qt3
+	- php
+
+gnome-themes
+	- gnome-themes-extras
+
+ocaml
+	- mono
+	- xen
+
+gcc
+	- kernel
+	- kompozer
+	- kdelibs4
+	- kernel-xen-pvops
+	- uim
+	- dev86
+	- nspluginwrapper
+	- gc
+	- gcc4.2
+	- dietlibc
+	- mono
+	- virtuoso-opensource
+	- kernel-xen
+	- boost
+	- virtualbox
+
+cups-drivers-capt
+	- printer-filters-utils
+
+xulrunner
+	- firefox
+	- djvulibre
+	- google-gadgets
+
+ruby-rbogl
+	- vesautils
+
+avalon-logkit
+	- excalibur-avalon-logkit
+
+gmime2.2
+	- gmime
+
+mad
+	- xine-lib
+
+mesa
+	- x11-server
+	- kernel
+	- virtualbox
+	- metisse
+
+quadra
+	- xplc
+
+asm2
+	- asm3
+	- asm
+
+re2c
+	- yasm
+
+playmidi
+	- SDL_mixer
+
+libx11
+	- metisse
+	- tightvnc
+	- virtualbox
+
+pciutils
+	- xen
+
+wine
+	- xine-lib
+	- tetex
+
+acpid
+	- kover
+
+man-pages-fr
+	- man-pages-pl
+	- man-pages-ko
+	- openssh
+	- man-pages-ja
+	- man-pages-es
+	- man-pages-zh
+
+gtkglarea2
+	- gtkglext
+
+clucene
+	- qt4
+
+libwps
+	- libwpg
+	- libwpd
+	- openoffice.org
+
+m17n-db
+	- perl
+
+libxdmcp
+	- tightvnc
+
+gimp-help-2
+	- gimp
+
+clipart-openclipart
+	- freeciv
+
+drakbt
+	- drakoo
+	- hcl
+
+libmikmod
+	- SDL_mixer
+	- pysol
+
+pixman
+	- mozilla-thunderbird
+	- xulrunner
+	- libgdiplus
+	- firefox
+	- virtualbox
+
+python
+	- virtuoso-opensource
+	- aspectj
+	- virtualbox
+
+jakarta-commons-el
+	- jakarta-taglibs-standard
+
+evolution
+	- evolution-data-server
+
+openjpeg
+	- blender
+
+kernel-xen
+	- kernel
+	- gcc
+	- kompozer
+	- firefox
+	- qt3
+	- uClibc
+	- syslinux
+	- xen
+	- mozilla-thunderbird
+	- R-base
+	- php
+	- gdb
+	- openafs
+	- virtuoso-opensource
+	- tetex
+	- mysql
+	- xulrunner
+	- kernel-xen-pvops
+	- binutils
+
+htmldoc
+	- kernel
+	- firefox
+	- tcl
+	- virtuoso-opensource
+	- tetex
+	- mysql
+	- nss
+	- virtualbox
+	- wxgtk2.8
+	- gcc
+	- samba
+	- cmake
+	- fltk
+	- kernel-xen-pvops
+	- vtk
+	- mozilla-thunderbird
+	- perl
+	- opencv
+	- R-base
+	- xulrunner
+	- samba4
+	- qt4
+	- qt3
+	- python
+	- bzflag
+	- syslinux
+	- kernel-xen
+	- perl-Tk
+	- wxPythonGTK
+	- doxygen
+	- mono
+	- cvs
+	- kompozer
+
+libdbi
+	- libdbi-drivers
+
+gsnmp
+	- scli
+
+cairo
+	- libgdiplus
+	- firefox
+	- openoffice.org
+	- mozilla-thunderbird
+	- librsvg
+	- xulrunner
+	- kompozer
+
+bluez
+	- obexd
+	- pulseaudio
+
+ggz-client-libs
+	- ggz-gtk-client
+
+ilmbase
+	- opencv
+
+lzma
+	- squashfs-tools
+	- firefox
+	- physfs
+	- mozilla-thunderbird
+	- xulrunner
+	- lzmalib
+
+wxgtk2.8
+	- openjpeg
+	- wxPythonGTK
+
+xdaliclock
+	- xscreensaver
+
+poppler
+	- tetex
+
+R-base
+	- kernel
+	- bzip2
+	- kompozer
+	- firefox
+	- qt3
+	- xulrunner
+	- mozilla-thunderbird
+	- perl
+	- virtuoso-opensource
+	- mysql
+	- falcon
+	- kernel-xen
+	- kernel-xen-pvops
+	- php
+
+openjade
+	- man-pages-fr
+
+jakarta-commons-dbcp
+	- jakarta-commons-pool
+
+libgnome2
+	- libgnomeui2
+	- libwnck
+
+gnumeric
+	- goffice
+
+kdebase4-runtime
+	- kde-l10n-ru
+	- kde-l10n-pl
+	- kde-l10n-da
+	- kde-l10n-sr
+	- kde-l10n-ca
+	- kde-l10n-de
+	- kde-l10n-gl
+	- kdeedu4
+	- kde-l10n-pt_BR
+	- kde-l10n-sv
+	- kde-l10n-it
+	- kde-l10n-uk
+	- kde-l10n-et
+	- kde-l10n-fr
+	- kde-l10n-nl
+	- kde-l10n-pt
+	- kde-l10n-es
+
+oxygen-icon-theme
+	- quassel
+
+potrace
+	- inkscape
+
+libedit
+	- openipmi
+	- mysql
+
+gnome-media
+	- gnome-settings-daemon
+
+openssl
+	- nmap
+	- ppp
+
+libatomic_ops
+	- gc
+
+libgda4.0
+	- gda2.0
+	- libgnomedb4.0
+
+cups
+	- cupsddk
+	- kernel
+
+libmusicbrainz
+	- libtunepimp
+
+mdbtools
+	- openoffice.org
+
+oki4linux
+	- printer-filters-utils
+
+ppmtomd
+	- printer-filters-utils
+
+urw-fonts
+	- R-base
+	- libwmf
+
+perl-XML-DOM-XPath
+	- perl-XML-Twig
+
+devicekit-power
+	- upower
+
+ftgl
+	- vtk
+	- blender
+
+ipmitool
+	- ipmiutil
+
+python-docutils
+	- python-lxml
+
+libevent
+	- xulrunner
+
+lxcontrol
+	- printer-filters-utils
+
+gamin
+	- glib2.0
+	- gnome-vfs2
+
+freetype2
+	- xulrunner
+	- qt4
+	- java-1.6.0-openjdk
+	- vtk
+
+kino
+	- dvgrab
+	- mlt
+	- smilutils
+
+kdeedu4
+	- kdewebdev4
+	- kde-l10n-da
+	- kde-l10n-de
+	- kde-l10n-pa
+	- kde-l10n-it
+	- kde-l10n-uk
+	- kde-l10n-en_GB
+	- kde-l10n-zh_CN
+	- kde-l10n-nl
+	- kde-l10n-fr
+	- kde-l10n-es
+
+ml85p
+	- printer-filters-utils
+
+kdelibs4
+	- gcc
+	- firefox
+	- mozilla-thunderbird
+	- qt4
+	- xulrunner
+	- virtuoso-opensource
+	- webkit
+	- cmake
+	- kompozer
+	- virtualbox
+
+bind
+	- dhcp
+
+classpathx-mail
+	- gcc
+
+maven2
+	- maven-surefire
+	- maven-shared
+
+tidy
+	- wml
+
+cups-drivers-lz11
+	- printer-filters-utils
+
+ant
+	- lucene
+	- tomcat5
+	- eclipse
+	- aspectj
+
+libggi
+	- libgii
+
+xml-commons
+	- gcc
+	- java-1.6.0-openjdk
+	- jtidy
+
+gtk+2.0
+	- xsane
+	- ekiga
+	- gtk-linux-fb-2.0
+
+kdmfprintplugin
+	- kfingermanager
+
+liblqr
+	- digikam
+
+libgadu
+	- pidgin
+
+fltk
+	- kernel
+	- firefox
+	- virtuoso-opensource
+	- tetex
+	- virtualbox
+	- wxgtk2.8
+	- samba
+	- cmake
+	- kernel-xen-pvops
+	- vtk
+	- mozilla-thunderbird
+	- R-base
+	- xulrunner
+	- samba4
+	- qt4
+	- qt3
+	- python
+	- bzflag
+	- syslinux
+	- java-1.6.0-openjdk
+	- kernel-xen
+	- perl-Tk
+	- htmldoc
+	- wxPythonGTK
+	- doxygen
+	- kompozer
+
+dom4j
+	- saxon
+	- struts
+	- log4j
+	- hsqldb
+	- jaxen
+	- aspectwerkz
+	- junit
+	- maven-jxr
+
+libdvdnav
+	- xine-lib
+	- libdvdread
+
+SDL12
+	- virtualbox
+
+libcap
+	- proftpd
+
+tvtime
+	- gstreamer0.10-plugins-good
+	- xine-lib
+
+docbook-dtd42-xml
+	- docbook-dtd44-xml
+	- docbook-dtd45-xml
+	- docbook-dtd43-xml
+	- kdelibs4
+	- docbook-dtd412-xml
+
+jss
+	- nss
+	- firefox
+	- nspr
+	- mozilla-thunderbird
+	- xulrunner
+	- kompozer
+
+kolab-horde-fbview
+	- webmin
+
+t1lib
+	- tightvnc
+	- tetex
+
+db46
+	- evolution-data-server
+	- autoconf-archive
+	- db47
+	- xen
+	- db42
+	- perl
+	- openldap
+	- perl-DB_File
+
+libeigen
+	- metisse
+
+popt
+	- rsync
+
+automake1.7
+	- dasher
+	- automake
+
+gobject-introspection
+	- vala
+
+imake
+	- tightvnc
+
+libraw1394
+	- libraw1394_8
+
+mlt++
+	- mlt
+
+libgii
+	- virtualbox
+
+freetype
+	- tetex
+
+min12xxw
+	- printer-filters-utils
+
+pnm2ppa
+	- printer-filters-utils
+
+liboil
+	- orc
+
+libgalago
+	- galago-sharp
+
+db1
+	- krb5
+	- nss
+	- firefox
+	- xen
+	- mozilla-thunderbird
+	- xulrunner
+	- kompozer
+
+db2
+	- evolution-data-server
+	- db46
+	- db47
+	- db42
+	- openldap
+	- htdig
+
+perl-Tk
+	- cloop-utils
+	- firefox
+	- mozilla-thunderbird
+	- xulrunner
+	- virtualbox
+
+ffmpeg
+	- xine-lib
+	- kino
+	- opencv
+	- audacity
+	- gstreamer0.10-ffmpeg
+	- blender
+
+gnome-icon-theme
+	- oxygen-icon-theme
+	- gnome-themes-extras
+
+relaxngDatatype
+	- gcc
+
+perl-Class-Spiffy
+	- perl-Spiffy
+
+talloc
+	- gnutls
+	- tevent
+	- samba
+	- tdb
+
+cjet
+	- printer-filters-utils
+
+gcc4.2
+	- gcc
+
+libconfig
+	- xen
+	- libffado
+
+enchant
+	- hunspell
+
+kernel
+	- busybox
+	- pcmcia-cis-firmware
+	- xfsprogs
+	- drakx-installer-binaries
+	- apr
+	- syslinux
+	- swi-prolog
+	- graphviz
+	- gdb
+	- ppp
+	- tetex
+	- qemu
+	- php
+	- iasl
+	- gcc
+	- git
+	- perl-Tk
+	- prism2-utils
+	- opencv
+	- R-base
+	- virtualbox
+	- dietlibc
+	- ntfsprogs
+	- ruby
+	- directfb
+	- iptables
+	- sndconfig
+	- testdisk
+	- uClibc
+	- yaboot
+	- ntp
+	- cdrkit
+	- dev86
+	- radeontool
+	- samba
+	- zapping
+	- mol
+	- OpenDX
+	- kernel-xen
+	- kernel-xen-pvops
+	- x11-driver-video-sisimedia
+	- silo
+	- x11-driver-video-sis
+	- ffmpeg
+	- isdn4k-utils
+	- strace
+	- bind
+	- cvs
+	- e2fsprogs
+	- kino
+	- apcupsd
+	- jfsutils
+	- hwinfo
+	- iproute2
+	- open-iscsi
+	- kompozer
+	- gsl
+	- wine
+
+dump
+	- pdisk
+
+perl-BerkeleyDB
+	- evolution-data-server
+	- db46
+	- db47
+	- db42
+	- openldap
+	- perl-DB_File
+
+google-gadgets
+	- firefox
+	- mozilla-thunderbird
+	- xulrunner
+	- nspluginwrapper
+	- kompozer
+	- kdebase4
+
+cups-drivers-pegg
+	- printer-filters-utils
+
+geronimo-specs
+	- tomcat5
+	- ORBit2
+
+libxaw
+	- Xaw3d
+
+libaio
+	- xen
+
+lua
+	- gtk-engines2
+	- nmap
+	- freeciv
+	- mures
+
+gtest
+	- llvm
+	- xulrunner
+	- protobuf
+
+libgnomeprint
+	- libgnomeprintui
+
+qt4
+	- x11-font-bitstream-type1
+	- firefox
+	- physfs
+	- qtscriptgenerator
+	- virtuoso-opensource
+	- fonts-ttf-bitstream-vera
+	- virtualbox
+	- gcc
+	- samba
+	- kdebindings4
+	- vtk
+	- mozilla-thunderbird
+	- xulrunner
+	- bzflag
+	- teckit
+	- kdebase4-runtime
+	- wxPythonGTK
+	- phonon
+	- kdelibs4
+	- k3b
+	- kompozer
+	- nucleo
+
+qt3
+	- firefox
+	- opensc
+	- tetex
+	- virtualbox
+	- blender
+	- wxgtk2.8
+	- syslinux
+	- fltk
+	- kdebindings4
+	- vtk
+	- mozilla-thunderbird
+	- opencv
+	- R-base
+	- xulrunner
+	- python-qt4
+	- qt4
+	- python-qt
+	- samba
+	- java-1.6.0-openjdk
+	- perl-Tk
+	- htmldoc
+	- kdewebdev4
+	- wxPythonGTK
+	- doxygen
+	- kompozer
+
+OpenEXR
+	- opencv
+
+js
+	- gcc
+	- nss
+	- firefox
+	- xen
+	- mozilla-thunderbird
+	- java-1.6.0-openjdk
+	- jss
+	- xulrunner
+	- kompozer
+
+WindowMaker
+	- wine
+
+newt
+	- drakx-installer-binaries
+
+isdn4k-utils
+	- kernel
+	- gdb
+	- tetex
+	- mol
+	- kernel-xen
+	- kernel-xen-pvops
+
+mono
+	- virtuoso-opensource
+	- gcc
+	- kompozer
+	- boost
+	- virtualbox
+
+hplip
+	- printer-filters-utils
+
+amarok
+	- firefox
+	- mozilla-thunderbird
+	- perl-Encode-Detect
+	- xulrunner
+	- kdelibs4
+	- kompozer
+	- kdebase4
+
+libical
+	- mozilla-thunderbird
+
+xscreensaver
+	- xlockmore
+
+cups-drivers-ptouch
+	- foomatic-db
+	- printer-filters-utils
+
+libssh2
+	- php-ssh2
+
+syslinux
+	- kernel
+	- firefox
+	- xen
+	- tcl
+	- virtuoso-opensource
+	- tetex
+	- mysql
+	- nss
+	- virtualbox
+	- wxgtk2.8
+	- gcc
+	- samba
+	- cmake
+	- fltk
+	- perl-Tk
+	- vtk
+	- mozilla-thunderbird
+	- perl
+	- R-base
+	- xulrunner
+	- dietlibc
+	- samba4
+	- qt4
+	- qt3
+	- uClibc
+	- python
+	- dev86
+	- java-1.6.0-openjdk
+	- falcon
+	- kernel-xen
+	- kernel-xen-pvops
+	- htmldoc
+	- wxPythonGTK
+	- doxygen
+	- mono
+	- cvs
+	- gnupg
+	- kompozer
+
+cups-drivers-splix
+	- printer-filters-utils
+
+gnupg2
+	- lftp
+	- aspell
+	- mutt
+	- tar
+	- sharutils
+	- fetchmail
+	- gettext
+	- gnupg
+	- gutenprint
+	- gtk+2.0
+	- libgcrypt
+
+libalsa2
+	- kernel
+	- kernel-xen
+	- kernel-xen-pvops
+
+squirrel
+	- supertux
+
+ncurses
+	- cmake
+	- tetex
+
+apparmor-applet-gnome
+	- apparmor
+
+gnuchess
+	- gnome-games
+
+libmal
+	- gnome-pilot-conduits
+
+hostapd
+	- wpa_supplicant
+
+cvs
+	- kernel
+	- firefox
+	- gdb
+	- virtuoso-opensource
+	- tetex
+	- mysql
+	- nss
+	- virtualbox
+	- wxgtk2.8
+	- gcc
+	- samba
+	- cmake
+	- kernel-xen-pvops
+	- mozilla-thunderbird
+	- perl
+	- R-base
+	- xulrunner
+	- samba4
+	- qt4
+	- qt3
+	- uClibc
+	- python
+	- bzflag
+	- teckit
+	- syslinux
+	- kernel-xen
+	- perl-Tk
+	- wxPythonGTK
+	- mono
+	- e2fsprogs
+	- gnupg
+	- tcl
+	- kompozer
+
+avahi
+	- pulseaudio
+
+gnome-menus
+	- menu-cache
+
+libxml2
+	- lftp
+	- kdelibs4
+	- amavisd-new
+	- libxml
+	- vtk
+	- asciidoc
+	- gettext
+	- R-base
+	- virtuoso-opensource
+	- docbook-style-xsl
+	- mds
+	- libxslt
+	- boost
+	- aspectj
+	- virtualbox
+	- homebank
+
+libxmu
+	- WindowMaker
+
+cluster
+	- kernel
+
+clutter
+	- pyclutter
+
+tetex
+	- kernel
+	- gcc
+	- kompozer
+	- mono
+	- cvs
+	- samba
+	- kernel-xen
+	- kernel-xen-pvops
+	- virtualbox
+	- wine
+
+ld.so1
+	- uClibc
+
+devicekit-disks
+	- udisks
+
+mono-addins
+	- f-spot
+
+ganymed-ssh2
+	- db46
+	- db47
+	- jdom
+	- httpunit
+	- openldap
+	- velocity
+	- bsf
+	- objectweb-anttask
+	- axis
+
+whois
+	- psad
+
+libgnome-keyring
+	- gnome-keyring
+
+jaxen
+	- jakarta-commons-httpclient
+	- jdom
+	- dom4j
+	- testng
+	- pmd
+	- httpunit
+	- aspectwerkz
+
+pan
+	- perl-Convert-UUlib
+
+mirrordir
+	- qt4
+	- freetype2
+	- java-1.6.0-openjdk
+	- id3lib
+	- gnupg
+	- xulrunner
+
+opencdk
+	- gnutls
+
+cups-drivers-foo2kyo
+	- printer-filters-utils
+
+glib2.0
+	- pkgconfig
+
+ptlib
+	- pwlib
+	- php
+	- mysql
+
+libmpcdec
+	- xine-lib
+
+gqview
+	- gtk-linux-fb-2.0
+
+perl-XML-XPath
+	- perl-XML-XPathEngine
+
+gnupg
+	- kernel
+	- firefox
+	- xen
+	- gdb
+	- tetex
+	- virtualbox
+	- wxgtk2.8
+	- gcc
+	- samba
+	- R-base
+	- xulrunner
+	- id3lib
+	- samba4
+	- qt4
+	- bzflag
+	- java-1.6.0-openjdk
+	- kernel-xen
+	- kernel-xen-pvops
+	- wxPythonGTK
+	- isdn4k-utils
+	- e2fsprogs
+	- kompozer
+	- binutils
+
+mtink
+	- printer-filters-utils
+
+gsm
+	- xine-lib
+	- sox
+	- libsndfile
+	- opal3
+	- openh323
+
+speex
+	- openh323
+	- opal3
+
+perl-Net-Jabber
+	- perl-Net-XMPP
+
+dejagnu
+	- gdb
+
+antlr
+	- kdesdk4
+	- boo
+
+xen
+	- kernel
+	- firefox
+	- google-gadgets
+	- deltarpm
+	- tcl
+	- virtuoso-opensource
+	- tetex
+	- mysql
+	- nss
+	- virtualbox
+	- wxgtk2.8
+	- gcc
+	- samba
+	- cmake
+	- fltk
+	- kernel-xen-pvops
+	- vtk
+	- mozilla-thunderbird
+	- perl
+	- R-base
+	- xulrunner
+	- dhcp
+	- samba4
+	- qt4
+	- qt3
+	- python
+	- bzflag
+	- teckit
+	- syslinux
+	- kernel-xen
+	- perl-Tk
+	- htmldoc
+	- wxPythonGTK
+	- doxygen
+	- mono
+	- zlib
+	- cvs
+	- kompozer
+
+xplc
+	- wvstreams
+
+tcl
+	- kernel
+	- firefox
+	- virtuoso-opensource
+	- tetex
+	- mysql
+	- nss
+	- virtualbox
+	- wxgtk2.8
+	- gcc
+	- samba
+	- kernel-xen-pvops
+	- vtk
+	- mozilla-thunderbird
+	- perl
+	- R-base
+	- xulrunner
+	- samba4
+	- qt4
+	- qt3
+	- python
+	- bzflag
+	- syslinux
+	- swi-prolog
+	- kernel-xen
+	- perl-Tk
+	- wxPythonGTK
+	- mono
+	- cvs
+	- kompozer
+
+mysql
+	- snort
+
+gdl
+	- screem
+	- inkscape
+
+gdm
+	- gnome-panel
+
+kolab
+	- kolab-webadmin
+
+samba
+	- kernel
+	- firefox
+	- virtuoso-opensource
+	- tetex
+	- mysql
+	- virtualbox
+	- wxgtk2.8
+	- gcc
+	- cmake
+	- vtk
+	- mozilla-thunderbird
+	- xulrunner
+	- id3lib
+	- samba4
+	- qt4
+	- qt3
+	- python
+	- rsync
+	- syslinux
+	- java-1.6.0-openjdk
+	- kernel-xen
+	- kernel-xen-pvops
+	- libtheora
+	- wxPythonGTK
+	- bind
+	- kompozer
+
+libpcap
+	- nmap
+	- tcpdump
+	- snort
+	- wireshark
+
+opencv
+	- htmldoc
+	- kernel
+	- qt4
+	- kompozer
+	- firefox
+	- qt3
+	- wxgtk2.8
+	- perl-Tk
+	- vtk
+	- mozilla-thunderbird
+	- wxPythonGTK
+	- R-base
+	- syslinux
+	- xulrunner
+	- tetex
+	- falcon
+	- kernel-xen
+	- kernel-xen-pvops
+	- virtualbox
+
+cups-drivers-m2300w
+	- foomatic-db
+	- printer-filters-utils
+
+cups-drivers-lbp660
+	- printer-filters-utils
+
+eigen2
+	- eigen
+
+apparmor
+	- wxgtk2.8
+	- qscintilla
+	- wxPythonGTK
+
+x11-server
+	- metisse
+	- xfs
+
+jython
+	- python
+	- aspectj
+
+swig
+	- subversion
+
+apr-util
+	- apache
+	- serf
+
+apparmor-parser
+	- apparmor-utils
+	- apparmor
+
+libdrm
+	- kernel
+	- kernel-xen
+	- kernel-xen-pvops
+	- virtualbox
+
+bcel
+	- jakarta-commons-pool
+	- jakarta-commons-beanutils
+	- aspectj
+	- jakarta-commons-dbcp
+
+aspectj
+	- java-1.6.0-openjdk
+
+pylibacl
+	- python-pylibacl
+
+banshee
+	- f-spot
+
+perl-Bit-Vector
+	- psad
+
+eel
+	- nautilus
+
+lm1100
+	- printer-filters-utils
+
+pure-ftpd
+	- ucarp
+
+grub
+	- xen
+	- syslinux
+
+deluge
+	- oxygen-icon-theme
+	- python-django
+
+libcdio
+	- xine-lib
+
+libsigsegv
+	- gawk
+
+pentaxpj
+	- webmin
+	- printer-filters-utils
+
+junit4
+	- junit
+
+inkscape
+	- mozilla-thunderbird
+	- libiodbc
+	- kompozer
+	- firefox
+
+lexmark7000linux
+	- printer-filters-utils
+
+jakarta-taglibs-standard
+	- lucene
+	- tomcat5
+
+x11-font-adobe-100dpi
+	- x11-font-adobe-75dpi
+
+uClibc
+	- gcc
+	- xen
+	- js
+	- java-1.6.0-openjdk
+	- kompozer
+
+libview
+	- vinagre
+
+man-pages-pt_BR
+	- man-pages-de
+	- man-pages-pl
+	- man-pages-ko
+	- man-pages-it
+	- man-pages-ja
+	- man-pages-fr
+	- man-pages-ru
+	- man-pages-es
+	- man-pages-zh
+
+regexp
+	- java-1.6.0-openjdk
+	- aspectj
+	- axis
+
+printer-filters-utils
+	- drv_z42
+	- x125
+	- cups-drivers-foo2zjs
+
+SDL_image
+	- SDL_mixer
+
+ggz-gtk-client
+	- ggz-server
+
+ppp
+	- xen
+	- isdn4k-utils
+
+libgee
+	- vala
+
+jasper
+	- opencv
+
+libmng
+	- qt4
+	- qt3
+
+nss
+	- kompozer
+	- firefox
+	- makedepend
+	- nspr
+	- tightvnc
+	- mozilla-thunderbird
+	- xulrunner
+	- tetex
+	- perl-Tk
+	- virtualbox
+
+bsf
+	- ganymed-ssh2
+	- jakarta-commons-httpclient
+	- db46
+	- db47
+	- jdom
+	- db42
+	- pmd
+	- httpunit
+	- openldap
+	- velocity
+	- objectweb-anttask
+	- axis
+
+pcre
+	- apache
+	- nmap
+	- php
+
+ortp
+	- linphone
+
+emacs
+	- gdb
+	- swi-prolog
+
+autoconf2.1
+	- tetex
+
+cdrdao
+	- libcdio
+	- cdrkit
+
+groff
+	- tetex
+
+perl-Storable
+	- psad
+	- perl
+
+gnome-keyring-sharp
+	- f-spot
+
+migrationtools
+	- openldap
+
+vcdimager
+	- xine-lib
+
+taglib
+	- mutagen
+	- audacity
+
+cups-drivers-lxx74
+	- printer-filters-utils
+
+automake1.4
+	- automake1.7
+	- automake
+
+fence-agents
+	- cluster
+	- resource-agents
+
+rp-pppoe
+	- drakx-installer-binaries
+
+libtheora
+	- libvorbis
+	- xulrunner
+	- mozilla-thunderbird
+	- firefox
+
+gtksourceview1
+	- gtksourceview
+
+plymouth
+	- mandriva-theme
+
+libfm
+	- pcmanfm
+
+perl-Date-Calc
+	- psad
+
+classpathx-jaf
+	- classpathx-mail
+	- gcc
+
+file
+	- php
+
+timezone
+	- postgresql8.4
+	- java-1.6.0-openjdk
+
+curl
+	- wget
+	- cmake
+
+check
+	- gstreamer0.10
+
+bzip2
+	- firefox
+	- perl-Compress-Raw-Bzip2
+	- mozilla-thunderbird
+	- perl
+	- R-base
+	- xulrunner
+
+tix
+	- python
+	- perl-Tk
+
+packagekit
+	- gnome-power-manager
+	- gnome-packagekit
+	- upower
+
+ext2ed
+	- e2fsprogs
+
+hfsplusutils
+	- hfsutils
+
+samba4
+	- kernel
+	- rsync
+	- samba
+	- tdb
+	- talloc
+	- pilot-link
+	- kdeartwork4
+	- cyrus-imapd
+	- tevent
+	- wireshark
+
+python-clientform
+	- python-simplejson
+	- python-mechanize
+
+bzflag
+	- kernel
+	- firefox
+	- virtuoso-opensource
+	- tetex
+	- mysql
+	- virtualbox
+	- wxgtk2.8
+	- gcc
+	- samba
+	- kernel-xen-pvops
+	- vtk
+	- mozilla-thunderbird
+	- xulrunner
+	- qt4
+	- qt3
+	- python
+	- falcon
+	- kernel-xen
+	- perl-Tk
+	- htmldoc
+	- wxPythonGTK
+	- kompozer
+
+libffi
+	- python
+	- gcc
+	- xulrunner
+
+readline
+	- gdb
+	- bash
+	- mysql
+
+slang
+	- drakx-installer-binaries
+	- slrn
+
+sphinx
+	- mysql
+
+portaudio0
+	- portaudio
+
+icewm
+	- kdeartwork4
+
+nasm
+	- yasm
