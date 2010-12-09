@@ -1,0 +1,2814 @@
+busybox
+	- kernel-source-rt
+	- uClibc
+	- glibc
+	- ocfs2-tools
+	- kernel-source
+	- wvstreams
+	- ksh
+	- bash
+	- busybox-static
+
+udhcp
+	- busybox
+	- busybox-static
+
+gd
+	- graphviz-plugins
+	- php5
+	- libwmf
+	- graphviz
+
+jessie
+	- cross-avr-gcc45
+	- libxslt-python
+	- cross-hppa-gcc-icecream-backend
+	- xmlcharent
+	- gjdoc
+	- kdelibs3-devel-doc
+	- virtuoso
+	- subversion
+	- kdelibs3
+	- libgcj45
+	- gcc45
+	- kdelibs4
+	- libffi45
+	- libxslt
+	- subversion-doc
+
+libsndfile
+	- mgetty
+	- libgsm
+	- libsndfile-progs
+	- ladspa
+	- kiax
+	- sox
+	- opal
+
+jakarta-commons-fileupload
+	- jakarta-commons-pool
+
+pacemaker-mgmt
+	- cluster-glue
+	- heartbeat
+	- pacemaker
+	- pacemaker-pygui
+
+grub2
+	- kernel-source-rt
+	- grub
+
+tk
+	- ruby
+	- tcl
+	- perl-Tk
+	- nxtvepg
+
+otrs
+	- perl-Authen-SASL
+	- perl-MailTools
+	- virtuoso
+	- perl-MIME-tools
+	- perl-IO-stringy
+
+emacs-vm
+	- xemacs-packages
+
+unzip
+	- boinc-client
+	- zip
+
+excalibur
+	- geronimo-specs
+
+gtk2
+	- libqt4-sql-plugins
+	- libqt4-devel-doc
+	- perl-Gtk2
+	- python-gtk
+	- gtkmm2
+	- gtk-sharp2
+	- gftp
+	- libqt4
+	- glib2
+	- libqt4-devel-doc-data
+
+libxfce4ui
+	- libxfcegui4
+
+scout
+	- translation-update-upstream
+
+gtksourceview18
+	- gtksourceview
+
+cook
+	- kernel-source-rt
+	- gcc33
+	- glibc
+	- kernel-source
+	- wine
+
+alevt
+	- dvb
+
+aelfred
+	- hsqldb
+
+transmission
+	- celestia
+	- seamonkey
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+	- MozillaFirefox
+
+gettext-runtime
+	- vorbis-tools
+	- aspell
+	- encfs
+	- gettext-csharp
+	- mc
+	- openbox
+	- ocfs2-tools
+	- lyx
+	- gpg2
+	- gftp
+	- gettext-java
+	- aria2
+	- virtualbox-ose
+
+libid3tag
+	- libtunepimp
+
+ghostview
+	- pixmap
+
+acpica
+	- kernel-source
+	- kernel-source-rt
+
+netbeans
+	- freemarker
+	- netbeans-platform
+	- jakarta-taglibs-standard
+	- struts
+	- lucene
+	- java-1_6_0-openjdk
+	- ecj-bootstrap
+
+drbd
+	- kernel-source
+
+sblim-sfcb
+	- sblim-sfcc
+
+libzypp
+	- zypper
+
+lensfun
+	- tre
+
+libxslt
+	- cross-avr-gcc45
+	- fvwm2
+	- cross-hppa-gcc-icecream-backend
+	- yast2-devtools
+	- limal-devtools
+	- kdelibs3-devel-doc
+	- howto
+	- subversion-doc
+	- capisuite
+	- virtuoso
+	- kdelibs3
+	- libgcj45
+	- libxslt-python
+	- gcc45
+	- kdelibs4
+	- libffi45
+	- gnucash-docs
+	- boost
+	- virtualbox-ose
+	- boost-jam
+
+multipath-tools
+	- util-linux
+
+mono-core
+	- pdfmod
+	- ocaml
+	- banshee-1
+	- virtuoso
+	- monotorrent
+	- monodevelop
+	- tango-icon-theme
+	- gtk-sharp2
+	- google-gadgets
+	- moonlight
+	- mono-tools
+	- povray
+	- virtualbox-ose
+	- mono-uia
+	- xsp
+	- kompozer
+	- mono-addins
+	- gdata-sharp
+
+blocxx
+	- blocxx-doc
+
+celt
+	- speex
+
+libproxy
+	- libproxy-plugins
+
+libgalago-gtk
+	- galago-gtk-sharp
+
+jakarta-commons-compress
+	- jakarta-commons-vfs
+	- jakarta-commons-dbcp
+
+boost
+	- libsmbios
+	- lyx
+	- virtualbox-ose
+
+nant
+	- netcdf
+
+autotrace
+	- netpbm
+	- gimp
+
+commoncpp2
+	- libccrtp
+
+xorg-x11-libX11
+	- xorg-x11-server
+
+libcap1
+	- libcap
+
+bogofilter
+	- fetchmail
+
+leafpad
+	- mousepad
+
+gle
+	- tulip
+
+libgweather
+	- gnome-applets
+
+libdb-4_5
+	- jcifs
+	- berkeleydb
+	- libdb_java-4_5
+	- jetty5
+	- howto
+	- jing
+	- perl
+	- batik
+	- velocity
+	- rpm-python
+	- htdig
+	- axis
+	- rpm
+	- jakarta-commons-httpclient3
+
+xml-im-exporter
+	- jdom
+	- OpenOffice_org-extensions
+	- hsqldb
+	- jaxen-bootstrap
+
+lilypond
+	- yodl
+
+libapr1
+	- libtcnative-1-0
+	- libapr-util1
+	- apache2
+
+gcc33
+	- libqt4-sql-plugins
+	- gdb
+	- libgcj43
+	- libgcj41
+	- MozillaFirefox
+	- libqt4-devel-doc
+	- samba
+	- uClibc
+	- glibc
+	- gcc41
+	- gcc43
+	- gcc45
+	- libffi45
+	- java-1_6_0-openjdk
+	- optipng
+	- ksh
+	- kernel-source-rt
+	- cross-hppa-gcc-icecream-backend
+	- clamav
+	- povray
+	- gnu-crypto
+	- mono-core
+	- virtuoso
+	- mozilla-xulrunner192
+	- perl-Tk
+	- libgcj33
+	- virtualbox-ose
+	- cross-avr-gcc45
+	- samba-doc
+	- zlib
+	- libgcj45
+	- moonlight
+	- ghostscript-library
+	- libqt4
+	- tkimg
+	- kompozer
+	- libqt4-devel-doc-data
+	- wine
+
+clutter-sharp
+	- f-spot
+	- gtk-sharp2
+	- gio-sharp
+
+libgcj41
+	- java-1_6_0-openjdk
+	- gcc41
+	- gnu-crypto
+
+sfftobmp
+	- sffview
+
+python-lxml
+	- python-paramiko
+
+celestia
+	- mozilla-xulrunner192
+	- mysql-gui-tools
+	- aranym
+	- MozillaFirefox
+	- kompozer
+
+perl
+	- parrot
+
+gcc41
+	- jessie
+	- cross-avr-gcc45
+	- cross-hppa-gcc-icecream-backend
+	- virtuoso
+	- libgcj45
+	- gcc43
+	- libgcj43
+	- gcc45
+	- libgcj41
+	- libffi45
+
+qca
+	- libqca2
+
+libffi45
+	- ocfs2-tools
+	- berkeleydb
+	- libgcj41
+	- gcc33
+	- uim
+	- google-gadgets
+	- gdb
+	- gnu-inetlib
+	- gc
+	- idutils
+	- cross-arm-binutils
+	- python-base
+	- MozillaFirefox
+	- python3-doc
+	- python-doc
+	- mono-debugger
+	- mono-core
+	- tar
+	- kernel-source
+	- valgrind
+	- gjdoc
+	- kdelibs3-devel-doc
+	- w3m
+	- uClibc
+	- gcc41
+	- gcc43
+	- mozilla-xulrunner192
+	- gcc45
+	- povray
+	- java-1_6_0-openjdk
+	- boost
+	- ghostscript-library
+	- kernel-source-rt
+	- virtualbox-ose
+	- cross-hppa-gcc-icecream-backend
+	- python
+	- clamav
+	- cpio
+	- virtuoso
+	- cross-hppa-binutils
+	- cross-alpha-binutils
+	- tkimg
+	- perl-Tk
+	- libgcj33
+	- python3
+	- cross-avr-gcc45
+	- scribus
+	- libgcj45
+	- cross-i386-binutils
+	- gnu-jaf
+	- moonlight
+	- kdelibs3
+	- jna
+	- cross-avr-binutils
+	- bison
+	- binutils
+	- kdelibs4
+	- wine
+	- libgcj43
+	- classpathx-mail
+	- kompozer
+	- glibc
+	- a2ps
+	- boost-jam
+
+squid
+	- squid3
+	- squid-beta
+
+sblim-cmpi-nfsv4
+	- sblim-cmpi-nfsv3
+
+javacc3
+	- javacc
+
+python-simplejson
+	- python-sphinx
+	- python
+	- python3-doc
+	- python-base
+	- python-doc
+	- python3
+
+gnome-mag
+	- hamster-applet
+
+flac
+	- libtunepimp
+	- vorbis-tools
+
+koffice2
+	- seamonkey
+	- koffice2-doc
+	- scribus
+	- kdelibs3-devel-doc
+	- kdeedu4-noarch
+	- kdeedu4
+	- MozillaThunderbird
+	- mozilla-xulrunner191
+	- kdelibs3
+	- kdegraphics4
+	- mozilla-xulrunner192
+	- ghostscript-library
+	- kdelibs4
+	- k3b
+	- kdebase3
+	- MozillaFirefox
+	- OpenOffice_org-filters
+	- virtualbox-ose
+	- gimp
+
+python-dateutil
+	- Supybot
+
+usbip
+	- kernel-source
+	- kernel-source-rt
+
+ghostscript-cjk
+	- poppler-data
+	- ghostscript-library
+
+kdewebdev4
+	- qt3-extensions
+	- qt3
+	- kdewebdev3
+	- qt3-devel-doc
+
+hfsutils
+	- wodim
+
+libedit
+	- mono-debugger
+	- firebird
+	- mysql-cluster
+	- mysql-community-server
+	- lukemftp
+	- mariadb
+	- OpenIPMI
+
+kdewebdev3
+	- php-doc
+
+saxon8
+	- xalan-j2
+	- saxon
+
+seahorse
+	- seahorse-plugins
+
+limal
+	- limal-ca-mgm
+	- limal-nfs-server
+	- limal-devtools
+	- limal-runlevel
+
+lcms
+	- java-1_6_0-openjdk
+
+krb5
+	- librpcsecgss
+	- samba
+	- krb5-doc
+	- samba-doc
+	- glibc
+	- global
+	- scotty
+	- e2fsprogs
+	- uClibc
+	- libtirpc
+	- krb5-appl
+	- krb5-mini
+	- libgssglue
+
+tar
+	- texinfo
+
+gnome-themes
+	- gnome-themes-extras
+
+atk
+	- MozillaFirefox
+	- seamonkey
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+
+python-logilab-astng
+	- python-pylint
+
+htdig
+	- wwwoffle
+
+xerces-j2
+	- xmlbeans
+	- xerces-c
+	- ws-jaxme
+	- tomcat6
+	- java-1_6_0-openjdk
+	- xalan-j2
+	- xmlbeans-mini
+	- xerces-j2-bootstrap
+
+libdnet
+	- nmap
+
+libcares2
+	- bzflag
+
+OpenOffice_org-bootstrap
+	- OpenOffice_org-components
+
+brp-check-suse
+	- perl-XML-SAX
+
+qtcurve-gtk2
+	- qtcurve-kde4
+
+IlmBase
+	- opencv
+
+libmusicbrainz
+	- libtunepimp
+
+mariadb
+	- mono-debugger
+	- firebird
+	- mysql-cluster
+	- mysql-community-server
+	- libpt2
+	- gdb
+	- php5
+	- mysql-workbench
+
+man
+	- parted
+	- tar
+	- augeas
+	- lyx
+	- liblouis
+	- gdb
+	- gftp
+	- findutils
+	- texinfo
+	- libgsasl
+	- sitecopy
+	- novel-pinyin
+	- gtkpbbuttons
+	- fastjar
+	- wvstreams
+	- libunistring
+	- pbbuttonsd
+	- glibc
+	- scim-bridge
+	- upstart
+	- scim-hangul
+	- clisp
+	- powerprefs
+	- msmtp
+	- uClibc
+	- sharutils
+	- libidn
+	- cpio
+	- gpg2
+	- cadaver
+	- libnih
+	- gawk
+	- gnutls
+	- gettext-java
+	- libvirt
+	- gpsdrive
+	- xchat
+	- gettext-csharp
+	- ocfs2-tools
+	- wdiff
+	- libtasn1
+	- patch
+	- nagios-plugins
+	- gettext-runtime
+	- bison
+	- gzip
+	- python-louis
+	- aria2
+	- amanda
+	- hello
+	- idutils
+
+asm2
+	- objectweb-asm
+	- asm
+
+wxGTK
+	- scintilla
+	- seamonkey
+	- mozilla-xulrunner191
+
+re2c
+	- yasm
+
+OpenOffice_org-help-en-US
+	- OpenOffice_org-base
+	- OpenOffice_org-components
+	- OpenOffice_org-help-group1
+	- OpenOffice_org-libs-core
+	- OpenOffice_org-help-group5
+	- OpenOffice_org-help-group2
+	- OpenOffice_org-calc
+	- OpenOffice_org-help-group4
+	- OpenOffice_org-writer
+	- OpenOffice_org-l10n-extras
+	- OpenOffice_org-libs-extern
+	- OpenOffice_org-help-group3
+	- OpenOffice_org-impress
+	- OpenOffice_org-libs-gui
+	- OpenOffice_org-extensions
+	- OpenOffice_org-ure
+
+NetworkManager-openvpn
+	- NetworkManager-pptp
+
+python3-doc
+	- python-doc
+
+pciutils
+	- sax2
+
+emacs-auctex
+	- xemacs-packages
+
+epydoc
+	- python-paramiko
+
+elib
+	- xemacs-packages
+
+opensp
+	- sgmltool
+	- python-pygments
+	- opensp-doc
+	- openjade
+
+libwpg
+	- libwps
+
+libwpd
+	- libwps
+
+jpeg
+	- libqt4-sql-plugins
+	- povray
+	- MozillaFirefox
+	- libqt4-devel-doc
+	- fltk
+	- opencv
+	- libjpeg6
+	- qt3-devel-doc
+	- java-1_6_0-openjdk
+	- qt3
+	- seamonkey
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+	- perl-Tk
+	- htmldoc
+	- wxGTK
+	- boinc-client
+	- ghostscript-library
+	- libqt4
+	- tkimg
+	- kompozer
+	- libqt4-devel-doc-data
+	- qt3-extensions
+
+graphviz
+	- kernel-source-rt
+	- gnash
+	- gcc33
+	- clamav
+	- libgcj33
+	- redland
+	- GraphicsMagick
+	- kernel-source
+	- openmpi
+	- php5
+	- graphviz-plugins
+	- ImageMagick
+	- courier-authlib
+	- ksh
+	- inkscape
+
+jna
+	- MozillaFirefox
+	- jetty5
+	- netbeans
+	- mozilla-xulrunner192
+	- netbeans-platform
+
+opensc
+	- eID-belgium
+
+google-perftools
+	- openmpi
+
+libxfcegui4
+	- xfce4-icon-theme
+
+m17n-db
+	- perl
+
+anjuta
+	- monodevelop
+	- geany
+
+xen
+	- kernel-source
+	- linux-glibc-devel
+	- kernel-source-rt
+
+xorg-x11
+	- xorg-x11-server
+
+kdebindings4
+	- mono-kde4
+	- python-kde4
+	- kdevelop4
+	- qt4-qtscript
+	- howto
+	- ruby-kde4
+	- kdelibs3-devel-doc
+	- kdeedu4-noarch
+	- kdeedu4
+	- python-pysvn
+	- kdelibs3
+	- kdelibs4
+	- smoke-generator
+	- kdiff3
+	- kdevplatform
+
+lablgtk2
+	- ocaml
+
+qt3-devel-doc
+	- libqt4-sql-plugins
+	- libgcj45
+	- libgcj43
+	- libgcj41
+	- libqt4-devel-doc
+	- samba
+	- gcc41
+	- gcc43
+	- gcc45
+	- optipng
+	- libffi45
+	- cross-hppa-gcc-icecream-backend
+	- povray
+	- clamav
+	- virtuoso
+	- perl-Tk
+	- virtualbox-ose
+	- cross-avr-gcc45
+	- samba-doc
+	- zlib
+	- ghostscript-library
+	- libqt4
+	- tkimg
+	- kompozer
+	- libqt4-devel-doc-data
+	- qt3-extensions
+
+lirc
+	- lirc-kernel
+
+libmikmod
+	- pysol
+
+apel
+	- xemacs-packages
+
+pixman
+	- libgdiplus0
+	- seamonkey
+	- moonlight
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+	- MozillaFirefox
+	- virtualbox-ose
+
+flex
+	- flex-old
+
+python
+	- python-base
+	- bzr
+	- python-bsddb3
+	- python-doc
+
+jakarta-commons-el
+	- jakarta-taglibs-standard
+
+libidn
+	- glibc
+	- psi
+
+emacs-w3
+	- xemacs-packages
+
+libgcj33
+	- kernel-source-rt
+	- psi
+	- xfsprogs
+	- gcc33
+	- glibc
+	- splint
+	- cook
+	- lilo
+	- wine
+
+lxde-common
+	- lxde-common-branding-openSUSE
+
+apache2-mod_tidy
+	- tidy
+
+libjingle
+	- kdenetwork4
+
+jakarta-commons-beanutils
+	- jakarta-commons-digester
+
+batik
+	- fop
+
+cairo
+	- libgdiplus0
+	- seamonkey
+	- moonlight
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+	- MozillaFirefox
+	- kompozer
+
+scim-qtimm
+	- libdbus-1-qt3-0
+	- arts
+	- celestia
+	- kdelibs3-devel-doc
+	- scim-hangul
+	- kmymoney
+	- kdebase3
+	- scim-tables
+	- sim
+	- kscope
+	- klamav
+	- konserve
+	- libakode
+	- kbiff
+	- taglib
+	- pgcalc
+	- kdewebdev3
+	- scim-pinyin
+	- scribus
+	- kdelibs3
+	- ksimus
+
+bluez
+	- obexd
+	- bluez-gstreamer
+	- pulseaudio
+
+facter
+	- puppet
+
+xslide
+	- xemacs-packages
+
+freeglut
+	- xorg-x11-xtrans-devel
+	- clutter-box2d
+
+dvbstream
+	- vdr-plugin-streamdev
+
+ftp
+	- krb5-appl
+	- lukemftp
+
+perl-Set-Object
+	- perl-Set-Scalar
+
+gtk2-metatheme-gilouche
+	- gtk2-metatheme-sonar
+
+poppler
+	- poppler-qt
+	- kdelibs4
+
+ccache
+	- swig
+
+jaxen-bootstrap
+	- jakarta-poi
+	- log4j-mini
+	- saxon
+	- saxon8
+	- jdom
+	- struts
+	- JTOpen
+	- log4j
+	- hsqldb
+	- xml-im-exporter
+	- junit
+	- jakarta-commons-httpclient3
+
+optipng
+	- libqt4-sql-plugins
+	- gcc33
+	- libgcj45
+	- libgcj43
+	- libgcj41
+	- mono-core
+	- samba
+	- gcc41
+	- gcc43
+	- gcc45
+	- libffi45
+	- cross-hppa-gcc-icecream-backend
+	- povray
+	- clamav
+	- libqt4-devel-doc
+	- virtuoso
+	- perl-Tk
+	- libgcj33
+	- virtualbox-ose
+	- cross-avr-gcc45
+	- samba-doc
+	- zlib
+	- moonlight
+	- ghostscript-library
+	- libqt4
+	- tkimg
+	- kompozer
+	- libqt4-devel-doc-data
+
+vigra
+	- hugin
+	- enblend-enfuse
+
+jakarta-commons-dbcp
+	- jakarta-commons-net
+	- jakarta-commons-vfs
+	- jakarta-commons-pool
+
+scintilla
+	- wxGTK
+	- apparmor-profile-editor
+	- geany
+	- python-qscintilla
+	- anjuta-extras
+	- qscintilla
+
+ecj
+	- ecj-bootstrap
+
+gnumeric
+	- goffice
+
+libbeecrypt6
+	- rpm-python
+	- rpm
+
+bash
+	- compat-readline4
+	- mysql-cluster
+	- mysql-community-server
+	- libreadline5
+	- gdb
+	- mariadb
+
+kiwi-instsource-plugins-openSUSE-11-2
+	- kiwi
+	- kiwi-instsource-plugins-openSUSE-11-1
+	- kiwi-instsource-plugins-openSUSE-11-3
+
+potrace
+	- inkscape
+
+gtk-sharp-beans
+	- f-spot
+
+amavisd-new
+	- lessons4lizards_en
+	- apparmor-admin_en
+	- libxml2
+	- kdelibs3-devel-doc
+	- howto
+	- asciidoc
+	- capisuite
+	- susedoc
+	- kdelibs3
+	- libxml2-python
+	- libxslt-python
+	- kdelibs4
+	- libxslt
+	- virtuoso
+	- opensuse-manuals_de
+	- opensuse-manuals_en
+	- virtualbox-ose
+	- subversion-doc
+
+gnome-media
+	- gnome-settings-daemon
+
+openssh
+	- pam_ssh
+	- openssh-askpass-gnome
+	- uim
+	- tmux
+
+openssl
+	- nmap
+	- libopenssl0_9_8
+	- strongswan
+	- boinc-client
+	- compat-openssl097g
+
+capisuite
+	- freemarker
+	- kdelibs3-devel-doc
+	- virtuoso
+	- kdelibs3
+	- subversion-doc
+	- kdelibs4
+	- xmlstarlet
+
+heartbeat
+	- resource-agents
+
+ekiga
+	- gtk2
+
+xalan-c
+	- xalan-j2
+
+ccaudio2
+	- commoncpp2
+
+gnome-applets
+	- xfce4-panel-plugins
+
+gnome-python-desktop
+	- python-gnome
+
+imagewriter
+	- kiwi
+
+bsd-games
+	- man-pages-ja
+
+gpa
+	- gpg2
+
+python-coherence
+	- python-louie
+
+Mesa
+	- MesaGLw
+	- xorg-x11-driver-video-intel-legacy
+	- xorg-x11-server
+	- xorg-x11-driver-video
+	- kernel-source
+	- virtualbox-ose
+
+fftw3
+	- blender
+
+jzlib
+	- jessie
+
+libslab
+	- gnome-control-center
+
+gnome-netstatus
+	- lxpanel
+
+rrdtool
+	- xine-lib
+
+gpg2
+	- libksba
+	- gpgme
+
+obconf
+	- openbox
+
+kernel-firmware
+	- pcmciautils
+
+swing-layout
+	- OpenOffice_org-extensions
+
+libevent
+	- openmpi
+	- MozillaFirefox
+	- mariadb
+	- transmission
+	- mozilla-xulrunner192
+
+libzip1
+	- php5
+
+grep
+	- parted
+	- tar
+	- gdb
+	- idutils
+	- cross-arm-binutils
+	- glibc
+	- lftp
+	- heroes-tron
+	- sharutils
+	- cpio
+	- cross-hppa-binutils
+	- cross-alpha-binutils
+	- gettext-java
+	- gettext-csharp
+	- ocfs2-tools
+	- cross-i386-binutils
+	- gettext-runtime
+	- cross-avr-binutils
+	- bison
+	- binutils
+	- a2ps
+	- findutils
+
+freetype2
+	- libqt4-sql-plugins
+	- libqt4-devel-doc
+	- gcc33
+	- mozilla-xulrunner192
+	- libqt4
+	- MozillaFirefox
+	- ft2demos
+	- libgcj33
+	- libqt4-devel-doc-data
+
+dtc
+	- kernel-source
+	- kvm
+	- kernel-source-rt
+
+opensuse-manuals_de
+	- apparmor-admin_en
+	- opensuse-manuals_en
+
+libapparmor1
+	- limal
+
+kdeedu4
+	- python-kdebase4
+	- kdebase4-wallpapers
+	- kdevelop4
+	- kdelibs3-devel-doc
+	- kdesdk4
+	- kdebase3
+	- kdenetwork4
+	- kdebase4-workspace
+	- kdepimlibs4
+	- koffice2-doc
+	- koffice2
+	- openclipart
+	- oxygen-icon-theme
+	- kdeedu4-noarch
+	- moblin-app-installer
+	- kdelibs3
+	- kdegraphics4
+	- kdelibs4
+	- k3b
+	- kdeutils4
+	- kdepim4
+
+perl-Encode-Detect
+	- mozilla-xulrunner192
+	- seamonkey
+	- amarok
+	- mozilla-xulrunner191
+	- kdelibs4
+	- MozillaThunderbird
+	- MozillaFirefox
+	- kompozer
+
+kdelibs3
+	- tulip
+	- kernel-source-rt
+	- fvwm2
+	- yzis
+	- koffice2-doc
+	- glibc
+	- kdelibs3-devel-doc
+	- kdebase3
+	- kernel-source
+	- jedit
+	- kdebase4-runtime
+	- subversion-doc
+	- kdelibs4
+	- koffice2
+	- cook
+	- xorg-x11-libICE
+	- kdiff3
+	- enchant
+	- virtualbox-ose
+
+doxywizard
+	- doxygen
+	- qt3-extensions
+	- qt3
+	- qt3-devel-doc
+
+libccrtp
+	- libzrtpcpp
+
+gnome-keyring-sharp
+	- tomboy
+	- f-spot
+
+libcroco
+	- gettext-runtime
+	- gettext-java
+	- gettext-csharp
+	- inkscape
+
+jmock
+	- mockobjects
+
+ndesk-dbus
+	- f-spot
+	- uiadbus
+	- mono-zeroconf
+	- last-exit
+	- at-spi-sharp
+
+xorg-x11-driver-video
+	- xorg-x11-driver-video-intel-legacy
+
+ant
+	- lucene
+	- jakarta-poi
+	- ant-antlr
+	- tomcat6
+	- ecj-bootstrap
+
+xml-commons
+	- cross-avr-gcc45
+	- cross-hppa-gcc-icecream-backend
+	- gcc33
+	- java-1_6_0-openjdk
+	- relaxngDatatype
+	- gcc41
+	- libgcj45
+	- gcc43
+	- libgcj43
+	- gcc45
+	- libgcj41
+	- libffi45
+	- crimson
+	- regexp
+	- xml-commons-apis-bootstrap
+	- libgcj33
+	- xpp2
+
+libsatsolver
+	- libzypp-testsuite-tools
+
+gstreamer-0_10
+	- xine-lib
+	- aspell
+	- encfs
+	- gettext-csharp
+	- gstreamer-0_10-plugins-good
+	- gawk
+	- gettext-runtime
+	- gftp
+	- clisp
+	- gstreamer-0_10-doc
+	- gettext-java
+	- man
+
+libdvdnav
+	- xine-lib
+	- libdvdread
+
+uClibc
+	- kernel-source-rt
+	- grub2
+	- glibc
+	- kernel-source
+
+scons
+	- lprof
+	- blender
+
+yast2-pkg-bindings
+	- yast2-pkg-bindings-devel-doc
+
+tvtime
+	- xine-lib
+	- gstreamer-0_10-plugins-good
+
+alsa
+	- kernel-source
+	- kernel-source-rt
+
+canna
+	- fwnn
+
+python-zope-event
+	- python-zope-proxy
+
+man-pages-ko
+	- man-pages-it
+	- man-pages-ja
+	- man-pages-fr
+	- man-pages-zh_CN
+	- man-pages-ru
+	- man-pages
+
+libcddb
+	- libcddb-utils
+
+fastjar
+	- parted
+	- gcc33
+	- augeas
+	- gdb
+	- findutils
+	- libgcj41
+	- texinfo
+	- libgsasl
+	- tar
+	- libunistring
+	- gcc41
+	- clisp
+	- msmtp
+	- libidn
+	- cpio
+	- libvirt
+	- gnutls
+	- gettext-java
+	- wvstreams
+	- libgcj33
+	- man
+	- gettext-csharp
+	- ocfs2-tools
+	- wdiff
+	- patch
+	- nagios-plugins
+	- gettext-runtime
+	- bison
+	- gzip
+	- amanda
+	- hello
+	- idutils
+
+freeradius-server
+	- squid3
+	- squid
+	- pam_smb
+	- squid-beta
+
+jedit
+	- gnu-regexp
+	- gcc41
+	- gcc43
+	- libgcj43
+	- libgcj41
+
+bsh
+	- bsh2
+	- jedit
+
+t1lib
+	- xmgrace
+
+sdparm
+	- sg3_utils
+
+mozilla-nspr
+	- gnash
+	- seamonkey
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+	- MozillaFirefox
+	- kompozer
+	- mozilla-nss
+	- virtualbox-ose
+
+jflex
+	- jflex-bootstrap
+	- java-cup
+	- java-cup-bootstrap
+
+exo
+	- libfm
+	- thunar
+
+hyena
+	- tomboy
+	- banshee-1
+
+ipsec-tools
+	- iputils
+	- novell-ipsec-tools
+
+kdeartwork4
+	- kdeartwork4-noarch
+	- licq
+	- kdebase4-runtime
+	- plasma-addons
+
+WindowMaker-applets
+	- xemacs-packages
+
+CodeAnalyst
+	- oprofile
+
+OpenOffice_org-LanguageTool
+	- xemacs-packages
+
+freeradius-client
+	- ppp
+
+python-qscintilla
+	- gtkmm2
+	- libqca2
+	- ImageMagick
+	- libxml++
+	- rpm
+	- libpqxx
+	- libsigc++2
+	- cairomm
+	- qscintilla
+	- wt
+	- rpm-python
+	- pam_pkcs11
+	- pangomm
+	- libgtksourceviewmm
+	- at-spi
+	- gnome-vfsmm
+	- icu
+	- glibmm2
+
+popt
+	- rsync
+	- samba
+	- pilot-link
+	- samba-doc
+
+iso_ent
+	- xemacs-packages
+	- sgmltool
+
+blender
+	- seamonkey
+	- extreme-tuxracer
+	- MozillaThunderbird
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- ftgl
+	- MozillaFirefox
+	- mysql-gui-tools
+	- kompozer
+
+gobject-introspection
+	- vala
+
+gjdoc
+	- jessie
+	- cross-avr-gcc45
+	- cross-hppa-gcc-icecream-backend
+	- virtuoso
+	- libgcj45
+	- gcc43
+	- libgcj43
+	- gcc45
+	- libffi45
+
+PolicyKit
+	- PolicyKit-doc
+
+ksh
+	- kernel-source-rt
+	- gcc33
+	- glibc
+	- kernel-source
+	- gdb
+	- wine
+
+freetype
+	- ghostscript-library
+
+goffice
+	- abiword
+
+cpio
+	- cross-alpha-binutils
+	- tar
+	- glibc
+	- cross-i386-binutils
+	- grub2
+	- gdb
+	- cross-avr-binutils
+	- bison
+	- findutils
+	- cross-arm-binutils
+	- cross-hppa-binutils
+	- man
+	- texinfo
+	- ocfs2-tools
+	- binutils
+	- idutils
+
+liboil
+	- swfdec
+	- orc
+
+mgp
+	- xli
+
+kbd
+	- man-pages-zh_CN
+
+libgalago
+	- galago-sharp
+
+fvwm2
+	- xclass
+
+xlockmore
+	- xpuzzles
+
+NetworkManager-gnome
+	- network-manager-netbook
+
+idzebra
+	- yaz
+
+perl-Class-Spiffy
+	- perl-Spiffy
+	- grepmail
+	- perl-IO-Digest
+	- perl-PerlIO-via-dynamic
+
+adaptx
+	- castor
+
+libqt4
+	- libqt4-sql-plugins
+	- gcc33
+	- libwebkit
+	- arora
+	- clucene-core
+	- MozillaFirefox
+	- libqt4-devel-doc
+	- netbeans
+	- kdebindings4
+	- ruby-kde4
+	- openmpi
+	- id3lib
+	- java-1_6_0-openjdk
+	- xorg-x11-fonts
+	- python-kde4
+	- qt4-qtscript
+	- seamonkey
+	- clamav
+	- virtuoso
+	- qt-creator
+	- virtualbox-ose
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+	- libgcj33
+	- clanlib
+	- mono-kde4
+	- smoke-generator
+	- bitstream-vera
+	- rosegarden4
+	- kdelibs4
+	- k3b
+	- mysql-workbench
+	- kompozer
+	- libqt4-devel-doc-data
+
+tix
+	- python
+	- python-base
+	- python-doc
+	- python3
+	- python3-doc
+
+nss-ldapd
+	- openldap2-client
+	- evoldap2-client
+	- openldap2
+
+SDL
+	- virtualbox-ose
+
+google-gadgets
+	- gnash
+	- seamonkey
+	- clamav
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+	- MozillaFirefox
+	- kompozer
+	- virtualbox-ose
+
+kernel-source
+	- kernel-source-rt
+
+iscan-free
+	- sane-backends
+
+ifolder3
+	- simias
+
+libaio
+	- xen
+
+kdebase4-openSUSE
+	- kio_sysinfo-branding-upstream
+	- kdebase4-runtime
+
+OpenOffice_org-templates-presentation-layouts
+	- OpenOffice_org-templates-ru
+
+lua
+	- gtk2-engines
+	- lua50
+	- nmap
+
+libgnome
+	- libwnck
+	- libgnomeui
+
+perl-BerkeleyDB
+	- libdb-4_5
+	- rpm
+	- rpm-python
+	- libdb_java-4_5
+
+qt3
+	- libqt4-sql-plugins
+	- gcc33
+	- python-qscintilla
+	- libgcj45
+	- libgcj43
+	- libgcj41
+	- MozillaFirefox
+	- blender
+	- libqt4-devel-doc
+	- samba
+	- fltk
+	- opencv
+	- kdebindings4
+	- ruby-kde4
+	- libpng14
+	- gcc41
+	- qscintilla
+	- gcc43
+	- gcc45
+	- python-qt4
+	- libffi45
+	- java-1_6_0-openjdk
+	- php5
+	- optipng
+	- python-kde4
+	- seamonkey
+	- cross-hppa-gcc-icecream-backend
+	- qt3-devel-doc
+	- povray
+	- clamav
+	- mono-core
+	- virtuoso
+	- wxGTK
+	- syslinux
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- tkimg
+	- MozillaThunderbird
+	- libpng12
+	- perl-Tk
+	- libgcj33
+	- virtualbox-ose
+	- htmldoc
+	- mono-kde4
+	- cross-avr-gcc45
+	- smoke-generator
+	- samba-doc
+	- kdewebdev3
+	- zlib
+	- moonlight
+	- ghostscript-library
+	- libqt4
+	- opensc
+	- kompozer
+	- libqt4-devel-doc-data
+	- qt3-extensions
+
+xorg-x11-doc
+	- xorg-x11-server
+
+pixmap
+	- xorg-x11
+
+OpenEXR
+	- opencv
+
+gwibber
+	- OpenOffice_org-artwork
+
+portaudio
+	- audacity
+	- kiax
+
+myspell-dictionaries
+	- OpenOffice_org-libs-extern
+
+newt
+	- mysql-gui-tools
+
+f2c
+	- libgcj33
+	- gcc33
+
+perl-HTML-Template
+	- perl-HTML-Template-JIT
+
+libiniparser
+	- samba
+	- samba-doc
+
+libical
+	- MozillaThunderbird
+	- claws-mail-extra-plugins
+	- seamonkey
+	- orage
+
+binutils
+	- mono-debugger
+	- cross-alpha-binutils
+	- tar
+	- mysql-community-server
+	- glibc
+	- cross-i386-binutils
+	- uClibc
+	- gdb
+	- cross-avr-binutils
+	- cross-hppa-binutils
+	- findutils
+	- cross-arm-binutils
+	- man
+	- ocfs2-tools
+	- idutils
+
+gnuserv
+	- xemacs
+
+xscreensaver
+	- xlockmore
+
+namazu
+	- perl-File-MMagic
+	- wwwoffle
+
+limal-apparmor-control
+	- pam-config
+
+qemu
+	- virt-utils
+	- kernel-source-rt
+	- rdesktop
+	- cross-alpha-binutils
+	- kernel-source
+	- hwinfo
+	- glibc
+	- kvm
+	- cross-i386-binutils
+	- grub2
+	- gdb
+	- cross-avr-binutils
+	- cross-hppa-binutils
+	- virtualbox-ose
+	- cross-arm-binutils
+	- xen
+	- binutils
+
+syslinux
+	- kernel-source-rt
+	- grub
+	- kvm
+	- kernel-source
+	- virtualbox-ose
+
+glib2
+	- pkg-config
+
+pdsh
+	- powerman
+
+telnet
+	- krb5-appl
+
+python-zodb3
+	- python-zopeinterface
+
+libpng12
+	- seamonkey
+	- mozilla-xulrunner192
+	- tkimg
+	- povray
+	- MozillaThunderbird
+	- ghostscript-library
+	- koffice2-doc
+	- koffice2
+	- tcllib
+	- MozillaFirefox
+	- perl-Tk
+	- libpng14
+	- virtualbox-ose
+	- mozilla-xulrunner191
+
+gnuchess
+	- gnome-games
+
+imap
+	- pilot-mailsync
+	- tkrat
+	- alpine
+
+metacity
+	- mutter
+
+libmal
+	- gnome-pilot-conduits
+	- libmal1
+
+hostapd
+	- wpa_supplicant
+
+mozilla-nss
+	- xorg-x11-util-devel
+	- seamonkey
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+	- MozillaFirefox
+	- kompozer
+
+ConsoleKit
+	- ConsoleKit-doc
+
+edict-emacs
+	- xemacs-packages
+
+avahi
+	- avahi-qt4
+	- pulseaudio
+	- avahi-glib2
+	- avahi-mono
+
+libselinux
+	- kernel-source-rt
+	- libselinux-bindings
+
+gnome-menus
+	- menu-cache
+
+grip
+	- timidity
+
+systemtap
+	- kernel-source
+	- systemtap-docs
+
+tunctl
+	- uml-utilities
+
+libxml2
+	- netbeans
+	- jdom
+	- libxml
+	- subversion-doc
+	- libxslt
+	- asio
+	- kdelibs3
+	- kdelibs3-devel-doc
+	- boost
+	- lftp
+	- libxslt-python
+	- howto
+	- libvirt
+	- xemacs-packages
+	- gettext-java
+	- virtuoso
+	- virtualbox-ose
+	- gettext-csharp
+	- amavisd-new
+	- capisuite
+	- gettext-runtime
+	- libxml2-python
+	- kdelibs4
+	- boost-jam
+
+gmime
+	- gmime-2_4
+
+expat
+	- syncevolution
+	- python-base
+	- cmake-gui
+	- MozillaFirefox
+	- python-doc
+	- sitecopy
+	- cmake
+	- apache2
+	- wbxml2
+	- pyxml
+	- python
+	- seamonkey
+	- cadaver
+	- libapr-util1
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+	- python3
+	- wxGTK
+	- python3-doc
+	- ghostscript-library
+	- libexpat0
+	- kompozer
+	- tdom
+
+Botan
+	- python-cryptopp
+
+kdemultimedia4
+	- kdesdk4
+
+MozillaFirefox
+	- netbeans
+	- kernel-source
+	- libgluezilla0
+	- inkscape
+	- bzip2
+	- syslinux
+	- netbeans-platform
+	- celestia
+	- perl
+	- python-xpcom192
+	- openmotif22-libs
+	- openmpi
+	- ecj-bootstrap
+	- kdebase3
+	- mozilla-nss
+	- kdebase4
+	- kernel-source-rt
+	- seamonkey
+	- gnash
+	- protobuf
+	- bug-buddy
+	- ntop
+	- clamav
+	- virtuoso
+	- p7zip
+	- java-1_6_0-openjdk
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- mysql-workbench
+	- MozillaThunderbird
+	- mariadb
+	- virtualbox-ose
+	- bind
+	- kdelibs4
+	- libcppunit-1_12-0
+	- mysql-gui-tools
+	- kompozer
+
+mono-addins
+	- f-spot
+	- monodevelop
+
+xfwm4
+	- xfwm4-themes
+
+libgnome-keyring
+	- gnome-keyring
+
+jakarta-commons-net
+	- netcomponents
+
+jakarta-commons-digester
+	- tomcat6
+
+sqlite3
+	- subversion
+
+sqlite2
+	- php5
+	- kompozer
+	- qt3-extensions
+	- qt3
+	- qt3-devel-doc
+
+psgml
+	- xemacs-packages
+
+log4j
+	- jcifs
+	- berkeleydb
+	- jdom
+	- OpenOffice_org-LanguageTool
+	- jing
+	- log4j-mini
+	- oro
+	- rpm-python
+	- jetty5
+	- velocity
+	- axis
+	- rpm
+	- jakarta-commons-httpclient3
+
+itcl
+	- itk
+
+opencdk
+	- gnutls
+
+superlu
+	- opencv
+	- blender
+
+unixODBC
+	- unixODBC-gui-qt
+
+fuse
+	- ntfs-3g
+
+rt2860
+	- kernel-source-rt
+
+oniguruma
+	- php5
+
+libmpcdec
+	- xine-lib
+
+audit
+	- rxvt-unicode
+	- libaudit0
+	- audit-secondary
+
+python-zdaemon
+	- python-zodb3
+
+cross-avr-gcc45
+	- libqt4-sql-plugins
+	- mozilla-xulrunner192
+	- cross-hppa-gcc-icecream-backend
+	- libqt4-devel-doc
+	- virtuoso
+	- libgcj45
+	- virtualbox-ose
+	- gcc45
+	- kdelibs4
+	- libffi45
+	- libqt4
+	- MozillaFirefox
+	- kompozer
+	- libqt4-devel-doc-data
+
+python-mutagen
+	- taglib
+
+swfdec
+	- gnash
+
+xfce4-panel-plugins
+	- xfvnc
+
+libsigc++2
+	- stardict
+
+libchipcard4
+	- pcsc-cyberjack
+
+iproute2
+	- iptables
+	- kernel-source-rt
+	- libnl
+	- kernel-source
+	- linux-glibc-devel
+
+gsl
+	- bogofilter
+
+speex
+	- opal
+	- kiax
+
+python-gnome
+	- python-gobject2
+
+perl-Net-Jabber
+	- perl-Net-XMPP
+
+libx86
+	- xorg-x11-server
+	- virtualbox-ose
+
+antlr
+	- antlr-bootstrap
+	- kdesdk4
+	- netbeans
+
+farsight2
+	- gstreamer-0_10
+	- gstreamer-0_10-plugins-bad
+	- gstreamer-0_10-plugins-base
+	- gstreamer-0_10-plugins-ugly
+	- gstreamer-0_10-plugins-good
+	- gstreamer-0_10-doc
+	- python-gstreamer-0_10
+
+jdom
+	- jaxen-bootstrap
+	- xpp3
+
+mkvtoolnix
+	- ogmtools
+
+neon
+	- gnome-vfs2
+	- sitecopy
+	- cadaver
+
+libmicro
+	- glibc
+	- libmicro-devel
+
+iwidgets
+	- ruby
+
+gdb
+	- kernel-source-rt
+	- glibc
+	- kernel-source
+	- parted
+
+gdl
+	- inkscape
+
+samba
+	- gcc33
+	- kdeartwork4-noarch
+	- google-gadgets
+	- kernel-source
+	- libgcj43
+	- libgcj41
+	- treeline
+	- mono-core
+	- glibc
+	- qgit
+	- gcc41
+	- gcc43
+	- gcc45
+	- libffi45
+	- wireshark
+	- kernel-source-rt
+	- cross-hppa-gcc-icecream-backend
+	- tkimg
+	- povray
+	- clamav
+	- virtuoso
+	- cifs-utils
+	- gnutls
+	- perl-Tk
+	- virtualbox-ose
+	- cross-avr-gcc45
+	- samba-doc
+	- mc
+	- bind
+	- scribus
+	- zlib
+	- libgcj45
+	- moonlight
+	- ghostscript-library
+	- kdeartwork4
+
+hal
+	- hal-doc
+
+libpcap
+	- nmap
+	- wireshark
+
+perl-PDL
+	- xmgrace
+
+calibre
+	- python-chardet
+	- eric
+
+apache2
+	- apache2-mod_jk
+	- libtcnative-1-0
+
+beagle
+	- moonlight
+	- mono-core
+	- google-gadgets
+
+java-1_6_0-openjdk
+	- netbeans
+	- netbeans-platform
+
+hamcrest
+	- jmock
+
+gobby04
+	- sobby
+	- gobby
+
+pcsc-ccid
+	- pcsc-lite
+
+OpenOffice_org-templates-de
+	- OpenOffice_org-templates-en
+
+libxfce4menu
+	- thunar
+
+swig
+	- subversion
+	- cmake
+	- cmake-gui
+
+apparmor-parser
+	- apparmor-docs
+	- apparmor-utils
+
+libdrm
+	- kernel-source
+	- kernel-source-rt
+	- virtualbox-ose
+
+kdebase4-wallpapers
+	- python-kdebase4
+	- kdenetwork4
+	- kdebase4-workspace
+	- amarok
+
+iodbc
+	- virtuoso
+
+python3
+	- jython
+	- pyxml
+	- IPCE
+	- python
+	- calibre
+	- python3-doc
+	- python-base
+	- python-doc
+
+fortune
+	- bsd-games
+
+iftop
+	- tcpdump
+
+openldap2
+	- krb5
+	- evoldap2-client
+	- samba
+	- krb5-doc
+	- samba-doc
+	- libnldapx
+	- ldapcpplib
+	- openldap2-client
+	- krb5-mini
+
+libqca2
+	- psi
+
+xemacs
+	- emacs
+	- xemacs-packages
+
+unrar
+	- loki_setup
+
+gnome-settings-daemon
+	- lxsession
+
+mysql-connector-cpp
+	- OpenOffice_org-libs-extern
+
+xclass
+	- xemacs-packages
+
+libcdio
+	- libcdio-mini
+	- cdrdao
+
+idutils
+	- fastjar
+	- tar
+	- ocfs2-tools
+	- cpio
+	- gcc41
+	- gdb
+	- bison
+	- libgcj41
+
+libmspack
+	- cabextract
+
+junit4
+	- junit
+
+libssh
+	- pam_csync
+
+apache2-mod_python
+	- python-openssl
+
+fop
+	- lucene
+	- xalan-j2
+
+netbeans-platform
+	- struts
+	- netbeans
+	- ecj-bootstrap
+
+kdegames4
+	- kdewebdev4
+	- kdenetwork4
+	- kdeedu4-noarch
+	- kdegames4-palapeli-data
+	- kdeedu4
+	- psi
+	- kdelibs4
+	- kdebase3
+	- kdegames4-carddecks
+	- kdepim4
+
+rpm
+	- gtkmm2
+	- berkeleydb
+	- libpqxx
+	- libofx
+	- jna
+	- pam_pkcs11
+	- libsigc++2
+	- at-spi
+	- xpp2
+	- axis
+	- jing
+	- libxml++
+	- glibc
+	- OpenOffice_org-LanguageTool
+	- libgnomemm
+	- libmsn
+	- libtheora
+	- scim
+	- icu
+	- vigra
+	- libflaim
+	- jetty5
+	- howto
+	- gtk2
+	- wt
+	- rpm-python
+	- velocity
+	- libgtksourceviewmm
+	- glibmm2
+	- jcifs
+	- libqca2
+	- limal-devtools
+	- libqtpod
+	- batik
+	- cairomm
+	- ghostscript-library
+	- jline
+	- pangomm
+	- gnome-vfsmm
+	- a2ps
+
+libFLAC7
+	- vorbis-tools
+	- flac
+
+plucker
+	- python-imaging
+
+epic
+	- php5
+	- irssi
+
+xiterm
+	- xorg-x11-libs
+
+icu
+	- java-1_6_0-openjdk
+	- libwebkit
+	- firebird
+	- perl
+
+bb
+	- xaos
+
+barcode
+	- glabels
+
+javazic
+	- java-1_6_0-openjdk
+
+giggle
+	- wiggle
+
+postgresql
+	- swipl
+	- postgresql-pl
+
+aqbanking
+	- libchipcard4
+
+ladspa
+	- ladspa-devel
+
+MozillaFirefox-branding-Moblin
+	- MozillaFirefox-branding-openSUSE
+
+tiff
+	- libqt4-sql-plugins
+	- libqt4-devel-doc
+	- wxGTK
+	- opencv
+	- povray
+	- libqt4
+	- tkimg
+	- libqt4-devel-doc-data
+
+libgee
+	- vala
+
+jasper
+	- opencv
+	- netpbm
+	- ghostscript-library
+
+libmng
+	- libqt4-sql-plugins
+	- libqt4-devel-doc
+	- qt3
+	- qt3-devel-doc
+	- libqt4
+	- libqt4-devel-doc-data
+	- qt3-extensions
+
+pcre
+	- nmap
+	- apache2-mod_jk
+	- tin
+	- php5
+	- apache2
+
+pdns
+	- pdns-recursor
+
+netatalk
+	- man-pages-ja
+
+slang
+	- mc
+	- slrn
+
+ftgl
+	- tulip
+
+xmlbeans
+	- mozilla-xulrunner192
+	- jdom
+	- seamonkey
+	- geronimo-specs
+	- mozilla-xulrunner191
+	- jaxen-bootstrap
+	- MozillaThunderbird
+	- java-1_6_0-openjdk
+	- MozillaFirefox
+	- xmlbeans-mini
+	- axis
+
+groff
+	- plotutils
+	- gxdview
+	- xorg-x11
+
+log4net
+	- simias
+	- saxon8
+
+kdebase4-workspace
+	- qt3
+	- plasma-addons
+	- python-kdebase4
+	- polkit-kde-1
+	- kdebase4-wallpapers
+	- amarok
+	- NetworkManager-kde4
+	- kdebase4-runtime
+	- kdelibs4
+	- qt3-devel-doc
+	- kdebase3
+	- NetworkManager
+	- qt3-extensions
+	- Crystalcursors
+	- kdebase4
+
+povray
+	- virtuoso
+	- seamonkey
+	- tkimg
+	- clamav
+	- google-gadgets
+	- moonlight
+	- ghostscript-library
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+	- MozillaFirefox
+	- kompozer
+	- perl-Tk
+	- virtualbox-ose
+	- mozilla-xulrunner191
+
+soprano
+	- soprano-backend-virtuoso
+	- soprano-backend-sesame
+	- kdelibs4
+
+nspluginwrapper
+	- gnash
+	- seamonkey
+	- google-gadgets
+	- swfdec-mozilla
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- MozillaThunderbird
+	- kdebase3
+	- MozillaFirefox
+	- kompozer
+	- kdebase4
+
+MozillaThunderbird
+	- kompozer
+	- seamonkey
+
+libtheora
+	- seamonkey
+	- MozillaThunderbird
+	- mozilla-xulrunner191
+	- mozilla-xulrunner192
+	- libvorbis
+	- MozillaFirefox
+
+qtnx
+	- freenx-client
+	- libnxcl
+
+man-pages-it
+	- man-pages-posix
+
+flim
+	- emacs
+	- xemacs-packages
+	- flim-xemacs
+
+autoconf
+	- bison
+	- parted
+	- autoconf-el
+	- automake
+
+xml-commons-resolver
+	- netbeans-resolver
+	- jakarta-poi
+	- saxon
+	- freemarker
+	- relaxngDatatype
+	- jdom
+	- struts
+	- xml-commons-resolver-bootstrap
+	- hsqldb
+	- xml-commons
+	- jaxen-bootstrap
+	- xml-commons-apis-bootstrap
+
+linux-atm
+	- ppp
+
+ibus
+	- scim
+
+nagios
+	- ndoutils
+
+tomcat6
+	- jasper5
+	- servletapi4
+	- servletapi5
+	- netbeans
+	- jakarta-taglibs-standard
+	- jetty5
+	- geronimo-specs
+	- apache2-mod_jk
+	- servletapi3
+	- libtcnative-1-0
+	- java-1_6_0-openjdk
+
+file
+	- python-magic
+	- php5
+
+timezone
+	- timezone-java
+	- postgresql
+	- glibc
+	- postgresql-pl
+	- joda-time
+	- java-1_6_0-openjdk
+	- icu
+
+check
+	- gstreamer-0_10-doc
+	- gstreamer-0_10
+
+moonlight
+	- mono-core
+	- mono-basic
+
+cmake
+	- wxGTK
+	- kdelibs4
+	- ncurses
+	- seamonkey
+	- boinc-client
+	- hugin
+	- mozilla-xulrunner192
+	- ghostscript-library
+	- cmake-gui
+	- MozillaThunderbird
+	- MozillaFirefox
+	- kompozer
+	- mozilla-xulrunner191
+
+python-transaction
+	- python-zope-event
+	- python-zodb3
+
+jackEQ
+	- jamin
+
+palm-db-tools
+	- tellico
+
+python-clientform
+	- python-mechanize
+
+rxp
+	- festival
+	- ltxml
+
+pcsc-asedriveiiie-serial
+	- pcsc-asedriveiiie-usb
+	- pcsc-asekey
+
+agg
+	- OpenOffice_org-libs-extern
+
+ttf-arphic-ukai
+	- ttf-arphic-uming
+
+e2fsprogs
+	- busybox
+	- kernel-source-rt
+	- wvstreams
+	- ocfs2-tools
+	- kernel-source
+	- util-linux
+	- busybox-static
+
+dvb
+	- kernel-source
+	- linux-glibc-devel
+	- kernel-source-rt
+
+neverball
+	- xournal
+
+phonon
+	- libqt4-sql-plugins
+	- libqt4-devel-doc
+	- kdenetwork4
+	- kdebase4-runtime
+	- akonadi-runtime
+	- kdelibs4
+	- libqt4
+	- phonon-backend-xine
+	- libqt4-devel-doc-data
+
+icewm
+	- icewm-themes
+	- kdeartwork4
+	- kdeartwork4-noarch
+	- icewm-lite
+
+bwidget
+	- pgaccess
+	- vtcl
+
+nasm
+	- yasm
