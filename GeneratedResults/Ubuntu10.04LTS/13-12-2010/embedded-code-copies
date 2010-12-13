@@ -1,0 +1,5666 @@
+log4net
+	- nini
+
+ant-phone
+	- isdnutils
+	- gtick
+
+pyexcelerator
+	- xlwt
+
+flatnuke
+	- qutim
+
+gq
+	- libccc
+
+pida
+	- redmine
+
+faumachine
+	- xkeyboard-config
+
+freeipmi
+	- powerman
+
+udhcp
+	- busybox
+	- mindi-busybox
+
+libtnt
+	- cgal
+	- liblip
+
+ttf-atarismall
+	- ttf-ocr-a
+
+cherrypy3
+	- sabnzbdplus
+	- python-cherrypy
+
+maven-invoker
+	- maven-site-plugin
+
+gtwitter
+	- last-exit
+
+adplug
+	- audacious-plugins
+
+amtterm
+	- fbi
+
+openh323-titan
+	- pwlib
+	- mpeg4ip
+	- opal
+	- pwlib-titan
+	- openh323
+
+libjpeg6b
+	- povray
+	- freeimage
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- qscintilla2
+	- qt4-x11
+	- paraview
+	- wxwidgets2.6
+	- vxl
+	- nel
+	- visualboyadvance
+	- opencv
+	- vtk
+	- xnc
+	- gettext
+	- coreutils
+	- qscintilla
+	- gamera
+	- tremulous
+	- gmediaserver
+	- lftp
+	- pose
+	- plt-scheme
+	- insighttoolkit
+	- outguess
+	- boinc
+	- openarena
+	- gdcm
+	- gdal
+	- gnulib
+	- htmldoc
+	- root-system
+	- vice
+	- xloadimage
+	- dcmtk
+	- gears
+	- kompozer
+	- perl-tk
+	- mrpt
+	- fltk1.1
+
+xappy
+	- moin
+
+liblatex-driver-perl
+	- liblatex-encode-perl
+
+svgalib
+	- usplash
+
+tdb
+	- samba4
+	- ldb
+	- tevent
+
+libdigest-md4-perl
+	- perl
+
+estic
+	- isdnutils
+
+aespipe
+	- loop-aes
+
+libdbix-searchbuilder-perl
+	- libjifty-dbi-perl
+
+pango1.0
+	- quesoglc
+
+canlock
+	- tin
+
+gnuchess
+	- gnome-games
+
+libio-compress-perl
+	- perl
+
+mpg123
+	- mplayer
+
+grub2
+	- xen-3.3
+	- seabios
+
+haskell-parsec2
+	- hugs98
+
+feedparser
+	- nodebox-web
+
+libcmdparse2-ruby
+	- libcmdparse-ruby
+
+foolscap
+	- twisted-calendarserver
+
+crimson
+	- scummvm
+
+libxt
+	- vnc4
+
+libtk-tablematrix-perl
+	- tktable2.9
+	- perl-tk
+
+python-crypto
+	- python-gdata
+
+fbasics
+	- futilities
+
+junit
+	- libfontbox-java
+	- hsqldb
+	- libxt-java
+	- libjempbox-java
+
+libautodie-perl
+	- perl
+
+librep
+	- sawfish
+
+lftp
+	- libxml2
+	- vtk
+	- gettext
+	- paraview
+	- cvsnt
+
+radiusclient
+	- radiusclient-ng
+
+xfonts-100dpi
+	- xfonts-75dpi
+
+libxv
+	- vnc4
+
+gnome-keyring
+	- xmail
+	- libgnome-keyring
+
+kitty
+	- libwx11
+
+contacts-snapshot
+	- xfce4-timer-plugin
+
+assaultcube-data
+	- sauerbraten-data
+
+xemacs21
+	- xemacs21-packages
+	- emacs-snapshot
+	- emacs21-non-dfsg
+	- emacs22
+	- emacs23
+
+atmel-firmware
+	- linux-firmware
+
+openarena
+	- freeimage
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- paraview
+	- wxwidgets2.6
+	- vxl
+	- visualboyadvance
+	- vtk
+	- opencv
+	- povray
+	- qt4-x11
+	- plt-scheme
+	- insighttoolkit
+	- gamera
+	- gdal
+	- tremulous
+	- htmldoc
+	- vice
+	- gpac
+	- xnc
+	- gears
+	- kompozer
+	- perl-tk
+	- fltk1.1
+
+libnet-openid-consumer-perl
+	- movabletype-opensource
+
+pxlib
+	- hk-classes
+
+libmodule-load-conditional-perl
+	- perl
+
+libvncserver
+	- ssvnc
+	- remmina
+	- vino
+	- vncsnapshot
+	- xwnc
+	- x11vnc
+	- tightvnc
+	- italc
+
+libtextcat
+	- subdownloader
+
+zsh
+	- zsh-beta
+
+libjhlabs-filters-java
+	- libpixels-java
+
+sdparm
+	- sg3-utils
+
+cyphesis-cpp
+	- eris
+
+fretsonfire-songs-muldjord
+	- fretsonfire-songs-sectoid
+
+libyaml
+	- quantlib-refman-html
+	- ipe
+	- omnievents
+	- libpqxx
+	- libofx
+	- ccfits
+	- qscintilla2
+	- bakery2.6
+	- xmltooling
+	- stk
+	- wxwidgets2.6
+	- libpqxx3
+	- gnome-vfsmm2.6
+	- qwt
+	- bmagic
+	- liborigin2
+	- pam-pkcs11
+	- stx-btree
+	- witty
+	- rapidsvn
+	- mysql++
+	- scim
+	- imagemagick
+	- wxwidgets2.8
+	- gstreamermm
+	- libflaim
+	- armadillo
+	- libgtksourceviewmm
+	- qca2
+	- libqalculate
+	- pion-net
+	- libqglviewer
+	- apbs
+	- irrlicht
+	- log4cpp-doc
+	- cairomm
+	- telepathy-qt4
+	- xapian-core
+	- pangomm
+
+libcsfml
+	- libsfml
+
+eva
+	- pixbros
+
+directvnc
+	- tightvnc
+
+tre
+	- anon-proxy
+
+dia
+	- pornview
+
+libprojectm
+	- libsoil
+
+firmware-addon-dell
+	- firmware-tools
+
+libhtml-template-perl
+	- libhtml-template-pro-perl
+
+libid3tag
+	- libtunepimp
+	- audacious
+
+iwidgets4
+	- ruby1.8
+	- ruby1.9
+	- ruby1.9.1
+
+xdotool
+	- keynav
+
+pekwm
+	- pekwm-themes
+
+libxml-sax-perl
+	- movabletype-opensource
+
+luasocket
+	- love
+	- texlive-bin
+
+cmt
+	- lmms
+	- mixxx
+
+python-scientific
+	- qmtest
+
+a2ps
+	- ghdl
+	- cpio
+	- gcl
+	- coreutils
+	- binutils
+	- binutils-h8300-hms
+	- gccxml
+	- gnulib
+
+libmikmod
+	- sdl-mixer1.2
+	- uqm
+
+phat
+	- jackbeat
+
+netbeans
+	- libjdic-java
+	- libjna-java
+	- gridengine
+	- libpdfrenderer-java
+	- libnb-platform-java
+
+liece
+	- xemacs21-packages
+
+sblim-sfcb
+	- sblim-sfcc
+
+colorcode
+	- oxygen-icons
+
+openbox
+	- openbox-themes
+
+jabber-muc
+	- mcabber
+
+libwfut
+	- openmovieeditor
+
+gtkhotkey
+	- claws-mail-extra-plugins
+
+chef
+	- merb
+	- jifty
+	- puppet
+	- ohai
+
+libclone-perl
+	- libclone-pp-perl
+
+design
+	- survival
+
+pyglet
+	- sympy
+
+mp3blaster
+	- splay
+
+python-uniconvertor
+	- skencil
+
+libxslt
+	- kde4libs
+	- jbossas4
+	- kdelibs
+	- docbook-xsl-ns
+	- libspring-2.5-java
+	- virtuoso-opensource
+	- docbook-xsl
+
+acpica-unix
+	- xen-3.3
+
+burgerspace
+	- xboing
+
+html5lib
+	- planet-venus
+
+postgresql-filedump-8.3
+	- postgresql-filedump-8.4
+
+asio
+	- boost1.40
+	- boost-jam
+
+xalan
+	- xqilla
+
+gnome-sharp2
+	- gtk-sharp2
+
+pycairo
+	- wxwidgets2.8
+
+twolame
+	- avidemux
+
+vim-rails
+	- vim-scripts
+
+chocolate-doom
+	- prboom
+
+libpam-heimdal
+	- libpam-krb5
+
+libgpg-error
+	- libprelude
+
+box2d
+	- love
+
+libnagios-object-perl
+	- nagios3
+
+mboxgrep
+	- wmmail
+
+batv-milter
+	- dkim-milter
+	- dk-milter
+
+pysparse
+	- cvxopt
+	- rmatrix
+	- suitesparse-metis
+	- freemat
+	- deal.ii
+	- suitesparse
+
+python-ldap
+	- python-ldap-doc
+
+bplay
+	- gramofile
+
+corosync
+	- openais-legacy
+
+fgarch
+	- fportfolio
+
+libset-object-perl
+	- libset-scalar-perl
+
+maildrop
+	- courier-authlib
+	- courier
+	- swi-prolog
+
+libtest-harness-perl
+	- perl
+
+fonttools
+	- python-enable
+
+twisted-calendarserver
+	- twisted-web
+	- twisted-words
+	- twisted-conch
+	- twisted-names
+	- twisted-lore
+	- twisted-web2
+	- twisted-mail
+	- twisted-runner
+	- twisted-news
+
+gobject-introspection
+	- vala
+
+camlp5
+	- jocaml
+	- ocamlweb
+	- ocaml
+	- why
+
+awffull
+	- nicotine
+	- deluge
+	- horde3
+	- cherokee
+	- translatoid
+	- gnunet-gtk
+	- xqf
+	- zekr
+	- goldendict
+
+network-manager-openvpn
+	- network-manager-pptp
+
+libthreads-shared-perl
+	- perl
+
+gawk
+	- gnulib
+
+pwlib-titan
+	- pwlib
+	- mysql-cluster-7.0
+	- vnc4
+	- mysql-dfsg-5.1
+	- php5
+	- knews
+	- ptlib
+
+dwoo
+	- mahara
+
+mew
+	- mew-beta
+	- xemacs21-packages
+
+libfont-ttf-perl
+	- libpdf-api2-perl
+
+openerp-client
+	- openerp-server
+
+libsdl1.2
+	- biniax2
+	- warsow
+	- openarena
+	- visualboyadvance
+	- teeworlds
+	- sauerbraten
+	- tremulous
+
+c-ares
+	- sbnc
+	- libares
+	- bzflag
+
+latex209
+	- texlive-base
+
+language-pack-kde-ku-base
+	- language-pack-kde-ug-base
+
+komparator
+	- ksniffer
+
+tex4ht
+	- texlive-bin
+
+clutter-1.0
+	- json-glib
+
+leafpad
+	- mousepad
+
+libcoat-perl
+	- libmoose-perl
+
+lincity
+	- lincity-ng
+
+haskell-quickcheck1
+	- hugs98
+
+freedroid
+	- freedroidrpg
+
+longomatch
+	- totem
+
+hdf5
+	- paraview
+
+jless
+	- less
+
+thoggen
+	- ubuntu-docs
+
+language-pack-gnome-nl-base
+	- language-pack-gnome-pt-base
+
+gle
+	- tulip
+	- glut
+	- mgltools-gle
+
+mediawiki
+	- testdisk
+	- mrpt
+
+mx
+	- nbtk
+
+btyacc
+	- jocaml
+	- perl-byacc
+	- ocaml
+
+firebird2.0
+	- firebird2.1
+
+libproc-processtable-perl
+	- perl
+
+skype4py
+	- turbogears
+
+jasper
+	- opencv
+
+jama
+	- biojava-live
+
+libgweather
+	- gnome-applets
+
+nexuiz
+	- warsow
+
+ladcca
+	- lash
+
+gpsk31
+	- twpsk
+
+mini-httpd
+	- thttpd
+
+krb5
+	- newlib
+	- krb5-appl
+	- heimdal
+	- openafs
+
+coderay
+	- redmine
+
+firefox
+	- xulrunner-1.9.2
+
+debian-policy
+	- ubuntu-policy
+
+maven-ear-plugin
+	- maven-invoker-plugin
+
+apq
+	- apq-postgresql
+
+enemylines3
+	- enemylines7
+
+maloc
+	- apbs
+
+asclock
+	- wmclock
+
+libtest-without-module-perl
+	- libwww-mechanize-formfiller-perl
+
+sfftobmp
+	- sffview
+
+fbi
+	- perl-tk
+	- xenwatch
+
+dangen
+	- tenmado
+
+apg
+	- keepassx
+
+bbdb
+	- xemacs21-packages
+
+haskell-hgl
+	- hugs98
+
+icmake
+	- bisonc++
+
+system-config-samba
+	- ubuntu-docs
+
+innfeed
+	- inn2
+
+cdparanoia
+	- cdrdao
+	- libcdio
+
+ggz-gnome-client
+	- ggz-gtk-client
+
+eperl
+	- wml
+
+bnetd
+	- eggdrop
+
+paste
+	- python-weberror
+
+celestia
+	- texlive-bin
+
+libthreads-perl
+	- perl
+
+libev
+	- audit
+	- prelude-lml
+	- rxvt-unicode
+	- prelude-manager
+
+perl
+	- parrot
+	- libpod-simple-perl
+
+tzdata
+	- libdatetime-timezone-perl
+	- pike7.6
+	- postgresql-8.4
+
+m4
+	- parted
+	- icoutils
+	- djmount
+	- mailutils
+	- anubis
+	- ale
+	- mlocate
+	- texlive-bin
+	- autoconf-nonfree
+	- g-wrap
+	- sed
+	- findutils
+	- liblouisxml
+	- acct
+	- texinfo
+	- libgnupdf
+	- rcs-blame
+	- fastjar
+	- le
+	- tar
+	- libunistring
+	- prelude-manager
+	- libpreludedb
+	- mpop
+	- gettext
+	- dico
+	- coreutils
+	- libdap
+	- hello-debhelper
+	- clisp
+	- man-db
+	- source-highlight
+	- gmediaserver
+	- zile
+	- pspp
+	- inetutils
+	- lftp
+	- imagemagick
+	- gnuit
+	- prelude-lml
+	- autoconf2.64
+	- libidn
+	- cpio
+	- renameutils
+	- libvirt
+	- freedink
+	- xindy
+	- gsasl
+	- gdcm
+	- shishi
+	- gnulib
+	- gss
+	- gtk-vnc
+	- grep
+	- diffutils
+	- wget
+	- libprelude
+	- patch
+	- nagios-plugins
+	- libntlm
+	- bison
+	- a2ps
+	- cflow
+	- id-utils
+	- gzip
+	- libtasn1-3
+	- autoconf
+	- amanda
+	- hello
+	- binutils
+
+lwipv6
+	- virtualbox-ose
+
+grass
+	- libgeotiff-epsg
+	- gdal
+
+smplayer-themes
+	- zapping
+
+tk8.3
+	- tk8.5
+	- vnc4
+	- tcl8.3
+	- blt
+	- vtk
+	- netgen
+	- nxtvepg
+	- ruby1.8
+	- ruby1.9
+	- ruby1.9.1
+	- paraview
+	- mgltools-opengltk
+	- lablgl
+	- tk8.4
+	- grass
+	- perl-tk
+	- tcl8.5
+	- tcl8.4
+
+libxml2
+	- denemo
+	- mednafen
+	- lftp
+	- boost1.40
+	- amavisd-new
+	- kdelibs
+	- vtk
+	- esvn
+	- capisuite
+	- libvirt
+	- virtuoso-opensource
+	- gettext
+	- libxslt
+	- docbook-xsl-doc
+	- cvsnt
+	- boost-jam
+
+pidgin-nateon
+	- qutecom
+
+libsys-syslog-perl
+	- perl
+
+libtommath
+	- dropbear
+	- tcl8.5
+
+flumotion
+	- pitivi
+
+calf
+	- lmms
+
+eresi
+	- exuberant-ctags
+
+rcs-latex
+	- texlive-base
+
+python-django
+	- python-openid
+
+isomaster
+	- kdeutils
+
+haskell-alut
+	- hugs98
+
+liblauncher-0.1
+	- liblauncher
+
+scalable-cyrfonts
+	- texlive-lang
+
+gifsicle
+	- xmahjongg
+
+libextutils-install-perl
+	- perl
+
+gnome-desktop-sharp2
+	- gnome-sharp2
+
+ecosconfig-imx
+	- gambit
+	- gpac
+	- sffview
+
+flac
+	- vorbis-tools
+
+acpidump
+	- xen-3.3
+
+gtkmm2.4
+	- goocanvasmm
+	- gnome-vfsmm2.6
+	- ardour
+	- gtkglextmm
+	- glibmm2.4
+
+gnus
+	- mh-e
+	- flim
+	- xemacs21-packages
+	- emacs22
+	- emacs23
+	- emacs-snapshot
+
+qimo-session
+	- xubuntu-default-settings
+
+potrace
+	- inkscape
+
+mg
+	- ng
+
+libgnomecanvasmm2.6
+	- goocanvasmm
+	- gnome-vfsmm2.6
+	- gtkmm2.4
+	- ardour
+	- gtkglextmm
+
+libpar2
+	- par2cmdline
+	- nget
+
+jde
+	- xemacs21-packages
+
+gcc-4.1
+	- gdc-4.3
+	- gdc-4.1
+	- gcc-4.3
+	- gcc-snapshot
+	- gcc-4.4
+	- gcj-4.3
+	- gnat-4.4
+	- gcj-4.4
+	- gpc-4.1
+
+fqterm
+	- gnome-icon-theme
+	- qt4-x11
+	- pingus
+
+kanjipad
+	- gwaei
+
+cfitsio3
+	- indi
+
+libbind
+	- bind9
+
+mime-tools
+	- otrs2
+
+grml-btnet
+	- wmxres
+	- grml-shlib
+
+faad2
+	- mplayer
+
+speex
+	- celt
+	- opal
+	- openarena
+	- openh323-titan
+	- gst-plugins-base0.10
+	- openh323
+
+erc
+	- emacs-snapshot
+	- xemacs21-packages
+	- emacs22
+	- emacs23
+
+cyrus-imspd
+	- mpack
+	- cyrus-sasl2-heimdal
+	- cyrus-sasl2
+
+chktex
+	- ude
+
+xwnc
+	- x11proto-core
+	- tightvnc
+	- vnc4
+	- libxau
+
+mgltools-molkit
+	- mgltools-pmv
+
+egenix-mx-base
+	- simpleparse
+
+webgen0.4
+	- webgen
+
+sqlite
+	- klamav
+	- hk-classes
+	- libdbd-sqlite2-perl
+	- digikam
+	- sqlite3
+	- php5
+
+pfstools
+	- qtpfsgui
+
+bouncycastle
+	- azureus
+
+diffstat
+	- tapecalc
+
+at-poke
+	- dogtail
+
+swig1.3
+	- subversion
+
+doxia
+	- doxia-sitetools
+
+libnetx-java
+	- openjdk-6
+
+fatrat-unpack
+	- unrar-nonfree
+
+libalien-wxwidgets-perl
+	- perl
+
+libbase-openoffice.org
+	- libjcommon-java
+
+tinymce2
+	- dotlrn
+	- knowledgeroot
+	- openacs
+	- webgui
+	- moodle
+	- wordpress-mu
+	- wordpress
+	- mahara
+	- glpi
+
+unzip
+	- zip
+	- texlive-bin
+
+libtk-img
+	- vxl
+	- qt4-x11
+	- wxwidgets2.6
+	- vtk
+	- texlive-bin
+	- wxwidgets2.8
+	- paraview
+	- povray
+	- gdcm
+	- kompozer
+	- perl-tk
+	- cvsnt
+	- tcl8.5
+
+batman-adv-kernelland
+	- batmand
+
+kguitar
+	- noteedit
+
+libclass-spiffy-perl
+	- libspiffy-perl
+
+docdiff
+	- hiki
+
+pycxx
+	- pysvn
+	- kdebindings
+	- matplotlib
+
+minisat2
+	- link-grammar
+
+bogl
+	- usplash
+
+oftc-hybrid
+	- ircd-hybrid
+	- ircd-ircu
+	- ircd-ratbox
+	- dancer-ircd
+
+libfishsound
+	- liboggz
+
+libbusiness-onlinepayment-openecho-perl
+	- libbusiness-onlinepayment-transactioncentral-perl
+
+hildon-icons
+	- hildon-theme-mobile-basic
+	- modest
+
+gluezilla
+	- kompozer
+
+gmime2.4
+	- gmime2.2
+
+dialign-t
+	- t-coffee
+
+gtkgl2
+	- gtkglext
+	- libgtkada2
+
+hydrogen
+	- livemix
+
+libdtdparser-java
+	- libstax-java
+
+libhdhomerun
+	- mythtv
+
+jsonpickle
+	- git-cola
+
+s5
+	- plastex
+	- cython
+	- lxml
+	- docvert
+	- python-chaco
+
+libquicktime
+	- mpeg4ip
+
+libjgroups2.6-java
+	- libjgroups-java
+
+scriptaculous
+	- jquery
+	- webcit
+	- wordpress-mu
+	- jifty
+	- jruby1.1
+	- wordpress
+	- rt-extension-emailcompletion
+
+mono-addins
+	- f-spot
+	- monodevelop
+
+haskell-glut
+	- hugs98
+
+tile
+	- tk8.5
+
+cheetah
+	- gears
+
+loop-aes-utils
+	- busybox
+	- ocfs2-tools
+	- e2fsprogs
+	- ldiskfsprogs
+	- bsdmainutils
+	- watchdog
+	- util-linux
+	- mindi-busybox
+	- multipath-tools
+
+liboop
+	- lyskom-server
+
+alcovebook-sgml
+	- sgml2x
+
+firestring
+	- dsbltesters
+	- firedns
+
+xterm
+	- plotutils
+	- vnc4
+
+mako
+	- genshi
+
+fbdesk
+	- fbpager
+
+python-enthoughtbase
+	- python-traitsgui
+
+tryton-modules-party
+	- tryton-modules-product
+
+epic4
+	- epic4-help
+	- epic5
+
+lzip
+	- lzlib
+
+gaim-themes
+	- kdeartwork
+	- yaws
+
+slv2
+	- traverso
+
+pccts
+	- cccc
+	- cdrdao
+	- libbtparse
+	- gtkwave
+
+libfli1
+	- indi
+
+lineak-defaultplugin
+	- lineak-kdeplugins
+
+plexus-component-metadata
+	- plexus-maven-plugin
+
+libmusicbrainz-2.1
+	- mkcue
+
+rman
+	- vnc4
+
+cadaver
+	- sitecopy
+	- vtk
+	- paraview
+	- gettext
+
+asm3
+	- drools
+	- classpath
+	- db
+	- gwt
+	- glassfish
+	- libdb-je-java
+
+asm2
+	- drools
+	- mvel
+	- clojure
+
+gnonlin
+	- gst-plugins-bad-multiverse0.10
+	- farsight2
+	- gst0.10-python
+	- gst-plugins-bad0.10
+	- gstreamer0.10
+	- pitivi
+	- transmageddon
+	- gst-plugins-base0.10
+	- gstreamer0.10-ffmpeg
+	- gst-plugins-good0.10
+	- gst-plugins-ugly-multiverse0.10
+	- gst-plugins-ugly0.10
+	- pigment
+	- gstreamer0.10-rtsp
+
+djbdns
+	- ipsvd
+	- libowfat
+	- libdjbdns
+	- skalibs
+	- ucspi-tcp
+	- safecat
+	- qmail
+	- swi-prolog
+	- checkpw
+	- tinydyndns
+	- freecdb
+	- daemontools
+	- bglibs
+
+mysql-cluster-7.0
+	- mysql-connector-c++
+	- mono-debugger
+	- falconpl
+	- mysql-dfsg-5.1
+	- coreutils
+	- snort
+	- binutils-h8300-hms
+	- php5
+	- binutils
+
+qca2
+	- psi-plus
+	- psi
+
+re2c
+	- yasm
+
+cl-umlisp
+	- cl-umlisp-orf
+
+playmidi
+	- sdl-mixer1.2
+
+openldap
+	- splatd
+
+logwatch
+	- dnssec-tools
+
+quixote1
+	- quixote
+
+libjcode-pm-perl
+	- movabletype-opensource
+
+ufc
+	- ffc
+	- dolfin
+
+binutils-h8300-hms
+	- plt-scheme
+	- gcl
+	- lrzsz
+	- ghdl
+	- gnu-smalltalk
+
+excellent-bifurcation
+	- overgod
+
+orbit2
+	- polyorb
+
+libjson-perl
+	- libjson-xs-perl
+	- movabletype-opensource
+
+cweb-latex
+	- texlive-extra
+
+libmoose-perl
+	- libmouse-perl
+
+xscreensaver
+	- glut
+	- xlockmore
+
+dojo
+	- glassfish
+
+couchdb
+	- yaws
+
+libtime-piece-perl
+	- perl
+
+libbeanstalkclient-ruby
+	- yapra
+
+elib
+	- xemacs21-packages
+
+libdata-objectdriver-perl
+	- movabletype-opensource
+
+mpeg4ip
+	- faad2
+
+libwpd
+	- libwps
+
+libhtml-formfu-perl
+	- libhtml-widget-perl
+
+gpe-expenses
+	- pilot-qof
+
+xfonts-cronyx
+	- xfonts-cyrillic
+
+libauthen-radius-perl
+	- xtradius
+
+gfxboot
+	- gfxboot-theme-ubuntu
+
+bakery2.6
+	- bakery2.4
+
+bibutils
+	- referencer
+	- kbib
+
+htop
+	- openmpi
+
+libjboss-managed-java
+	- libjboss-microcontainer-java
+
+mahara
+	- dotlrn
+	- egroupware
+	- knowledgeroot
+	- openacs
+	- horde3
+	- typo3-src
+	- moodle
+	- webgui
+	- serendipity
+	- glpi
+
+m17n-db
+	- perl
+
+mtpaint
+	- rgbpaint
+
+le
+	- inetutils
+	- lftp
+	- tar
+	- prelude-lml
+	- man-db
+	- mlocate
+	- cpio
+	- gettext
+	- nagios-plugins
+	- coreutils
+	- libprelude
+	- findutils
+	- clisp
+	- xindy
+	- ocp
+	- texinfo
+	- gnuit
+	- gnulib
+
+visualboyadvance
+	- freeimage
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- paraview
+	- wxwidgets2.6
+	- vxl
+	- vtk
+	- opencv
+	- mupen64plus
+	- povray
+	- qt4-x11
+	- plt-scheme
+	- insighttoolkit
+	- gamera
+	- gdal
+	- htmldoc
+	- vice
+	- xnc
+	- gears
+	- kompozer
+	- perl-tk
+	- fltk1.1
+
+libgnuinet-java
+	- gjdoc
+	- classpath
+	- libgnujaf-java
+
+cmigrep
+	- urlscan
+
+coreutils
+	- inetutils
+	- busybox
+	- ghdl
+	- newlib
+	- cpio
+	- gcl
+	- binutils
+	- binutils-h8300-hms
+	- gnu-smalltalk
+	- gmediaserver
+	- mindi-busybox
+	- gccxml
+	- gnulib
+
+psycopg2
+	- sqlrelay
+
+pcp
+	- pcp-gui
+	- tendra
+
+cabextract
+	- msn-pecan
+
+boson
+	- boson-music
+	- boson-data
+
+ulex0.8
+	- ulex
+
+lablgtk2
+	- ruby-gnome2
+
+hubbub
+	- libparserutils
+	- libfeedtools-ruby
+
+glassfish
+	- virtuoso-opensource
+	- netbeans
+
+lslk
+	- lsof
+
+acm4
+	- acm
+
+pcb
+	- wine1.2
+
+glew
+	- python-pyglew
+	- blender
+
+desmume
+	- fceux
+	- audacious-plugins
+
+apel
+	- xemacs21-packages
+
+debian-faq
+	- doc-debian-uk
+	- doc-debian-es
+
+fim
+	- vim
+
+libmusicbrainz3
+	- python-musicbrainz2
+
+apcalc
+	- epic4-help
+
+libgda4
+	- libgda3
+
+haskell-x11
+	- hugs98
+
+gearhead
+	- gearhead2
+
+effectv
+	- smilutils
+
+sqlite3
+	- libgda3
+	- hk-classes
+	- kompozer
+	- klamav
+	- gears
+
+hypermail
+	- mednafen
+	- lftp
+	- libxml2
+	- vtk
+	- fetchmail
+	- paraview
+	- avida
+	- bogofilter
+	- cvsnt
+
+htcheck
+	- htdig
+
+plexus-container-default
+	- plexus-containers
+
+tads
+	- gargoyle-free
+	- qtads
+
+psimedia
+	- psi-plus
+	- psi
+
+openjpeg
+	- freeimage
+	- gdcm
+	- wxwidgets2.8
+	- insighttoolkit
+	- wxwidgets2.6
+
+libtest-cpan-meta-perl
+	- libtest-yaml-meta-perl
+
+pyaimt
+	- pyicqt
+	- pymsnt
+
+libyaml-libyaml-perl
+	- libyaml-perl
+
+pyyaml
+	- w3af
+
+dc-qt
+	- linuxdcpp
+
+qof
+	- gnucash
+
+p7zip-rar
+	- lzma
+	- spring
+	- spring-engine
+	- clamav
+	- grub2
+	- libphysfs
+	- p7zip
+	- criticalmass
+	- icu
+
+libdbi
+	- libdbi-drivers
+
+libio-async-loop-epoll-perl
+	- libio-async-loop-glib-perl
+
+fnord
+	- ipsvd
+	- djbdns
+	- libowfat
+	- libdjbdns
+	- ucspi-tcp
+	- checkpw
+	- tinydyndns
+	- freecdb
+	- daemontools
+	- qmail
+
+nusoap
+	- ampache
+	- mantis
+
+trn
+	- trn4
+
+g2clib
+	- gdal
+
+pdksh
+	- posh
+
+libtango
+	- ldc
+
+memchan
+	- tclthread
+	- tcludp
+	- tcltrf
+
+libxp
+	- vnc4
+
+gloox
+	- qutim
+
+libqwt
+	- pcp-gui
+	- qwt
+	- qtiplot
+
+mediawiki-semediawiki
+	- simile-timeline
+
+gnome-subtitles
+	- sublib
+
+ksimus
+	- ksimus-boolean
+
+assogiate
+	- gelemental
+
+libsm
+	- vnc4
+
+gsnmp
+	- scli
+
+grepmail
+	- libmail-mbox-messageparser-perl
+
+manpages-es-extra
+	- manpages-zh
+	- manpages-fr-extra
+	- manpages-hu
+	- loop-aes-utils
+	- util-linux
+	- shadow
+
+springlobby
+	- wxwidgets2.8
+
+agsync
+	- gnome-pilot-conduits
+
+spring-engine
+	- spring
+	- bzflag
+	- clamav
+	- texlive-bin
+	- kicad
+	- libkml
+	- libjdic-java
+	- freemat
+	- medit
+	- cvsnt
+
+cairo
+	- libgdiplus
+	- kompozer
+
+ttf-goudybookletter
+	- ttf-okolaks
+
+prophet
+	- sd
+
+lbreakout2
+	- ltris
+
+eb
+	- ebnetd
+
+lft
+	- newlib
+
+bluez
+	- obexd
+	- bluez-btsco
+
+expect
+	- expect-tcl8.3
+
+kubuntu-docs
+	- ubuntu-docs
+
+blacs-mpi
+	- blacs-pvm
+
+mxml
+	- witty
+	- asterisk-addons
+	- asterisk
+	- lmms
+	- dahdi-tools
+
+tkrat
+	- uw-imap
+
+lottanzb
+	- python-distutils-extra
+
+lua-zip
+	- texlive-bin
+
+gource
+	- tbb
+	- logstalgia
+
+hkgerman
+	- igerman98
+
+gaupol
+	- nfoview
+
+scons
+	- scons-doc
+	- mapnik
+	- blender
+
+fckeditor
+	- knowledgeroot
+	- egroupware
+	- ckeditor
+	- request-tracker3.8
+	- virtuoso-opensource
+	- moin
+	- docvert
+	- otrs2
+
+nss
+	- freej
+	- kompozer
+	- nspr
+
+linux-ntfs
+	- ntfs-3g
+
+gopchop
+	- mpeg2dec
+
+ocempgui
+	- childsplay
+
+ircp-tray
+	- libopenobex
+
+blt
+	- tkdesk
+
+wps2sxw
+	- writerperfect
+
+garmindev
+	- qlandkartegt
+
+libxml++2.6
+	- libxml++
+
+aqualung
+	- wxwidgets2.8
+	- vlc
+
+connman
+	- ofono
+
+gettext-kde
+	- gcl
+	- lrzsz
+	- coreutils
+	- binutils-h8300-hms
+	- a2ps
+	- gnulib
+
+scsh-0.6
+	- ypsilon
+
+ccache
+	- swig1.3
+
+ttf-arphic-gbsn00lp
+	- ttf-arphic-gkai00mp
+
+aiksaurus
+	- abiword
+
+astyle
+	- highlight
+
+gmediaserver
+	- busybox
+	- xplc
+	- e2fsprogs
+	- ldiskfsprogs
+	- gdcm
+	- util-linux
+	- mindi-busybox
+
+gtodo
+	- anjuta
+
+asymptote
+	- texlive-bin
+	- texlive-doc
+
+dvipng
+	- texlive-bin
+
+glib2.0
+	- root-system
+	- gtk+2.0
+	- pkg-config
+
+ecb
+	- xemacs21-packages
+
+l7-protocols
+	- ntop
+
+libtsmux
+	- gst-fluendo-mpegmux
+	- gst-plugins-bad-multiverse0.10
+	- gst-plugins-bad0.10
+
+procmail
+	- smartlist
+
+neon26
+	- neon27
+	- gnome-vfs
+	- sitecopy
+	- cadaver
+
+advancecomp
+	- makebootfat
+	- libtk-img
+	- matplotlib
+	- tcllib
+	- texlive-bin
+	- povray
+	- cloop
+	- perl-tk
+
+lrslib
+	- ppl
+
+python2.6
+	- imgseek
+	- wxwidgets2.8
+	- virtuoso-opensource
+	- paraview
+	- wxwidgets2.6
+	- python-pysqlite2
+	- vxl
+	- vnc4
+	- vtk
+	- apache2
+	- poco
+	- jython
+	- qt4-x11
+	- plt-scheme
+	- insighttoolkit
+	- texlive-bin
+	- python3.1
+	- gdcm
+	- freemat
+	- kompozer
+	- sphinx
+	- vegastrike-data
+	- sks-ecc
+	- codeblocks
+	- perl-tk
+
+putty
+	- xtrkcad
+	- cvsnt
+	- halibut
+	- filezilla
+
+xf86-video-displaylink
+	- xserver-xorg-video-displaylink
+
+xmltv
+	- freeguide
+
+storm
+	- moovida
+
+asm
+	- jedit
+
+golly
+	- wxwidgets2.8
+
+drupal6
+	- yasnippet
+
+zope.proxy
+	- zope.container
+	- zope.security
+
+bzr-git
+	- bzr-svn
+
+libedit
+	- mono-debugger
+	- falconpl
+	- mysql-cluster-7.0
+	- mysql-dfsg-5.1
+	- asterisk
+	- tnftp
+	- openipmi
+
+fatrat
+	- jargoninformatique
+	- typo3-src
+
+openssh
+	- uim
+
+horae
+	- ifeffit
+
+gst-fluendo-mpegdemux
+	- gnonlin
+	- gst-plugins-bad-multiverse0.10
+	- farsight2
+	- gst-fluendo-mpegmux
+	- gst0.10-python
+	- gst-plugins-bad0.10
+	- gstreamer0.10
+	- pitivi
+	- gstreamer0.10-rtsp
+	- gst-plugins-base0.10
+	- transmageddon
+	- gstreamer0.10-ffmpeg
+	- gst-plugins-good0.10
+	- gst-plugins-ugly-multiverse0.10
+	- gst-fluendo-mp3
+	- gst-plugins-ugly0.10
+
+nagios3
+	- ndoutils
+
+yui
+	- ckeditor
+	- jifty
+	- webgui
+	- moodle
+	- gallery2
+	- loggerhead
+	- serendipity
+	- otrs2
+
+dibbler
+	- mindi-busybox
+
+fuse
+	- ntfs-3g
+
+opencv
+	- qt4-x11
+	- vice
+	- vtk
+	- gpac
+	- texlive-bin
+	- wxwidgets2.8
+	- paraview
+	- povray
+	- kompozer
+
+libi18n-ruby
+	- redmine
+
+hiki
+	- tdiary
+
+language-pack-gnome-is-base
+	- language-pack-gnome-ug-base
+
+openchange
+	- samba4
+
+ekiga
+	- gtk+2.0
+
+libfam-ruby
+	- libescape-ruby
+	- libbarby-ruby
+	- wfo
+	- libmusicbrainz-ruby
+	- libgit-ruby
+	- libopenid-ruby
+	- rubilicious
+	- jruby
+	- jruby1.1
+	- libyadis-ruby
+	- htree
+	- libimlib2-ruby
+	- librevolution-ruby
+	- hyperestraier
+
+trac
+	- trac-ja-resource
+
+libio-zlib-perl
+	- perl
+
+bsign
+	- curves
+
+tapioca-qt
+	- telepathy-qt
+
+zynaddsubfx
+	- rakarrack
+	- lmms
+
+libclass-accessor-grouped-perl
+	- libclass-data-accessor-perl
+
+librack-ruby
+	- redmine
+
+bzr-explorer
+	- tango-icon-theme
+	- breathe-icon-theme
+	- merkaartor
+	- mapivi
+	- playonlinux
+	- picard
+	- tangerine-icon-theme
+	- metatheme-gilouche
+	- cppcheck
+	- liblaf-widget-java
+	- dotlrn
+	- upnp-inspector
+	- gmpc
+	- substance
+	- scribus-ng
+	- sqliteman
+	- gnome-icon-theme
+	- latexdraw
+	- mono
+	- texworks
+	- batik
+	- jedit
+	- scilab
+	- openacs
+
+partlibrary
+	- qcad
+
+netkit-rsh
+	- rsh-redone
+
+libtranslate
+	- streamtuner
+
+twisted
+	- twisted-calendarserver
+
+ifeffit
+	- sixpack
+
+libmcrypt
+	- gpac
+
+gnome-applets
+	- xfce4-eyes-plugin
+
+netcat
+	- netcat-openbsd
+
+xen-3.3
+	- xenner
+	- qemu-kvm
+
+libmpcdec
+	- mednafen
+
+pexpect
+	- gears
+
+vnc4
+	- libxdmcp
+	- nss
+	- tightvnc
+	- libx11
+	- xutils-dev
+	- qt4-x11
+	- enigmail
+	- libxext
+	- kdebase-workspace
+	- vncsnapshot
+	- kompozer
+	- xwnc
+
+eventlog
+	- libzorpll
+
+festival
+	- speech-tools
+	- festival-doc
+
+shapelib
+	- gpsbabel
+	- xastir
+
+libjogl-java
+	- vnc4
+
+emacspeak
+	- filterproxy
+
+libmimic
+	- amsn
+	- emesene
+
+ldap-haskell
+	- magic-haskell
+
+jed
+	- jed-extra
+	- slrn
+
+libdigest-perl
+	- perl
+
+arch-buildpackage
+	- icheck
+
+libxpm
+	- vnc4
+	- plt-scheme
+
+net-tools
+	- manpages-es-extra
+	- sdpnetstat
+	- lcdproc
+
+libslab
+	- gnome-control-center
+
+listen
+	- quodlibet
+
+kiwi
+	- pida
+
+openjdk-6
+	- ikvm
+	- pentaho-reporting-flow-engine-openoffice.org
+
+magpierss
+	- moodle
+
+gnome-netstatus
+	- lxpanel
+
+gnash
+	- kompozer
+	- virtualbox-ose
+	- nspr
+
+darkroom
+	- kdegraphics
+
+drapes
+	- tomboy
+
+libphp-phpmailer
+	- mahara
+
+libauthen-captcha-perl
+	- movabletype-opensource
+
+bsd-mailx
+	- heirloom-mailx
+
+device-tree-compiler
+	- qemu-kvm
+
+fwknop
+	- psad
+
+xchat
+	- xchat-gnome
+
+sigscheme
+	- uim
+	- autoconf-archive
+
+jruby1.1
+	- ruby1.8
+	- kwalify
+	- libffi-ruby
+	- libbarby-ruby
+	- soap4r
+	- libneedle-ruby
+	- libhttp-access2-ruby
+	- librspec-ruby
+	- wesnoth
+	- redmine
+	- thin
+	- jruby
+	- libshoulda-ruby
+
+psutils
+	- texlive-bin
+
+childsplay-alphabet-sounds-bg
+	- gcompris
+	- childsplay-alphabet-sounds-ru
+
+bangarang
+	- oxygen-icons
+
+libsynthesis
+	- syncevolution
+
+libevent
+	- openmpi
+	- dnsproxy
+
+bcmwl
+	- broadcom-sta
+
+grfcodec
+	- nforenum
+
+camstream
+	- freej
+
+lcdf-typetools
+	- xmahjongg
+	- texlive-extra
+	- texlive-bin
+
+cracklib2
+	- tuxtype
+
+inventor
+	- vnc4
+
+beecrypt
+	- lsh-utils
+	- samba4
+
+ilisp
+	- xemacs21-packages
+
+tkabber
+	- tkabber-plugins
+
+clustalw
+	- clustalx
+
+ffmpeg
+	- rte
+	- xvidcap
+	- ffmpeg-extra
+	- mythtv
+	- kino
+	- opencv
+	- mplayer
+	- gstreamer0.10-ffmpeg
+
+jam
+	- boost1.40
+	- ftjam
+	- boost-build
+	- crystalspace
+	- codeblocks
+	- boost-jam
+
+cfengine2
+	- cfengine3
+
+aewm++-goodies
+	- wm-icons
+
+seahorse
+	- seahorse-plugins
+
+galib
+	- gamera
+
+lineakd
+	- lineak-kdeplugins
+
+obconf
+	- openbox
+
+libmodplug
+	- schism
+
+player
+	- stage
+
+bincimap
+	- recoll
+
+ampache-themes
+	- popfile
+
+keytouch
+	- keytouch-editor
+
+i2c-tools
+	- lm-sensors
+
+libept
+	- adept
+
+gnome-xcf-thumbnailer
+	- xcftools
+
+gapcmon
+	- apcupsd
+
+links2
+	- tucnak2
+
+fbxkb
+	- pychess
+	- liblicense
+	- translatoid
+	- awstats
+	- gnunet-gtk
+	- xqf
+	- awn-extras-applets
+	- lxpanel
+	- vidalia
+
+ruby1.8
+	- jruby1.1
+	- ruby1.9.1
+	- soap4r
+	- jruby
+
+libdate-calc-perl
+	- libdate-pcalc-perl
+
+haskell-xhtml
+	- hugs98
+
+openmsx
+	- openmsx-catapult
+	- openmsx-debugger
+
+powerman
+	- scrub
+
+gpe-conf
+	- gpe-icons
+
+libcroco
+	- inkscape
+	- gettext
+	- cssed
+
+tidy
+	- wml
+
+statcvs
+	- statsvn
+
+wl-beta
+	- wl
+	- w3m-el
+	- w3m-el-snapshot
+
+dash
+	- kbuild
+
+openclipart
+	- xaralx
+	- tuxpaint-stamps
+	- phatch
+
+libggi
+	- libgiigic
+	- libgii
+	- libggiwmh
+	- libggimisc
+	- libggigcp
+
+morfologik-stemming
+	- sun-javadb
+
+frotz
+	- gargoyle-free
+
+flutejava
+	- flute-openoffice.org
+
+acetoneiso
+	- oxygen-icons
+
+tk8.5
+	- amsn
+	- grass
+
+libcommons-digester-java
+	- tomcat6
+
+cecil
+	- mono
+	- monodevelop
+	- mono-addins
+
+cli-common
+	- mono
+
+boost1.40
+	- noiz2sa
+	- libsmbios
+	- libkml
+	- lyx
+	- coin3
+	- fityk
+	- framewave
+	- k3d
+	- wxformbuilder
+	- rrootage
+	- kompozer
+	- deal.ii
+	- virtualbox-ose
+	- simgear
+
+sparsehash
+	- kdevplatform
+
+libxkbfile
+	- vnc4
+
+libapogee2
+	- indi
+
+docbook-simple
+	- libxslt
+
+dahdi-linux
+	- dahdi-tools
+
+liborigin2
+	- qwt
+	- qtiplot
+
+libircclient
+	- pokerth
+
+tinymce
+	- webcit
+	- dotlrn
+	- knowledgeroot
+	- openacs
+	- webgui
+	- wordpress-mu
+	- wordpress
+	- roundcube
+	- mahara
+	- tinymce2
+	- glpi
+
+libdvdnav
+	- k9copy
+	- mplayer
+	- mythtv
+	- libdvdread
+
+libsfml
+	- python-sfml
+
+ode
+	- blender
+
+automake1.9-nonfree
+	- automake
+	- automake1.9
+	- automake1.10
+	- automake1.7
+	- autoconf2.59
+	- dasher
+
+libparagui1.1
+	- vxl
+	- vnc4
+	- plt-scheme
+	- insighttoolkit
+	- vtk
+	- python3.1
+	- python2.6
+	- texlive-bin
+	- asc
+	- paraview
+	- mupen64plus
+	- gdcm
+	- kompozer
+	- wxwidgets2.8
+	- wxwidgets2.6
+
+kobby
+	- libqinfinity
+
+libgtkdatabox
+	- xoscope
+
+dk-milter
+	- opendkim
+	- dkim-milter
+	- gcl
+
+openser
+	- ser
+
+pixman
+	- libgdiplus
+
+mlton
+	- moin
+	- newlib
+
+libdevel-simpletrace-perl
+	- libtest-portability-files-perl
+
+gpsim
+	- gputils
+
+poker-engine
+	- poker-network
+
+libapp-info-perl
+	- libdbd-pg-perl
+
+nss-pam-ldapd
+	- openldap
+
+openttd-opengfx
+	- openttd-opensfx
+
+ntlmaps
+	- spkproxy
+
+jaaa
+	- japa
+
+mod-vhost-hash-alias
+	- tcllib
+
+bsh
+	- glassfish
+	- jedit
+
+ccbuild
+	- metalink
+
+cbedic
+	- kbedic
+
+minpack
+	- insighttoolkit
+	- vxl
+	- scilab
+	- octave3.0
+	- python-scipy
+
+kayali
+	- sdop
+	- plt-scheme
+	- pspp
+
+libnet-oauth-perl
+	- movabletype-opensource
+
+gallery
+	- zoph
+	- horde3
+
+libfile-rsyncp-perl
+	- rsync
+
+calcoo
+	- swi-prolog
+
+apt-file
+	- mp4h
+
+libplexus-utils
+	- maven-verifier
+
+ffmpeg-extra
+	- xvidcap
+	- ffmpeg
+	- mythtv
+	- kino
+	- vlc
+	- mplayer
+
+bzr
+	- python2.6
+
+exo
+	- libfm
+	- pcmanfm
+
+liblqr
+	- digikam
+
+arch-perl
+	- archzoom
+
+nltk
+	- w3af
+
+batik
+	- xmlgraphics-commons
+	- fop
+
+amap-align
+	- probcons
+
+bins
+	- gallery2
+
+iec16022
+	- glabels
+
+commons-pool
+	- libcommons-dbcp-java
+
+antennavis
+	- qantenna
+
+indi
+	- libindi
+
+cl-ppcre
+	- cl-portable-aserve
+
+svnmailer
+	- yapgvb
+
+dvi2dvi
+	- dvi2ps
+
+libgems-ruby
+	- shoes
+	- jruby
+	- jruby1.1
+	- ruby1.9
+	- ruby1.9.1
+
+fractxtra
+	- xfractint
+
+qwtplot3d
+	- qtiplot
+
+startup-notification
+	- xfe
+
+libusb
+	- argyll
+
+r5rs-doc
+	- r6rs-doc
+	- scheme2c
+
+enet
+	- blockattack
+	- assaultcube
+	- sauerbraten
+
+usplash-theme-ubuntu
+	- usplash-theme-ubuntu-color
+
+ddskk
+	- xemacs21-packages
+
+libxml-atom-perl
+	- movabletype-opensource
+
+kontrolpack
+	- gnome-icon-theme
+	- bzr-explorer
+	- texworks
+	- hugin
+	- tango-icon-theme
+
+haskell-network
+	- hugs98
+
+semweb
+	- beagle
+	- f-spot
+
+aeolus
+	- japa
+
+chicken
+	- ypsilon
+
+iscsitarget
+	- tgt
+
+auctex
+	- xemacs21-packages
+	- mailcrypt
+
+gerbv
+	- pcb
+	- tinyscheme
+
+egroupware-egw-pear
+	- php-log
+
+bibtool
+	- lyskom-server
+
+gnunet
+	- wine1.2
+	- libextractor
+
+wesnoth-1.8
+	- wesnoth
+	- pingus
+	- boost1.40
+	- scummvm
+
+myththemes
+	- mythtv
+
+guile-gnome-platform
+	- pygtk
+
+intel-gpu-tools
+	- libdrm
+
+aspell-uz
+	- uzbek-wordlist
+
+lxlauncher
+	- pcmanfm
+
+gausssum
+	- lire
+
+edict-el
+	- xemacs21-packages
+
+bfm
+	- wmbubble
+
+fontconfig
+	- vnc4
+	- tuxpaint
+
+fontforge
+	- mensis
+	- texlive-bin
+
+lp-solve
+	- r-cran-lpsolve
+
+console-cyrillic
+	- kbd
+
+classworlds
+	- plexus-classworlds
+
+jcc
+	- pylucene
+
+libgtksourceviewmm1
+	- gnome-vfsmm2.6
+	- libgtksourceviewmm
+	- libgnomemm2.6
+	- gtkglextmm
+	- log4cpp-doc
+
+vecmath
+	- java3d
+
+grib-api
+	- grib-def
+
+frescobaldi
+	- wxmaxima
+
+jquery
+	- knowledgeroot
+	- activeldap
+	- webcit
+	- wordpress-mu
+	- jifty
+	- typo3-src
+	- symfony
+	- pixelpost
+	- jruby1.1
+	- scriptaculous
+	- webhelpers
+	- wordpress
+
+tachyon
+	- tbb
+
+vtk
+	- openarena
+	- libmesh
+	- cmake
+	- vxl
+	- insighttoolkit
+	- wxwidgets2.6
+	- texlive-bin
+	- wxwidgets2.8
+	- kwwidgets
+	- paraview
+	- netcdf
+	- gdcm
+	- kwstyle
+	- kompozer
+	- gccxml
+
+linux86
+	- fhist
+	- z88dk
+	- libexplain
+	- aegis
+	- dietlibc
+	- cook
+	- tendra
+
+python-graph
+	- python-rackspace-cloudfiles
+
+beav
+	- mg
+
+db
+	- evolution-data-server
+	- newlib
+	- osiris
+	- gnat-gps
+	- libberkeleydb-perl
+	- htdig
+	- perl
+
+makefs
+	- ufsutils
+
+bash-completion
+	- bash-completion-lib
+
+libslf4j-java
+	- logback
+
+liboil
+	- orc
+
+fprobe
+	- fprobe-ulog
+
+cacti
+	- serverstats
+
+kiki
+	- spe
+
+beneath-a-steel-sky
+	- scummvm
+
+lksctp-tools
+	- ltp
+
+jack-rack
+	- mlt
+
+libxml-security-java
+	- xmlsec1
+
+abby
+	- gnome-icon-theme
+	- bzr-explorer
+	- tango-icon-theme
+	- jedit
+	- mapivi
+	- scilab
+	- scribus-ng
+
+geekast
+	- gnome-icon-theme
+
+fvwm1
+	- fvwm
+
+evolution
+	- evolution-exchange
+	- evolution-data-server
+
+smplayer
+	- smplayer-themes
+
+libjlatexmath-java
+	- libjmathtex-java
+
+pixbros
+	- xfce4-weather-plugin
+	- pixfrogger
+
+phpsysinfo
+	- egroupware
+
+logilab-astng
+	- pylint
+
+minc
+	- netcdf
+
+patch
+	- parted
+	- tar
+	- mailutils
+	- anubis
+	- ale
+	- mlocate
+	- sed
+	- findutils
+	- acct
+	- texinfo
+	- libgnupdf
+	- rcs-blame
+	- fastjar
+	- le
+	- libunistring
+	- m4
+	- libpreludedb
+	- mpop
+	- gettext
+	- dico
+	- coreutils
+	- hello-debhelper
+	- prelude-manager
+	- man-db
+	- source-highlight
+	- gmediaserver
+	- zile
+	- pspp
+	- inetutils
+	- lftp
+	- vtk
+	- prelude-lml
+	- libidn
+	- cpio
+	- renameutils
+	- libvirt
+	- freedink
+	- gsasl
+	- wget
+	- shishi
+	- gnulib
+	- icoutils
+	- libprelude
+	- nagios-plugins
+	- bison
+	- cflow
+	- id-utils
+	- gtk-vnc
+	- amanda
+	- hello
+	- gnuit
+	- paraview
+
+procps
+	- manpages-cs
+	- manpages-es-extra
+	- manpages-fr-extra
+
+dtc
+	- fatrat
+
+psyco
+	- psyco-doc
+
+wpg2odg
+	- writerperfect
+
+portmidi
+	- puredata
+	- musescore
+
+libcommons-jexl-java
+	- libcommons-modeler-java
+
+kino
+	- xvidcap
+	- vice
+	- dvgrab
+	- smilutils
+	- opencv
+	- mplayer
+	- mlt
+
+libvorbis
+	- openarena
+	- libtritonus-java
+
+octave-nan
+	- octave-statistics
+
+gfccore
+	- gfcui
+	- glibmm2.4
+
+gst-plugins-bad-multiverse0.10
+	- gst-plugins-good0.10
+	- psimedia
+	- gst-plugins-bad0.10
+
+dump
+	- hfsprogs
+
+json-c
+	- gdal
+
+libwpeditor-plus
+	- wpeditor
+
+jade
+	- openjade1.3
+	- openjade
+	- opensp
+
+autoconf2.13
+	- dvipsk-ja
+
+octave3.0
+	- hypre
+	- vxl
+	- insighttoolkit
+	- octave3.2
+	- scilab
+	- freemat
+	- plplot
+
+cyrus-sasl2-heimdal
+	- openafs
+	- cyrus-sasl2
+	- heimdal
+	- crack
+	- cyrus-imspd
+
+libnet-dbus-perl
+	- system-tools-backends
+
+wordpress-mu
+	- geda-gaf
+	- webcit
+	- dokuwiki
+	- jifty
+	- websvn
+	- scriptaculous
+	- zoph
+	- wordpress
+	- dotlrn
+	- horde3
+	- webgui
+	- moodle
+	- jruby1.1
+	- mahara
+	- glpi
+	- jquery
+	- knowledgeroot
+	- typo3-src
+	- symfony
+	- zabbix
+	- openacs
+	- movabletype-opensource
+
+bisonc++
+	- bobcat
+	- xd
+
+libxbase
+	- xdb
+
+php-gettext
+	- scuttle
+
+clucene-core
+	- qt4-x11
+
+dvdauthor
+	- dvd95
+
+emacs-snapshot
+	- xemacs21
+	- vnc4
+	- ayttm
+	- treeviewx
+	- gcl
+	- sweep
+	- unicon
+	- emacs22
+	- emacs23
+	- wxwidgets2.6
+	- wm-icons
+
+amara
+	- harpia
+
+slirp
+	- vde2
+	- newlib
+	- qemu-kvm
+	- virtualbox-ose
+
+libaio
+	- xen-3.3
+
+riece
+	- xemacs21-packages
+
+fimport
+	- r-cran-timedate
+
+gravitation
+	- transcend
+	- cultivation
+	- primrose
+	- passage
+
+ack-grep
+	- libfile-next-perl
+
+neverball
+	- xournal
+
+libresample
+	- oggvideotools
+
+excalibur-logkit
+	- liblogkit-java
+
+gdl
+	- inkscape
+
+python-webunit
+	- wsgi-intercept
+
+efte
+	- fte
+
+liblo
+	- freej
+
+genius
+	- slgtk
+
+gtest
+	- llvm
+	- protobuf
+	- libkml
+	- clamav
+	- gears
+	- mixxx
+	- freemat
+
+kolabd
+	- kolab-webadmin
+
+perl-tk
+	- vxl
+	- qt4-x11
+	- vnc4
+	- plt-scheme
+	- insighttoolkit
+	- tightvnc
+	- python2.6
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- paraview
+	- gamera
+	- kompozer
+	- vtk
+	- wxwidgets2.6
+
+clisp
+	- cln
+	- ffcall
+	- xsok
+	- cl-clx-sbcl
+	- xindy
+
+libmsn
+	- amsn
+	- centerim
+	- gst-plugins-bad0.10
+	- msn-pecan
+	- gst-plugins-bad-multiverse0.10
+
+chardet
+	- pyicqt
+	- eric
+
+scummvm
+	- mednafen
+	- qt4-x11
+	- kde4libs
+	- muse
+	- wxwidgets2.8
+	- wxwidgets2.6
+
+mp4h
+	- wml
+
+kterm
+	- vnc4
+
+cairo-clock
+	- awn-extras-applets
+
+libxrender
+	- vnc4
+
+gnustep-base
+	- gnustep-gui
+
+hfsplus
+	- hfsutils
+	- pearpc
+	- openbios-sparc
+
+bulletml
+	- noiz2sa
+	- rrootage
+
+ttf-marvosym
+	- ttf-radisnoir
+
+hardware-monitor
+	- monster-masher
+
+libfilter-perl
+	- perl
+
+libpam-ssh
+	- openssh
+
+openntpd
+	- openssh
+
+libpano12
+	- libpano13
+
+haskell-hunit
+	- hugs98
+
+sml-mode
+	- xemacs21-packages
+
+openttd
+	- scummvm
+
+libsyncml
+	- wbxml2
+
+guidedog
+	- komba2
+
+pudge
+	- python-authkit
+
+gecko-mediaplayer
+	- gnome-mplayer
+
+avogadro
+	- oxygen-icons
+	- kdeedu
+
+libhtml-display-perl
+	- libwww-mechanize-shell-perl
+
+openide-util
+	- netbeans
+	- libnb-platform-java
+
+libloki
+	- asc
+	- tora
+
+snappea
+	- regina-normal
+
+gnomeradio
+	- xfce4-radio-plugin
+
+glide
+	- med-fichier
+	- mupen64plus
+
+pennmush
+	- tinymux
+	- trn4
+
+sugar-jigsawpuzzle-activity
+	- sugar-sliderpuzzle-activity
+
+language-pack-gnome-fr-base
+	- language-pack-gnome-sv-base
+
+wxwidgets2.6
+	- vxl
+	- qt4-x11
+	- qscintilla2
+	- wxwidgets2.8
+	- kicad
+	- xaralx
+	- codeblocks
+	- monkeystudio
+
+libdigest-sha-perl
+	- perl
+
+mbrola-de6
+	- mbrola-de7
+
+ps2eps
+	- texlive-bin
+
+amoeba
+	- amoeba-data
+
+yajl
+	- argyll
+
+pyqwt3d
+	- pyqwt5
+
+context
+	- texlive-base
+	- texlive-bin
+
+asterisk-prompt-fr-proformatique
+	- scid
+
+libparse-cpan-meta-perl
+	- libyaml-tiny-perl
+	- perl
+
+portaudio
+	- julius
+	- openmovieeditor
+	- linpsk
+
+remmina-gnome
+	- remmina-xfce
+
+libcap2
+	- proftpd-dfsg
+
+kanif
+	- taktuk
+
+binutils
+	- mono-debugger
+	- xen-3.3
+	- gcl
+	- ht
+	- ghdl
+	- xemacs21
+	- binutils-h8300-hms
+	- gccxml
+	- radare
+
+boost-jam
+	- parser
+	- boost1.40
+	- plt-scheme
+	- mono
+	- cacao-source
+	- uim
+	- sigscheme
+	- boost-build
+	- cacao
+	- kompozer
+	- libgc
+
+libgd2
+	- plt-scheme
+	- ploticus
+	- texlive-bin
+	- libwmf
+	- php5
+	- graphviz
+
+fecofin
+	- fextremes
+	- fgarch
+
+honeyd
+	- python-dpkt
+
+stlport5.2
+	- boost1.40
+	- stlport4.6
+	- lsb-build-base3
+	- root-system
+	- stl-manual
+	- tendra
+
+netbook-launcher
+	- netbook-launcher-efl
+
+libxfce4menu
+	- thunar
+
+melting
+	- netgen
+
+octave3.2
+	- vxl
+	- insighttoolkit
+	- mopac7
+	- octave3.0
+	- python-scipy
+	- pdl
+	- scilab
+	- arpack
+	- maxima
+
+php-net-ldap
+	- php-net-ldap2
+
+haskell-openal
+	- hugs98
+
+pygments
+	- wxwidgets2.8
+	- moin
+	- editra
+	- eric
+
+libupnp4
+	- mediatomb
+	- libupnp
+	- djmount
+
+thunar
+	- xfce4-terminal
+
+libxml-dom-xpath-perl
+	- libxml-twig-perl
+
+libosip2
+	- qutecom
+
+tryton-modules-account-invoice-history
+	- tryton-modules-sale-price-list
+
+ptlib
+	- openh323-titan
+	- opal
+	- pwlib-titan
+	- pwlib
+
+xbuffy
+	- zephyr
+
+libjaxp1.3-java
+	- libcobra-java
+	- xml-commons-external
+	- libxpp2-java
+
+jconv
+	- jconvolver
+
+intlfonts
+	- xfonts-base
+
+kde4libs
+	- qt4-x11
+	- libsyntax-highlight-engine-kate-perl
+	- kdelibs
+	- stellarium
+	- webkit
+	- libencode-detect-perl
+	- kompozer
+
+tclap
+	- mrpt
+
+freqtweak
+	- sooperlooper
+
+kamoso
+	- kipi-plugins
+
+abiword
+	- gtkmathview
+
+gxine
+	- xine-ui
+
+crossfire
+	- pork
+
+libebox
+	- moodle
+
+network-manager
+	- kdebase-workspace
+
+gts
+	- pcb
+	- powerman
+	- singular
+
+libart-lgpl
+	- scribus
+	- python-reportlab
+
+fuzzyocr3
+	- fuzzyocr
+
+haskell-json
+	- ruby1.9
+	- ruby1.9.1
+	- jruby
+	- libjson-ruby
+
+haxe
+	- mtasc
+
+gallery2
+	- gallery
+
+libgd-gd2-noxpm-perl
+	- libgd-gd2-perl
+
+libwww-perl
+	- movabletype-opensource
+
+kball
+	- kraptor
+
+erlang-doc-html
+	- jaminid
+
+battleball
+	- root-system
+
+mupen64plus
+	- vxl
+	- qt4-x11
+	- vnc4
+	- plt-scheme
+	- insighttoolkit
+	- vtk
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- xnc
+	- paraview
+	- kompozer
+	- perl-tk
+	- wxwidgets2.6
+
+pdsh
+	- slurm-llnl
+
+cgal
+	- core++
+
+coherence
+	- moovida
+
+lacheck
+	- mailcrypt
+
+alure
+	- duma
+
+libinnate-ruby
+	- libramaze-ruby
+
+libmaa
+	- dict-gcide
+
+libauthen-sasl-perl
+	- otrs2
+
+anytun
+	- uanytun
+
+libmad
+	- avifile
+	- avidemux
+
+cmap-adobe-japan2
+	- poppler-data
+
+cmap-adobe-japan1
+	- poppler-data
+	- xpdf-japanese
+
+xloadimage
+	- freeimage
+	- libtk-img
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- qt4-x11
+	- paraview
+	- libjpeg6b
+	- wxwidgets2.6
+	- vxl
+	- visualboyadvance
+	- vtk
+	- xnc
+	- opencv
+	- povray
+	- outguess
+	- plt-scheme
+	- insighttoolkit
+	- pose
+	- gamera
+	- boinc
+	- openarena
+	- gdcm
+	- gdal
+	- tremulous
+	- htmldoc
+	- vice
+	- dcmtk
+	- gears
+	- kompozer
+	- perl-tk
+	- fltk1.1
+
+glhack
+	- nethack
+	- slashem
+
+metacity
+	- mutter
+
+teamspeak-client
+	- teamspeak-server
+
+emacs-goodies-el
+	- xemacs21-packages
+
+coccinelle
+	- frama-c
+	- splint
+
+libsgmls-perl
+	- texlive-doc
+
+erlang
+	- erlang-doc-html
+
+xpdf
+	- pdfedit
+	- poppler
+	- texlive-bin
+	- libextractor
+
+affiche
+	- plopfolio.app
+
+hostapd
+	- wpasupplicant
+
+libjcommon-java
+	- libjfreechart-java
+	- pentaho-reporting-flow-engine-openoffice.org
+
+kunststoff
+	- jftp
+
+proftpd-dfsg
+	- wu-ftpd
+
+libview
+	- vinagre
+
+xtrans
+	- vnc4
+	- xwnc
+
+libgtkhtml2
+	- claws-mail-extra-plugins
+
+holotz-castle
+	- holotz-castle-milanb
+
+fceu
+	- fceux
+	- mednafen
+
+lire
+	- wxglade
+
+uriparser
+	- libkml
+
+libmusclecard
+	- pcsc-lite
+
+openwince-jtag
+	- urjtag
+
+libtomcrypt
+	- dropbear
+
+jftp
+	- mediawiki-metavidwiki
+	- libj2ssh-java
+
+plib-doc
+	- qcake
+
+openais
+	- openais-legacy
+
+libfcgi
+	- libfcgi-perl
+
+foo2zjs
+	- foomatic-db
+	- lcms
+
+adium-theme-ubuntu
+	- gwibber
+
+libgooglecharts-ruby
+	- yapra
+
+libtest-simple-perl
+	- perl
+
+blas
+	- hypre
+	- vxl
+	- insighttoolkit
+	- octave3.0
+	- openturns
+	- octave3.2
+	- semidef-oct
+	- atlas
+	- arpack
+
+expat
+	- vxl
+	- vtk
+	- texlive-bin
+	- apache2
+	- wxwidgets2.8
+	- poco
+	- paraview
+	- gdcm
+	- kompozer
+	- cvsnt
+	- wxwidgets2.6
+
+geshi
+	- websvn
+	- dokuwiki
+
+invada-studio-plugins
+	- invada-studio-plugins-lv2
+
+jwchat
+	- tkabber
+
+psi
+	- psi-plus
+	- qca2-plugin-gnupg
+	- texlive-bin
+
+zodb
+	- zope.container
+
+mpqc
+	- psicode
+
+cacao
+	- cacao-source
+	- libatomic-ops
+
+libbsd
+	- openssh
+
+event-rpc
+	- libevent-rpc-perl
+
+ganymed-ssh2
+	- trilead-ssh2
+	- libjgraph-java
+
+mutagen
+	- taglib
+
+libcgicc
+	- xlog
+
+iselect
+	- wml
+
+slurm
+	- xfce4-netload-plugin
+
+python-mechanize
+	- twill
+
+libjboss-cache1-java
+	- libjboss-cache2-java
+	- libjboss-serialization-java
+
+dynagen
+	- gns3
+
+classpath
+	- kompozer
+	- plt-scheme
+	- xml-crimson
+	- cacao-source
+	- glassfish
+	- cacao
+	- ikvm
+	- jamvm
+
+oflib
+	- pommed
+
+check
+	- gstreamer0.10
+
+doc-rfc
+	- samba4
+	- snmp-mibs-downloader
+	- mpeg4ip
+
+lilypond
+	- musescore
+
+python-medusa
+	- m2crypto
+	- supervisor
+
+paramiko
+	- fabric
+
+radiusd-livingston
+	- yardradius
+
+libzip
+	- php5
+
+libyahoo2
+	- bitlbee
+	- centerim
+	- ayttm
+
+libgadu
+	- ekg
+
+psgml
+	- vm
+	- xemacs21-packages
+
+libidn
+	- psi-plus
+	- psi
+
+libtext-markdown-perl
+	- libtext-multimarkdown-perl
+
+fwsnort
+	- psad
+
+coldfire
+	- skyeye
+
+ball
+	- ugene
+	- mgltools-molkit
+
+ccid
+	- pcsc-lite
+
+rmatrix
+	- suitesparse-metis
+	- glpk
+	- suitesparse
+
+libassuan
+	- gpgme1.0
+	- gnupg
+	- poldi
+
+darcs-buildpackage
+	- tla-buildpackage
+
+anyremote2html
+	- smplayer-themes
+
+libpri
+	- vpb-driver
+
+openopt
+	- python-scikits-openopt
+
+efax
+	- efax-gtk
+
+fruit
+	- glaurung
+	- polyglot
+	- scid
+	- toga2
+
+hfsprogs
+	- openafs
+	- ufsutils
+
+libmime-explode-perl
+	- mime-tools
+
+emacs22
+	- xemacs21-packages
+	- emacs-snapshot
+	- octave3.2
+	- cedet
+	- emacs23
+
+emacs23
+	- org-mode
+	- nxml-mode
+	- easypg
+	- xemacs21-packages
+	- swi-prolog
+	- emacs-snapshot
+	- wxwidgets2.6
+
+tix
+	- perl-tk
+	- python2.6
+	- python3.1
+
+cgoban
+	- pente
+
+libtext-csv-perl
+	- libtext-csv-xs-perl
+
+lua-filesystem
+	- texlive-bin
+
+cduce
+	- ocamlduce
+
+cryptmount
+	- cryptsetup
+
+sed
+	- coreutils
+	- kbuild
+	- gnulib
+	- ssed
+	- gnu-smalltalk
+
+gnuplot
+	- gnuplot-mode
+
+ibus-unikey
+	- scim-unikey
+
+libxml-rss-libxml-perl
+	- libxml-rss-perl
+
+libifp
+	- ifpgui
+
+bin-prot
+	- sexplib310
+
+tdom
+	- tcl8.5
+	- vtk
+	- wxwidgets2.8
+	- paraview
+	- wxwidgets2.6
+	- tcl8.4
+
+libdrm
+	- vnc4
+
+libical
+	- orage
+	- claws-mail-extra-plugins
+	- calendarserver
+
+plexus-cdc
+	- plexus-component-metadata
+
+libcss-minifier-xs-perl
+	- libjavascript-minifier-xs-perl
+
+libbuilder-ruby
+	- redmine
+
+fltk1.1
+	- lmms
+	- vice
+
+kdeadmin
+	- kdeutils
+	- klamav
+
+simpletal
+	- plastex
+
+tightvnc
+	- root-system
+	- omniorb4
+	- vnc4
+
+gnuserv
+	- xemacs21
+
+blitz++
+	- python-scipy
+
+gsl
+	- gsl-doc
+	- libgsl-ruby
+	- bogofilter
+
+libfile-spec-perl
+	- perl
+
+portaudio19
+	- wsjt
+	- puredata
+	- freemat
+	- portaudio
+
+ledit
+	- ara
+
+python-pysqlite1.1
+	- python-sqlite
+
+ltrace
+	- strace
+
+antlr
+	- glassfish
+	- fwbuilder
+	- kdesdk
+	- gnudatalanguage
+	- boo
+
+glut
+	- boinc-app-seti
+	- boinc
+
+mkvtoolnix
+	- ogmtools
+
+goocanvas
+	- gcompris
+
+db1-compat
+	- krb5
+	- newlib
+	- global
+	- asterisk
+	- gnat-gps
+
+twm
+	- ctwm
+	- vnc4
+
+qlandkartegt
+	- qmk-groundstation
+
+avant-window-navigator
+	- awn-extras-applets
+
+libmailtools-perl
+	- otrs2
+
+casper
+	- live-initramfs
+
+libsamplerate
+	- mythtv
+	- lmms
+	- gavl
+
+easytag-aac
+	- easytag
+	- gnomoradio
+
+c2hs
+	- gtk2hs
+
+tuxpaint-stamps
+	- warzone2100
+
+cppunit
+	- poco
+
+libscalar-list-utils-perl
+	- perl
+
+elk
+	- wine1.0
+
+rake
+	- jruby1.1
+	- dlr-languages
+	- ruby1.9.1
+	- ruby1.9
+	- jruby
+
+link-monitor-applet
+	- mail-notification
+	- xfce4-xkb-plugin
+
+tcl8.5
+	- wxwidgets2.8
+	- paraview
+	- perl-tk
+	- wxwidgets2.6
+	- tcl8.4
+
+gmm
+	- gmsh
+	- getfem++
+
+cup
+	- jflex
+
+scribus-doc
+	- scribus-ng-doc
+
+exempi
+	- kipi-plugins
+
+libxmltok
+	- expat
+	- texlive-bin
+	- wxwidgets2.8
+	- sdlmame
+	- paraview
+	- sitecopy
+	- vxl
+	- cmake
+	- vnc4
+	- xotcl
+	- vtk
+	- wxsvg
+	- apache2
+	- poco
+	- udunits
+	- wxwidgets2.6
+	- libparagui1.1
+	- smart
+	- wbxml2
+	- insighttoolkit
+	- python2.6
+	- cadaver
+	- apr-util
+	- mcabber
+	- python3.1
+	- gdcm
+	- matanza
+	- centerim
+	- ayttm
+	- cableswig
+	- coin3
+	- xmlrpc-c
+	- simgear
+	- kompozer
+	- tdom
+	- swish-e
+
+flobopuyo
+	- madbomber
+
+apache2
+	- tomcat-native
+	- libapache-mod-jk
+
+mythbuntu-default-settings
+	- xubuntu-default-settings
+
+ltp
+	- posixtestsuite
+	- procps
+
+libfile-temp-perl
+	- perl
+
+eigen2
+	- kdeedu
+
+guile-1.8
+	- guile-1.8-non-dfsg
+	- guile-1.6
+
+gavl
+	- gmerlin
+
+t1utils
+	- texlive-bin
+
+mysql-connector-net-5.0
+	- mysql-connector-net
+	- gdata-sharp
+
+gmp
+	- core++
+	- gcl
+
+airport-utils
+	- java-snmp
+
+mmm-mode
+	- xemacs21-packages
+
+fortune-mod
+	- fortunes-es
+
+pymsnt
+	- twisted-calendarserver
+
+latex2html
+	- ude
+
+tntnet
+	- vdr-plugin-live
+
+bayonne
+	- saytime
+
+zephyr
+	- qutecom
+
+caps
+	- lmms
+	- mixxx
+
+apr-util
+	- apr
+	- tomcat-native
+	- apache2
+
+frei0r
+	- freej
+
+liburi-perl
+	- movabletype-opensource
+
+libphysfs
+	- mupen64plus
+	- libparagui1.1
+
+quantlib
+	- quantlib-refman-html
+
+libhibernate3-java
+	- libhibernate-entitymanager-java
+
+tcl8.3
+	- tklib
+	- tdom
+	- wxwidgets2.6
+	- wxwidgets2.8
+	- ogdi-dfsg
+	- tcllib
+	- tcltrf
+	- swi-prolog
+	- perl-tk
+	- tcl8.5
+	- tcl8.4
+
+gdcm
+	- vxl
+	- qt4-x11
+	- python2.6
+	- texlive-bin
+	- virtuoso-opensource
+	- python3.1
+	- sks-ecc
+	- freemat
+	- perl-tk
+
+pcre3
+	- oftc-hybrid
+	- erlang
+	- falconpl
+	- cherokee
+	- medit
+	- glib2.0
+	- tin
+	- apache2
+	- poco
+	- hypermail
+	- virtuoso-opensource
+	- mongodb
+	- php5
+	- freemat
+	- libapache-mod-jk
+	- cvsnt
+
+hildon-desktop
+	- lesstif2
+
+bouml
+	- cgal
+	- ogre
+
+aspectj
+	- icu4j
+
+cairo-dock
+	- cairo-dock-plug-ins
+
+tcl8.4
+	- tclvfs
+	- tcl8.5
+
+hypre
+	- trilinos
+
+amrita
+	- libcgikit-ruby
+
+tvtime
+	- gst-plugins-good0.10
+	- transcode
+
+ripole
+	- scilab
+
+libgnome
+	- libwnck
+	- libgnomeui
+
+pgpool2
+	- postgresql-8.4
+	- pgpool
+
+iftop
+	- tcpdump
+
+xorg-server
+	- xwnc
+	- vnc4
+	- virtualbox-ose
+
+cl-lml2
+	- cl-lml
+
+netgen
+	- viewmol
+	- elmerfem
+
+mule-ucs
+	- xemacs21-packages
+
+libf2c2
+	- vxl
+	- pcx
+	- opencv
+	- insighttoolkit
+	- digikam
+	- igraph
+	- freemat
+
+zlib
+	- samba4
+	- vxl
+	- libaws
+	- qt4-x11
+	- libkml
+	- povray
+	- httrack
+	- google-gadgets
+	- virtuoso-opensource
+	- texlive-bin
+	- libtk-img
+	- gdcm
+	- sks-ecc
+	- freemat
+	- perl-tk
+	- cvsnt
+
+mpmath
+	- sympy
+
+vbox3
+	- isdnutils
+
+squirrelmail
+	- squirrelmail-locales
+
+flup
+	- moin
+
+libxmu
+	- vnc4
+
+gtksourceview
+	- gretl
+	- vdk2
+
+pekwm-themes
+	- sawfish-themes
+
+kchmviewer
+	- kdegraphics
+
+php-openid
+	- wordpress-openid
+	- typo3-src
+
+nasm
+	- yasm
+
+libsoap-lite-perl
+	- movabletype-opensource
+
+turbogears
+	- turbogears2-doc
+	- tg.devtools
+
+open-vm-tools
+	- vmware-view-open-client
+
+libixp
+	- wmii
+
+qhull
+	- blender
+
+grun
+	- tuxtype
+
+javamorph
+	- worldwind
+
+file-mmagic
+	- namazu2
+
+autoconf-nonfree
+	- autoconf2.64
+	- autoconf2.13
+	- automake1.10
+	- autoconf
+	- autoconf2.59
+
+searchandrescue
+	- yiff
+
+ax25-apps
+	- ax25spyd
+
+libsigsegv
+	- gnu-smalltalk
+
+libcapture-tiny-perl
+	- libexception-class-trycatch-perl
+
+kelbt
+	- ragel
+
+javahelp2
+	- netbeans
+
+dictionary-el
+	- xemacs21-packages
+
+exiftags
+	- libimage-exif-perl
+
+plplot
+	- emboss
+	- plt-scheme
+
+language-pack-gnome-eo-base
+	- language-pack-gnome-ug-base
+
+rsync
+	- samba4
+
+ess
+	- xemacs21-packages
+
+vgabios
+	- xen-3.3
+	- qemu-kvm
+	- virtualbox-ose
+
+cpuburn
+	- ctcs
+
+contacts
+	- contacts-snapshot
+
+libxi
+	- vnc4
+
+libgsm
+	- iaxclient
+	- gnuradio
+	- opal
+	- asterisk
+	- libsndfile
+	- swh-plugins
+	- mgetty
+	- openh323-titan
+	- openh323
+	- qutecom
+	- wsola
+
+pootle
+	- python-django-djblets
+	- python-django
+
+libuser
+	- scim
+
+psi-plus
+	- psi
+	- kdegames
+	- mypasswordsafe
+	- qutim
+	- qutecom
+	- kdenetwork
+
+language-selector
+	- ubuntu-docs
+
+proj
+	- merkaartor
+	- pyproj
+
+libicc
+	- argyll
+
+itrans
+	- texlive-lang
+
+cpphs
+	- hmake
+	- hugs98
+
+icu
+	- webkit
+	- perl
+	- texlive-bin
+	- camomile
+
+wine1.2
+	- tar
+	- mailutils
+	- texlive-bin
+	- tcc
+	- vnc4
+	- ruby1.9
+	- mingw-w64
+	- wine1.0
+	- tendra
+	- samba4
+	- dhcp3
+	- imagemagick
+	- allegro4.2
+	- vlc
+	- swi-prolog
+	- cook
+	- gnulib
+	- mono
+	- elinks
+	- xorg-server
+	- libexplain
+	- grass
+	- nip2
+
+tomcat6
+	- tomcat-native
+	- libservlet2.4-java
+	- jbossas4
+	- glassfish
+	- virtuoso-opensource
+	- libapache-mod-jk
+
+ogmtools
+	- transcode
+
+clif
+	- tclap
+
+libthread-queue-perl
+	- perl
+
+lm-sensors
+	- lm-sensors-3
+
+pylons
+	- tg.devtools
+
+mimelib1
+	- kdepim
+
+freecycle
+	- libwx11
+
+barcode
+	- facturalux
+	- glabels
+
+xerces-c
+	- xqilla
+	- xerces-c2
+	- libxml-xerces-perl
+
+slang-slirp
+	- slgtk
+
+dmidecode
+	- python-dmidecode
+
+qtoctave
+	- samba4
+
+jaxe
+	- lyx
+
+pv
+	- qsf
+
+libuninum
+	- msort
+
+qsampler
+	- qtractor
+
+libxml-parser-perl
+	- libxml-sax-expatxs-perl
+
+libgetopt-java
+	- omnievents
+
+sawfish
+	- sawfish-themes
+
+avce00
+	- gdal
+	- e00compr
+
+dirmngr
+	- gpa
+	- gnupg
+
+coq-doc
+	- coq
+	- cameleon
+	- why
+
+liboggplay
+	- libtheora
+
+itcl3
+	- itk3
+
+ctsim
+	- wxwidgets2.8
+
+language-pack-kde-ml-base
+	- language-pack-kde-ug-base
+
+docbook-xsl-ns
+	- kde4libs
+	- php-doc
+	- mxml
+	- docbook-website
+	- virtuoso-opensource
+	- csound-manual
+	- fvwm
+	- libxslt
+	- freeguide
+	- xmlstarlet
+	- docbook-slides-demo
+	- jbossas4
+	- libspring-2.5-java
+	- docbook-xsl
+	- freetds
+	- gnucash-docs
+	- boost1.40
+	- tclxml
+	- docbook2x
+	- docbook-defguide
+	- amavisd-new
+	- kdelibs
+	- docbook-slides
+	- capisuite
+	- docbook-xsl-doc
+	- zope.i18n
+	- boost-jam
+
+language-pack-gnome-pl-base
+	- language-pack-gnome-pt-base
+
+libaudio-mpd-perl
+	- libpoe-component-client-mpd-perl
+
+simutrans-pak128.britain
+	- simutrans-pak64
+
+libexif
+	- qlandkartegt
+
+peace-look
+	- sabily-gdm-themes
+
+iptraf
+	- xml-resume-library
+
+chameleon-cursor-theme
+	- kdebase-workspace
+
+paraview
+	- libmesh
+	- openscenegraph
+	- qt4-x11
+	- vnc4
+	- slicer
+	- xfonts-scalable
+	- insighttoolkit
+	- vtk
+	- coin3
+	- gpac
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- mysql-gui-tools
+	- kompozer
+	- mrpt
+
+dialog
+	- texlive-bin
+
+libjasper-java
+	- glassfish
+	- libxerces2-java
+	- tomcat6
+
+otf2bdf
+	- vnc4
+
+opie
+	- libpam-opie
+
+gambit
+	- gnus
+
+lwp
+	- rpc2
+
+libass
+	- mplayer
+	- avidemux
+
+wmmemload
+	- wmmemmon
+
+libsigc++-1.2
+	- libsigc++
+
+adns
+	- lyskom-server
+
+pfstmo
+	- qtpfsgui
+
+tiff
+	- vxl
+	- argyll
+	- opencv
+	- freeimage
+	- libtk-img
+	- vtk
+	- povray
+	- wxwidgets2.6
+	- wxwidgets2.8
+	- insighttoolkit
+	- qt4-x11
+	- paraview
+	- gamera
+	- xloadimage
+	- gdal
+
+libgda3
+	- qof
+
+aqemu
+	- kde-icons-kneu
+
+tkabber-plugins
+	- tklib
+
+smarty
+	- moodle
+	- gosa
+	- gallery2
+	- movabletype-opensource
+	- serendipity
+	- phpgacl
+
+libxcursor
+	- vnc4
+
+fcopulae
+	- fmultivar
+
+libsigc++-2.0
+	- stardict
+	- ardour
+
+libgee
+	- vala
+
+ggz-kde-client
+	- ggz-kde-games
+
+iulib
+	- ocropus
+
+libnet-twitter-lite-perl
+	- libnet-twitter-perl
+
+haskell-mode
+	- xemacs21-packages
+
+libmng
+	- freeimage
+	- qt4-x11
+
+libmlx4
+	- libmthca
+
+language-pack-gnome-ja-base
+	- language-pack-gnome-sk-base
+	- language-pack-gnome-oc-base
+
+batmon.app
+	- mpdcon.app
+
+gmsh
+	- elmerfem
+	- netgen
+
+libdvb
+	- vdr-plugin-streamdev
+
+kimwitu++
+	- kimwitu
+
+wmclockmon
+	- wmmaiload
+
+clientcookie
+	- python-mechanize
+
+mlgmp
+	- ocamlcreal
+
+pyspeex
+	- yapgvb
+
+guichan
+	- qonk
+	- boswars
+
+libtest-poe-client-tcp-perl
+	- libtest-poe-server-tcp-perl
+
+crossfire-maps
+	- crossfire-maps-small
+
+haskell-fgl
+	- hugs98
+
+nunit
+	- mono
+
+wine1.0
+	- samba4
+	- vice
+	- vlc
+	- heimdal
+	- mplayer
+	- wine1.2
+
+wordpress
+	- symfony
+	- knowledgeroot
+	- webcit
+	- wordpress-mu
+	- jifty
+	- moodle
+	- jruby1.1
+	- mantis
+	- mahara
+
+scribus
+	- libwx11
+	- scribus-ng
+
+avr-libc
+	- newlib
+
+ftgl
+	- mysql-gui-tools
+	- vtk
+	- tulip
+	- rgl
+	- root-system
+
+gazpacho
+	- monodevelop
+
+libextutils-cbuilder-perl
+	- perl
+
+libconfig
+	- dcbd
+	- libffado
+
+libavg
+	- vnc4
+
+gnome-keyring-sharp
+	- tomboy
+	- f-spot
+
+lib3ds
+	- openscenegraph
+	- mrpt
+	- boson
+
+mmpong
+	- smc
+
+libgrinvin-graphs-java
+	- libgrinvin-help-java
+
+packagekit
+	- gnome-power-manager
+	- packagekit-gnome
+
+simplejson
+	- nodebox-web
+	- exaile
+	- python2.6
+	- git-cola
+	- python3.1
+
+lfc-postgres
+	- dpm-postgres
+	- lfc
+	- newlib
+	- libexplain
+	- dpm
+
+haskell-opengl
+	- hugs98
+
+cacao-source
+	- jscoverage
+	- newlib
+	- classpath
+	- freej
+	- flite
+	- rtai
+	- cacao
+	- kompozer
+
+libaws
+	- polyorb
+
+crossvc
+	- esvn
+
+libmowgli
+	- mcs
+
+libshout
+	- freej
+	- icecast2
+	- ices2
+	- idjc
+
+xfwm4
+	- shiki-colors-murrine
+	- xfwm4-themes
+	- murrine-themes
+
+ruby1.9.1
+	- ruby1.8
+	- activeldap
+	- tktreectrl
+	- tklib
+	- ruby-gnome2
+	- libonig
+	- adanaxisgpl
+	- jruby
+	- jruby1.1
+	- ruby1.9
+	- puppet
+	- libcairo-ruby
+	- libgems-ruby
+	- php5
+	- dlr-languages
+	- libyaml-syck-perl
+	- wine1.2
+
+texlive-bin
+	- webkit
+	- kompozer
+	- qt4-x11
+
+hcluster
+	- python-scipy
+
+gtk2hs
+	- pygtk
+
+cvstrac
+	- fossil
+
+ant1.8
+	- ivy
+
+slgtk
+	- tess
+
+gccxml
+	- mono-debugger
+	- ghdl
+	- newlib
+	- gcl
+	- gnat-gps
+	- coreutils
+	- urjtag
+	- binutils
+	- dietlibc
+	- binutils-h8300-hms
+	- sdcc
+	- gnulib
+
+gnulib
+	- nagios-plugins
+	- grub2
+	- libdc0
+	- coreutils
+	- gnupg
+	- amanda
+	- mindi-busybox
+	- gnuit
+	- wine1.2
+
+dancer-services
+	- oftc-hybrid
+	- pork
+	- silc-client
+	- epic4-help
+	- irssi
+	- ircd-hybrid
+	- ircd-ratbox
+	- hybserv
+
+lua5.1
+	- scorched3d
+	- scite
+	- infon
+	- wordgrinder
+	- spring
+	- olsrd
+	- blobby
+	- gltron
+	- tagua
+	- spring-engine
+	- gtk2-engines
+	- zangband
+	- lua-gtk
+	- tome
+	- fceux
+	- ocropus
+	- bam
+	- medit
+	- freedroidrpg
+	- texlive-bin
+	- scratchbox2
+
+clamsmtp
+	- proxsmtp
+
+pure-ftpd
+	- ucarp
+
+boa-constructor
+	- sagcad
+
+gemanx-gtk2
+	- pcmanx-gtk2
+
+autodocktools
+	- mgltools-pmv
+
+libgnu-regexp-java
+	- libreadline-java
+
+mozart
+	- mozart-stdlib
+
+libfs
+	- vnc4
+
+winpdb
+	- spe
+
+faac
+	- mpeg4ip
+
+liblocale-maketext-gettext-perl
+	- liblocale-maketext-lexicon-perl
+
+bumprace
+	- penguin-command
+
+hunspell
+	- goldendict
+	- enchant
+
+gthumb
+	- pornview
+
+highlight
+	- source-highlight
+
+libtzinfo-ruby
+	- redmine
+
+concurrent-dfsg
+	- libproxool-java
+
+arpack
+	- hypre
+	- vxl
+	- insighttoolkit
+	- octave3.0
+	- octave3.2
+	- python-scipy
+	- scilab
+
+ttf-arphic-ukai
+	- ttf-arphic-uming
+
+facter
+	- puppet
+
+conserver
+	- daemon
+
+silgraphite2.0
+	- texlive-bin
+
+gpredict
+	- stellarium
+
+libexosip2
+	- qutecom
+
+qbzr
+	- bzr-explorer
+
+libiodbc2
+	- virtuoso-opensource
+
+littex
+	- texlive-lang
+
+inn
+	- inn2
+	- ifmail
+
+firebug
+	- mahara
+
+file
+	- php5
+
+curl
+	- openarena
+	- criticalmass
+	- cmake
+
+cvsnt
+	- qt4-x11
+	- kde4libs
+	- vtk
+	- apache2
+	- wxwidgets2.8
+	- hypermail
+	- paraview
+	- kompozer
+	- wxwidgets2.6
+
+mdbtools
+	- hk-classes
+
+cream
+	- kicad
+	- vim
+
+hyena
+	- tomboy
+	- banshee
+
+bzip2
+	- kompozer
+	- xmoto
+	- perl
+	- libcompress-raw-bzip2-perl
+	- unalz
+	- gtkwave
+	- mupen64plus
+	- libcompress-bzip2-perl
+	- codeblocks
+	- avfs
+	- analog
+
+cmake
+	- ball
+	- kde4libs
+	- vtk
+	- igstk
+	- wxwidgets2.8
+	- paraview
+	- kompozer
+	- wxwidgets2.6
+
+abuse-frabs
+	- abuse-lib
+
+libparent-perl
+	- perl
+
+libtheschwartz-perl
+	- movabletype-opensource
+
+xpenguins
+	- xpenguins-applet
+
+diveintopython
+	- diveintopython-zh
+
+haskell-haskell-src
+	- hugs98
+
+jocaml
+	- ocaml
+	- coreutils
+	- shishi
+	- libexplain
+	- helium
+	- ksh
+	- gnulib
+
+xnc
+	- vxl
+	- qt4-x11
+	- vnc4
+	- plt-scheme
+	- xloadimage
+	- insighttoolkit
+	- vtk
+	- texlive-bin
+	- wxwidgets2.8
+	- root-system
+	- paraview
+	- gdcm
+	- kompozer
+	- perl-tk
+	- wxwidgets2.6
+
+gtkglext
+	- gtkglextmm
+
+python-numeric
+	- python-numpy
+
+gav
+	- gav-themes
+
+tryton-modules-analytic-sale
+	- tryton-modules-sale-price-list
+
+elementtidy
+	- tidy
+
+keybinder
+	- deskbar-applet
+	- glipper
+
+ykclient
+	- yubikey-personalization
+
+plexus-component-api
+	- plexus-containers
+
+kphone
+	- twinkle
+
+samba4
+	- mc
+
+lzma
+	- p7zip
+	- libphysfs
+	- lrzip
+	- p7zip-rar
+
+libextutils-parsexs-perl
+	- perl
+
+guarddog
+	- guidedog
+
+rubberband
+	- ardour
+
+readline5
+	- mysql-dfsg-5.1
+	- mysql-cluster-7.0
+	- readline6
+
+libtemplate-perl
+	- virtuoso-opensource
+	- perl
+
+libcatalyst-engine-apache-perl
+	- libcatalyst-perl
+
+gobby
+	- sobby
+	- gobby-infinote
+
+ldap-account-manager
+	- phpldapadmin
+	- moodle
+
+libogg
+	- libvorbis
+
+asterisk-prompt-es-co
+	- asterisk-prompt-it
+	- asterisk-prompt-es
+	- asterisk-prompt-fr-armelle
+
+ibus-chewing
+	- ibus-table-array30
+
+libffi
+	- gnu-smalltalk
+	- gauche-c-wrapper
+	- python2.6
+	- plt-scheme
+	- python3.1
+
+lookup-el
+	- xemacs21-packages
+
+lightning
+	- gnu-smalltalk
+	- plt-scheme
+
+trafshow
+	- netdiag
+
+glpk
+	- rglpk
+	- liblip
+
+libccaudio2
+	- libcommoncpp2
+
+teg
+	- xfce4-weather-plugin
+
+bluefish
+	- winefish
+
+linphone
+	- qutecom
+
+wxmaxima
+	- wxwidgets2.8
+
+jbofihe
+	- mairix
+
+libhtml-template-expr-perl
+	- libhtml-template-pro-perl
+
+agg
+	- contextfree
+	- matplotlib
+	- mapserver
+	- python-enable
+	- exactimage
+	- mapnik
+
+python3-defaults
+	- python-defaults
+
+myspell
+	- kompozer
+
+fsl
+	- nifticlib
+	- fslview
+
+fbpanel
+	- lxpanel
+	- trayer
+
+e2fsprogs
+	- krb5
+	- ldiskfsprogs
+
+libmatchbox
+	- matchbox-common
+
+libtmail-ruby
+	- redmine
+
+spandsp
+	- iaxmodem
+	- qutecom
+
+jackeq
+	- jamin
+
+libmasonx-interp-withcallbacks-perl
+	- libparams-callbackrequest-perl
+
+mirrormagic
+	- rocksndiamonds
+
+icewm
+	- kdeartwork
+
+bwidget
+	- amsn
+	- r-cran-amelia
+	- fsl
+	- kwwidgets
+	- scilab
+	- grass
+
+hevea-doc
+	- ocaml-doc
+
+scheme48
+	- scsh-0.6
+
+abuse-sdl
+	- scummvm
