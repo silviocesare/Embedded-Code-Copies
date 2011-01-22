@@ -1,0 +1,14 @@
+A list of Linux packages that embed code from other projects.
+
+Debian already maintained such a list [1], but this work helped improve their coverage.
+Fedora are now incorporating a list on their wiki [2] based on this work.
+
+About 30 security vulnerabilities in Debian and Fedora were found based on this work.
+
+[1] http://svn.debian.org/wsvn/secure-testing/data/embedded-code-copies
+[2] https://fedoraproject.org/wiki/Security/EmbeddedSoftware
+
+--
+Silvio Cesare
+Deakin University
+silvio.cesare _at_ gmail _dot_ com
